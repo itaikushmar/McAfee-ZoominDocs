@@ -285,3 +285,47 @@ UploadLink: Överför publikation
 YesodAuthStormPathSSOErrorOccured: Ett fel inträffade
 YesodAuthStormPathSSOLoginParamError: Ett fel uppstod med SSO-inloggningsparametrarna
 YesodAuthStormPathSSOLoginTryAgain: Försök logga in igen med
+LoginSite: Logga in
+LoginSiteEmail: E-postadress
+LoginSiteForgotPassword: Glömt lösenord
+LoginSiteMessage: Du är nu inloggad
+LoginSiteZD: ZoominDocs Login
+TemplateAdminCategoryfile: Kategori XML-fil
+TemplateAdminCshCurrent: Current CSH regler
+TemplateAdminCshDownload: Hämta aktuell CSH konfigurationsfil
+TemplateAdminCshRuleContents: Artikel Innehåll
+TemplateAdminCshRuleName: Regelnamn
+TemplateAdminCshRulePriority: Regel Prioritet
+TemplateAdminCshUpload: Ladda CSH Config fil
+TemplateAdminCurrentContentRoleGroups: Aktuellt innehåll rollgrupper
+TemplateAdminDownloadDefaultLanguage: Hämta Aktuell Standardspråk Arkiv
+TemplateAdminDownloadcurrentCategory: Hämta nuvarande kategorier XML-fil
+TemplateAdminListGroupCurrentGroups: Aktuellt Grupper
+TemplateAdminListGroupDefineNewGroup: Definiera ny grupp
+TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleCurrentRoles: Aktuellt Roller
+TemplateAdminListRoleDefineNewRole: Definiera ny roll
+TemplateAdminListRoleRolesPublic: Public
+TemplateAdminListRoleViewer: viewer
+TemplateAdminListUsersAction: Action
+TemplateAdminListUsersDeleteUser: Radera användare
+TemplateAdminListUsersEditPermissions: Redigera behörigheter
+TemplateAdminListUsersEmail: E
+TemplateAdminListUsersFullName: Fullständigt namn
+TemplateAdminListUsersResetPassword: Återställ lösenord
+TemplateAdminSubjectSchemeDeleteLanguage: Radera språkfil
+TemplateAdminSubjectSchemeDownload: Hämta
+TemplateAdminSubjectSchemeDownloadLanguage: Hämta språkfil
+TemplateAdminSubjectSchemeExistingLocalizations: Befintliga lokaliseringar
+TemplateAdminSubjectSchemeLanguage: Språk
+TemplateAdminSubjectSchemeLocalizationTitle: Angående Scheme Lokalisering
+TemplateAdminSubjectSchemeUpdate: Uppdatering
+TemplateAdminSubjectSchemeUpdateLanguage: Uppdatera språkfil
+TemplateAdminUploadCategoryfile: Ladda Kategori fil
+TemplateAdminUploadDefaultLanguage: Ladda Standardspråk fil
+TemplateAdminUploadSiteMapFile: Ladda webbplatskartfil
+TemplateSubjectSchemeUpload: Ladda Ämne Scheme
+TemplateSubjectSchemeWarnReindex: OBS: Ladda upp ett nytt ämne systemet kommer att leda till att hela webbplatsen att åter indexeras. Det här kan ta flera minuter.
+TemplatesSubjectSchemeChooseFile: Välj Arkiv (fråga Vlatko, inte i html)
+TemplatesSubjectSchemeDownloadcurrent: Hämta aktuella Ämnes Scheme
+TemplatesSubjectSchemeNoFileChosen: Ingen fil vald

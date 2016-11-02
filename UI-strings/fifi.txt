@@ -285,3 +285,47 @@ UploadLink: Lähetä julkaisu
 YesodAuthStormPathSSOErrorOccured: Virhe
 YesodAuthStormPathSSOLoginParamError: SSO-kirjautumisparametrivirhe
 YesodAuthStormPathSSOLoginTryAgain: Yritä kirjautua uudelleen tunnuksella
+LoginSite: Kirjautuminen
+LoginSiteEmail: Sähköpostiosoite
+LoginSiteForgotPassword: Unohtuiko salasana
+LoginSiteMessage: Olet nyt kirjautunut sisään
+LoginSiteZD: ZoominDocs Tulo
+TemplateAdminCategoryfile: Luokka XML File
+TemplateAdminCshCurrent: Nykyinen CSH Säännöt
+TemplateAdminCshDownload: Lataa nykyinen CSH määritystiedosto
+TemplateAdminCshRuleContents: Sääntö Sisältö
+TemplateAdminCshRuleName: Säännön nimi
+TemplateAdminCshRulePriority: Sääntöprioriteetit
+TemplateAdminCshUpload: Upload CSH Config file
+TemplateAdminCurrentContentRoleGroups: Nykyinen sisältö rooliryhmät
+TemplateAdminDownloadDefaultLanguage: Lataa Nykyinen Oletusarvoinen Language File
+TemplateAdminDownloadcurrentCategory: Lataa nykyinen luokat XML
+TemplateAdminListGroupCurrentGroups: Nykyinen Groups
+TemplateAdminListGroupDefineNewGroup: Määritä Uusi ryhmä
+TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleCurrentRoles: Nykyinen roolit
+TemplateAdminListRoleDefineNewRole: Määritä New Role
+TemplateAdminListRoleRolesPublic: Julkinen
+TemplateAdminListRoleViewer: katsoja
+TemplateAdminListUsersAction: Action
+TemplateAdminListUsersDeleteUser: Poista käyttäjä
+TemplateAdminListUsersEditPermissions: Edit Permissions
+TemplateAdminListUsersEmail: Sähköposti
+TemplateAdminListUsersFullName: Täydellinen nimi
+TemplateAdminListUsersResetPassword: Palauta salasana
+TemplateAdminSubjectSchemeDeleteLanguage: Poista Kieli Tiedoston
+TemplateAdminSubjectSchemeDownload: Lataa
+TemplateAdminSubjectSchemeDownloadLanguage: Lataa Kieli Tiedoston
+TemplateAdminSubjectSchemeExistingLocalizations: Olemassa Paikannuksia
+TemplateAdminSubjectSchemeLanguage: Kieli
+TemplateAdminSubjectSchemeLocalizationTitle: Aihe Scheme Localization
+TemplateAdminSubjectSchemeUpdate: Päivitä
+TemplateAdminSubjectSchemeUpdateLanguage: Päivitä Kieli Tiedoston
+TemplateAdminUploadCategoryfile: Lataa Luokka tiedosto
+TemplateAdminUploadDefaultLanguage: Lataa Oletus Kieli Tiedoston
+TemplateAdminUploadSiteMapFile: Lataa sivustokarttatiedoston
+TemplateSubjectSchemeUpload: Upload Aihe Scheme
+TemplateSubjectSchemeWarnReindex: HUOM: lähettäminen uusi aihe järjestelmä aiheuttaa koko sivuston uudelleen indeksoitu. Tämä voi kestää useita minuutteja.
+TemplatesSubjectSchemeChooseFile: Valitse File (kysy Vlatko, ei html)
+TemplatesSubjectSchemeDownloadcurrent: Lataa nykyinen Aihe Scheme
+TemplatesSubjectSchemeNoFileChosen: Ei valittua tiedostoa

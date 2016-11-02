@@ -285,3 +285,47 @@ UploadLink: Last opp publikasjon
 YesodAuthStormPathSSOErrorOccured: Det oppstod en feil
 YesodAuthStormPathSSOLoginParamError: Det var en feil med parameterne for enkeltpålogging
 YesodAuthStormPathSSOLoginTryAgain: Prøv å logge på med
+Loginsite: Innlogging
+LoginSiteEmail: E-postadresse
+LoginSiteForgotPassword: Glemt passord
+LoginSiteMessage: Du er nå logget inn
+LoginSiteZD: ZoominDocs Pålogging
+TemplateAdminCategoryfile Kategori XML File
+TemplateAdminCshCurrent: Nåværende CSH Regler
+TemplateAdminCshDownload: Last ned dagens CSH konfigurasjonsfil
+TemplateAdminCshRuleContents: Regel Innhold
+TemplateAdminCshRuleName: Regelnavn
+TemplateAdminCshRulePriority: Regel Priority
+TemplateAdminCshUpload: Last opp CSH Config fil
+TemplateAdminCurrentContentRoleGroups: nåværende innhold rollegrupper
+TemplateAdminDownloadDefaultLanguage: Last ned Gjeldende Standard språkfil
+TemplateAdminDownloadcurrentCategory: Last ned dagens kategorier XML-fil
+TemplateAdminListGroupCurrentGroups: Aktuelle grupper
+TemplateAdminListGroupDefineNewGroup: Definer ny gruppe
+TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleCurrentRoles: nåværende roller
+TemplateAdminListRoleDefineNewRole: Definer ny rolle
+TemplateAdminListRoleRolesPublic: Offentlig
+TemplateAdminListRoleViewer: viewer
+TemplateAdminListUsersAction: Handling
+TemplateAdminListUsersDeleteUser: Slett bruker
+TemplateAdminListUsersEditPermissions: Rediger tillatelser
+TemplateAdminListUsersEmail: E-post
+TemplateAdminListUsersFullName: Fullt navn
+TemplateAdminListUsersResetPassword: Tilbakestill passord
+TemplateAdminSubjectSchemeDeleteLanguage: Slett språkfil
+TemplateAdminSubjectSchemeDownload: Last ned
+TemplateAdminSubjectSchemeDownloadLanguage: Last ned språkfil
+TemplateAdminSubjectSchemeExistingLocalizations: Eksisterende lokaliseringer
+TemplateAdminSubjectSchemeLanguage: Språk
+TemplateAdminSubjectSchemeLocalizationTitle: Subject Scheme Lokalisering
+TemplateAdminSubjectSchemeUpdate: Oppdatering
+TemplateAdminSubjectSchemeUpdateLanguage: Oppdatering språkfil
+TemplateAdminUploadCategoryfile: Last opp Kategori fil
+TemplateAdminUploadDefaultLanguage: Last opp Standardspråk File
+TemplateAdminUploadSiteMapFile: Last opp Sitemap-fil
+TemplateSubjectSchemeUpload: Last opp Subject Scheme
+TemplateSubjectSchemeWarnReindex: MERK: Laste opp et nytt fag ordningen vil føre til at hele området for å bli re-indeksert. Dette kan ta flere minutter.
+TemplatesSubjectSchemeChooseFile: Velg File (spør Vlatko, ikke i html)
+TemplatesSubjectSchemeDownloadcurrent: Last ned dagens tema Scheme
+TemplatesSubjectSchemeNoFileChosen: Ingen fil valgt

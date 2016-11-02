@@ -285,3 +285,47 @@ UploadLink: 게시물 업로드
 YesodAuthStormPathSSOErrorOccured: 오류 발생
 YesodAuthStormPathSSOLoginParamError: SSO 로그인 매개 변수에 오류가 있습니다.
 YesodAuthStormPathSSOLoginTryAgain: 다음을 사용하여 다시 로그인하십시오.
+LoginSite : 로그인
+LoginSiteEmail : 이메일 주소
+LoginSiteForgotPassword : 비밀번호를 잊어 버렸
+LoginSiteMessage : 이제 로그인
+LoginSiteZD : ZoominDocs 로그인
+TemplateAdminCategoryfile : 분류 XML 파일
+TemplateAdminCshCurrent : 현재 CSH 규칙
+TemplateAdminCshDownload : 현재 CSH 구성 파일 다운로드
+TemplateAdminCshRuleContents : 규칙 내용
+TemplateAdminCshRuleName : 규칙 이름
+TemplateAdminCshRulePriority : 규칙의 우선 순위
+TemplateAdminCshUpload : 업로드 CSH 구성 파일
+TemplateAdminCurrentContentRoleGroups : 현재 콘텐츠 역할 그룹
+TemplateAdminDownloadDefaultLanguage : 현재 기본 언어 파일 다운로드
+TemplateAdminDownloadcurrentCategory : 현재 카테고리 XML 파일을 다운로드
+TemplateAdminListGroupCurrentGroups : 현재 그룹
+TemplateAdminListGroupDefineNewGroup : 새로운 그룹을 정의
+TemplateAdminListRoleAdmin : 관리자
+TemplateAdminListRoleCurrentRoles : 현재 역할
+TemplateAdminListRoleDefineNewRole : 새 역할을 정의
+TemplateAdminListRoleRolesPublic : 공중
+TemplateAdminListRoleViewer : 뷰어
+TemplateAdminListUsersAction : 액션
+TemplateAdminListUsersDeleteUser : 사용자 삭제
+TemplateAdminListUsersEditPermissions : 편집 권한
+TemplateAdminListUsersEmail : 이메일
+TemplateAdminListUsersFullName : 전체 이름
+TemplateAdminListUsersResetPassword : 암호 재설정
+TemplateAdminSubjectSchemeDeleteLanguage : 언어 파일 삭제
+TemplateAdminSubjectSchemeDownload : 다운로드
+TemplateAdminSubjectSchemeDownloadLanguage : 다운로드 언어 파일
+TemplateAdminSubjectSchemeExistingLocalizations : 기존 현지화
+TemplateAdminSubjectSchemeLanguage : 언어
+TemplateAdminSubjectSchemeLocalizationTitle : 제목 계획의 현지화
+TemplateAdminSubjectSchemeUpdate : 업데이트
+TemplateAdminSubjectSchemeUpdateLanguage : 업데이트 언어 파일
+TemplateAdminUploadCategoryfile : 업로드 종류의 파일
+TemplateAdminUploadDefaultLanguage : 업로드 기본 언어 파일
+TemplateAdminUploadSiteMapFile : 업로드 사이트 맵 파일
+TemplateSubjectSchemeUpload : 업로드 주제 제도
+TemplateSubjectSchemeWarnReindex 참고 : 새로운 주제 방식을 업로드하면 전체 사이트를 다시 색인하게됩니다. 이 작업은 몇 분 정도 걸릴 수 있습니다.
+TemplatesSubjectSchemeChooseFile : 파일을 선택합니다 (하지 HTML에서, Vlatko 문의)
+TemplatesSubjectSchemeDownloadcurrent : 현재 제목 계획 다운로드
+TemplatesSubjectSchemeNoFileChosen : 없음 파일을 선택하지

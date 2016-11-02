@@ -285,3 +285,47 @@ UploadLink: Publikation hochladen
 YesodAuthStormPathSSOErrorOccured: Es ist ein Fehler aufgetreten.
 YesodAuthStormPathSSOLoginParamError: Bei den SSO-Anmeldeparametern ist ein Fehler aufgetreten.
 YesodAuthStormPathSSOLoginTryAgain: Versuchen Sie, sich erneut einzuloggen mit
+LoginSeite: Login
+LoginSiteEmail: E-Mail-Adresse
+LoginSiteForgotPassword: Passwort vergessen
+LoginSiteMessage: Sie sind jetzt eingeloggt
+LoginSiteZD: ZoominDocs Anmeldung
+TemplateAdminCategoryfile: Kategorie XML-Datei
+TemplateAdminCshCurrent: Aktuelle CSH-Regeln
+TemplateAdminCshDownload: Laden Sie die aktuelle CSH-Konfigurationsdatei herunter
+TemplateAdminCshRuleContents: Regelinhalt
+TemplateAdminCshRuleName: Regelname
+TemplateAdminCshRulePriority: Regelpriorität
+TemplateAdminCshUpload: CSH-Konfigurationsdatei hochladen
+TemplateAdminCurrentContentRoleGroups: Aktuelle Inhalt Rollengruppen
+TemplateAdminDownloadDefaultLanguage: Laden Sie die aktuelle Standarddatei herunter
+TemplateAdminDownloadcurrentCategory: Laden Sie die aktuelle XML-XML-Datei herunter
+TemplateAdminListGroupCurrentGroups: Aktuelle Gruppen
+TemplateAdminListGroupDefineNewGroup: Neue Gruppe definieren
+TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleCurrentRoles: Aktuelle Rollen
+TemplateAdminListRoleDefineNewRole: Neue Rolle definieren
+TemplateAdminListRoleRolesPublic: Öffentlich
+TemplateAdminListRoleViewer: Betrachter
+TemplateAdminListUsersAction: Aktion
+TemplateAdminListUsersDeleteUser: Benutzer löschen
+TemplateAdminListUsersEditPermissions: Berechtigungen bearbeiten
+TemplateAdminListUsersEmail: E-Mail
+TemplateAdminListUsersFullName: Vollständiger Name
+TemplateAdminListUsersResetPassword: Kennwort zurücksetzen
+TemplateAdminSubjectSchemeDeleteLanguage: Sprachdatei löschen
+TemplateAdminSubjectSchemeDownload: Herunterladen
+TemplateAdminSubjectSchemeDownloadLanguage: Herunterladen der Sprachdatei
+TemplateAdminSubjectSchemeExistingLocalizations: Vorhandene Lokalisierungen
+TemplateAdminSubjectSchemeLanguage: Sprache
+TemplateAdminSubjectSchemeLocalizationTitle: Subject Scheme Lokalisierung
+TemplateAdminSubjectSchemeUpdate: Update
+TemplateAdminSubjectSchemeUpdateLanguage: Aktualisieren der Sprachdatei
+TemplateAdminUploadCategoryfile: Upload Kategorie Datei
+TemplateAdminUploadDefaultLanguage: Standard-Sprachdatei hochladen
+TemplateAdminUploadSiteMapFile: Sitemap-Datei hochladen
+TemplateSubjectSchemeUpload: Upload Subject Scheme
+TemplateSubjectSchemeWarnReindex: Hinweis: Beim Hochladen eines neuen Betreff-Schemas wird die gesamte Website neu indiziert. Das kann mehrere Minuten dauern.
+TemplatesSubjectSchemeChooseFile: Wählen Sie Datei (fragen Sie Vlatko, nicht in html)
+TemplatesSubjectSchemeDownloadcurrent: Laden Sie die aktuelle Subject Scheme
+TemplatesSubjectSchemeNoFileChosen: Keine Datei ausgewählt

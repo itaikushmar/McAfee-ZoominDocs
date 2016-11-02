@@ -285,3 +285,47 @@ UploadLink: Overfør publikation
 YesodAuthStormPathSSOErrorOccured: Der opstod en fejl
 YesodAuthStormPathSSOLoginParamError: Der var en fejl i forbindelse med SSO-loginparametrene
 YesodAuthStormPathSSOLoginTryAgain: Prøve at logge ind igen med
+LoginSite: Login
+LoginSiteEmail: E-mail-adresse
+LoginSiteForgotPassword: Glemt kodeord
+LoginSiteMessage: Du er nu logget ind
+LoginSiteZD: ZoominDocs Login
+TemplateAdminCategoryfile: Kategori XML File
+TemplateAdminCshCurrent: Aktuel CSH Regler
+TemplateAdminCshDownload: Hent aktuel CSH konfigurationsfil
+TemplateAdminCshRuleContents: Regel Indhold
+TemplateAdminCshRuleName: Regel Navn
+TemplateAdminCshRulePriority: Regel Prioritet
+TemplateAdminCshUpload: Upload CSH Config fil
+TemplateAdminCurrentContentRoleGroups: nuværende indhold rollegrupper
+TemplateAdminDownloadDefaultLanguage: Hent Aktuel Standard Sprog fil
+TemplateAdminDownloadcurrentCategory: Hent nuværende kategorier XML-fil
+TemplateAdminListGroupCurrentGroups: Aktuelle Grupper
+TemplateAdminListGroupDefineNewGroup: Definer ny Group
+TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleCurrentRoles: Aktuelle Roller
+TemplateAdminListRoleDefineNewRole: Definer ny Rolle
+TemplateAdminListRoleRolesPublic: Offentlig
+TemplateAdminListRoleViewer: viewer
+TemplateAdminListUsersAction: Action
+TemplateAdminListUsersDeleteUser: Slet bruger
+TemplateAdminListUsersEditPermissions: Rediger tilladelser
+TemplateAdminListUsersEmail: E-mail
+TemplateAdminListUsersFullName: Fulde navn
+TemplateAdminListUsersResetPassword: Nulstil adgangskode
+TemplateAdminSubjectSchemeDeleteLanguage: Slet sprog fil
+TemplateAdminSubjectSchemeDownload: Download
+TemplateAdminSubjectSchemeDownloadLanguage: Download Sprog fil
+TemplateAdminSubjectSchemeExistingLocalizations: Eksisterende Lokaliseringer
+TemplateAdminSubjectSchemeLanguage: Sprog
+TemplateAdminSubjectSchemeLocalizationTitle: Emne Scheme Lokalisering
+TemplateAdminSubjectSchemeUpdate: Opdatering
+TemplateAdminSubjectSchemeUpdateLanguage: Opdatering Sprog Fil
+TemplateAdminUploadCategoryfile: Upload Kategori fil
+TemplateAdminUploadDefaultLanguage: Upload Standardsprog fil
+TemplateAdminUploadSiteMapFile: Upload Sitemap fil
+TemplateSubjectSchemeUpload: Upload Emne Scheme
+TemplateSubjectSchemeWarnReindex: BEMÆRK: Upload et nyt emne ordning vil medføre, at hele websted skal re-indekseret. Dette kan tage flere minutter.
+TemplatesSubjectSchemeChooseFile: Vælg Filer (Spørg Vlatko, ikke i html)
+TemplatesSubjectSchemeDownloadcurrent: Hent aktuel Emne Scheme
+TemplatesSubjectSchemeNoFileChosen: Ingen fil valgt

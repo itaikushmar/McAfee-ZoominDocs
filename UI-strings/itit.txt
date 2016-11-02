@@ -285,3 +285,47 @@ UploadLink: Carica pubblicazione
 YesodAuthStormPathSSOErrorOccured: Si è verificato un errore
 YesodAuthStormPathSSOLoginParamError: Si è verificato un errore con i parametri di accesso SSO
 YesodAuthStormPathSSOLoginTryAgain: Prova effettuare di nuovo l'accesso con
+LoginSite: Accesso
+LoginSiteEmail: Indirizzo e-mail
+LoginSiteForgotPassword dimenticata
+LoginSiteMessage: Si è ora collegato
+LoginSiteZD: ZoominDocs Accesso
+TemplateAdminCategoryfile: categoria di file XML
+TemplateAdminCshCurrent: regole attuali CSH
+TemplateAdminCshDownload: Scaricare File di configurazione corrente CSH
+TemplateAdminCshRuleContents: Contents Rule
+TemplateAdminCshRuleName: Nome regola
+TemplateAdminCshRulePriority: Priorità regola
+File Upload CSH Config: TemplateAdminCshUpload
+TemplateAdminCurrentContentRoleGroups: attuali gruppi di ruoli di contenuti
+TemplateAdminDownloadDefaultLanguage: Scarica attuale file predefinito Lingua
+TemplateAdminDownloadcurrentCategory: Scarica categorie attuali file XML
+TemplateAdminListGroupCurrentGroups: Gruppi attuali
+TemplateAdminListGroupDefineNewGroup: Definisci nuovo gruppo
+TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleCurrentRoles: Ruoli correnti
+TemplateAdminListRoleDefineNewRole: Definire nuovo ruolo
+TemplateAdminListRoleRolesPublic: Pubblico
+TemplateAdminListRoleViewer: viewer
+TemplateAdminListUsersAction: Azione
+TemplateAdminListUsersDeleteUser: Elimina utente
+TemplateAdminListUsersEditPermissions: Modifica autorizzazioni
+TemplateAdminListUsersEmail: Email
+TemplateAdminListUsersFullName: Nome completo
+TemplateAdminListUsersResetPassword: reset password
+TemplateAdminSubjectSchemeDeleteLanguage: Elimina file Lingua
+TemplateAdminSubjectSchemeDownload: Scaricare
+TemplateAdminSubjectSchemeDownloadLanguage: Download del file Lingua
+TemplateAdminSubjectSchemeExistingLocalizations: Localizzazioni esistenti
+TemplateAdminSubjectSchemeLanguage: Lingua
+TemplateAdminSubjectSchemeLocalizationTitle: Localizzazione Soggetto Scheme
+TemplateAdminSubjectSchemeUpdate: Aggiornamento
+TemplateAdminSubjectSchemeUpdateLanguage: file di aggiornamento Lingua
+TemplateAdminUploadCategoryfile: Carica file di Categoria
+TemplateAdminUploadDefaultLanguage: Carica file Lingua
+Upload di file Sitemap: TemplateAdminUploadSiteMapFile
+TemplateSubjectSchemeUpload: Carica Soggetto Scheme
+TemplateSubjectSchemeWarnReindex: NOTA: Il caricamento di un nuovo schema di soggetto farà sì che l'intero sito per essere ri-indicizzato. Questo potrebbe richiedere vari minuti.
+TemplatesSubjectSchemeChooseFile: Scegliere File (chiedere Vlatko, non in html)
+TemplatesSubjectSchemeDownloadcurrent: Scarica corrente Schema Soggetto
+TemplatesSubjectSchemeNoFileChosen: Nessun file scelto

@@ -285,3 +285,47 @@ UploadLink: Отправить публикацию
 YesodAuthStormPathSSOErrorOccured: Возникла ошибка
 YesodAuthStormPathSSOLoginParamError: Возникла ошибка, связанная с параметрами входа SSO
 YesodAuthStormPathSSOLoginTryAgain: Повторите попытку входа с
+LoginSite: Войти
+LoginSiteEmail: Адрес электронной почты
+LoginSiteForgotPassword: Забыли пароль
+LoginSiteMessage: Вы вошли в систему
+LoginSiteZD: ZoominDocs Войти
+TemplateAdminCategoryfile: Категория XML-файла
+TemplateAdminCshCurrent: Current CSH Правила
+TemplateAdminCshDownload: Загрузить текущую CSH файла конфигурации
+TemplateAdminCshRuleContents: Правило Содержание
+TemplateAdminCshRuleName: Имя правила
+TemplateAdminCshRulePriority: Правило приоритета
+TemplateAdminCshUpload: Загрузить CSH Config файл
+TemplateAdminCurrentContentRoleGroups: текущее содержимое групп ролей
+TemplateAdminDownloadDefaultLanguage: Скачать Текущая Язык по умолчанию файл
+TemplateAdminDownloadcurrentCategory: Загрузить текущие категории XML-файл
+TemplateAdminListGroupCurrentGroups: Текущие группы
+TemplateAdminListGroupDefineNewGroup: Определить новую группу
+TemplateAdminListRoleAdmin: администратор
+TemplateAdminListRoleCurrentRoles: Текущие Роли
+TemplateAdminListRoleDefineNewRole: Определить новую роль
+TemplateAdminListRoleRolesPublic: Общественный
+TemplateAdminListRoleViewer: зритель
+TemplateAdminListUsersAction: Действие
+TemplateAdminListUsersDeleteUser: Удалить пользователя
+TemplateAdminListUsersEditPermissions: Изменить Разрешения
+TemplateAdminListUsersEmail: Email
+TemplateAdminListUsersFullName: Полное фирменное наименование
+TemplateAdminListUsersResetPassword: Сброс пароля
+TemplateAdminSubjectSchemeDeleteLanguage: Удалить файл языка
+TemplateAdminSubjectSchemeDownload: Скачать
+TemplateAdminSubjectSchemeDownloadLanguage: Скачать Язык файла
+TemplateAdminSubjectSchemeExistingLocalizations: Существующие Локализации
+TemplateAdminSubjectSchemeLanguage: Язык
+TemplateAdminSubjectSchemeLocalizationTitle: Тема Схема локализации
+TemplateAdminSubjectSchemeUpdate: Обновление
+TemplateAdminSubjectSchemeUpdateLanguage: Обновление языкового файла
+TemplateAdminUploadCategoryfile: Загрузить файл Категория
+TemplateAdminUploadDefaultLanguage: Загрузить Язык по умолчанию файла
+TemplateAdminUploadSiteMapFile: Загрузить файл Sitemap
+TemplateSubjectSchemeUpload: Загрузить Тема Схема
+TemplateSubjectSchemeWarnReindex: ПРИМЕЧАНИЕ: При загрузке новой схемы объекта будет вызывать весь сайт будет повторно индексироваться. Это займет несколько минут.
+TemplatesSubjectSchemeChooseFile: Выберите Файл (спросите Vlatko, а не в формате HTML)
+TemplatesSubjectSchemeDownloadcurrent: Загрузить текущую схему Тема
+TemplatesSubjectSchemeNoFileChosen: Файл не выбран

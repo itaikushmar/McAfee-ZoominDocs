@@ -285,3 +285,47 @@ UploadLink: Carregar publicação
 YesodAuthStormPathSSOErrorOccured: Ocorreu um erro
 YesodAuthStormPathSSOLoginParamError: Ocorreu um erro com os parâmetros de início de sessão SSO
 YesodAuthStormPathSSOLoginTryAgain: Experimente iniciar sessão novamente com
+LoginSite: Login
+LoginSiteEmail: Endereço de e-mail
+LoginSiteForgotPassword: Esqueceu a senha?
+LoginSiteMessage: Você está agora logado
+LoginSiteZD: ZoominDocs Entrar
+TemplateAdminCategoryfile: Arquivo XML de categoria
+TemplateAdminCshCurrent: Regras atuais do CSH
+TemplateAdminCshDownload: Baixar o arquivo de configuração CSH atual
+TemplateAdminCshRuleContents: Conteúdo da regra
+TemplateAdminCshRuleName: Nome da regra
+TemplateAdminCshRulePriority: Prioridade de regra
+TemplateAdminCshUpload: Carregue o arquivo CSH Config
+TemplateAdminCurrentContentRoleGroups: grupos de função de conteúdo atual
+TemplateAdminDownloadDefaultLanguage: Download do arquivo de idioma padrão atual
+TemplateAdminDownloadcurrentCategory: Download de categorias atuais arquivo XML
+TemplateAdminListGroupCurrentGroups: Grupos atuais
+TemplateAdminListGroupDefineNewGroup: Definir novo grupo
+TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleCurrentRoles: Funções atuais
+TemplateAdminListRoleDefineNewRole: Definir nova função
+TemplateAdminListRoleRolesPublic: Public
+TemplateAdminListRoleViewer: visualizador
+TemplateAdminListUsersAction: Action
+TemplateAdminListUsersDeleteUser: Excluir usuário
+TemplateAdminListUsersEditPermissions: Editar permissões
+TemplateAdminListUsersEmail: Email
+TemplateAdminListUsersFullName: Nome completo
+TemplateAdminListUsersResetPassword: Redefinir Senha
+TemplateAdminSubjectSchemeDeleteLanguage: Excluir arquivo de idioma
+TemplateAdminSubjectSchemeDownload: Download
+TemplateAdminSubjectSchemeDownloadLanguage: Baixar arquivo de idioma
+TemplateAdminSubjectSchemeExistingLocalizations: Localizações existentes
+TemplateAdminSubjectSchemeLanguage: Idioma
+TemplateAdminSubjectSchemeLocalizationTitle: Assunto Localização do esquema
+TemplateAdminSubjectSchemeUpdate: Atualização
+TemplateAdminSubjectSchemeUpdateLanguage: Atualizar arquivo de linguagem
+TemplateAdminUploadCategoryfile: Carregar arquivo de categoria
+TemplateAdminUploadDefaultLanguage: Carregar Arquivo de Idioma Padrão
+TemplateAdminUploadSiteMapFile: Carregar arquivo de sitemap
+TemplateSubjectSchemeUpload: Submeter esquema de assunto
+TemplateSubjectSchemeWarnReindex: Observação: carregar um novo esquema de assunto fará com que o site inteiro seja re-indexado. Isso pode levar vários minutos.
+TemplatesSubjectSchemeChooseFile: Escolha Arquivo (pergunte Vlatko, não em html)
+TemplatesSubjectSchemeDownloadcurrent: Fazer o download do esquema de assunto atual
+TemplatesSubjectSchemeNoFileChosen: Nenhum arquivo escolhido

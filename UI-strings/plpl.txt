@@ -285,3 +285,47 @@ UploadLink: Prześlij publikację
 YesodAuthStormPathSSOErrorOccured: Wystąpił błąd
 YesodAuthStormPathSSOLoginParamError: Wystąpił błąd z parametrami logowania SSO
 YesodAuthStormPathSSOLoginTryAgain: Spróbuj zalogować się ponownie za pomocą
+LoginSite: Zaloguj
+LoginSiteEmail: Adres email
+LoginSiteForgotPassword: Zapomniane hasło
+LoginSiteMessage: jesteś teraz zalogowany
+LoginSiteZD: ZoominDocs Logowanie
+TemplateAdminCategoryfile: Kategoria XML File
+TemplateAdminCshCurrent: Aktualny CSH Zasady
+TemplateAdminCshDownload: Pobierz aktualny CSH pliku konfiguracyjnego
+TemplateAdminCshRuleContents: Zasada ogólna
+TemplateAdminCshRuleName: Nazwa reguły
+TemplateAdminCshRulePriority: zasady pierwszeństwa
+Prześlij plik CSH Config: TemplateAdminCshUpload
+TemplateAdminCurrentContentRoleGroups: Spis treści Rola Grupy
+TemplateAdminDownloadDefaultLanguage: Pobierz plik Obecny domyślny język
+TemplateAdminDownloadcurrentCategory: Pobierz plik XML dotychczasowych kategorii
+TemplateAdminListGroupCurrentGroups: Aktualne Grupy
+TemplateAdminListGroupDefineNewGroup: Zdefiniuj nową grupę
+TemplateAdminListRoleAdmin: Admin
+TemplateAdminListRoleCurrentRoles: Aktualne Role
+TemplateAdminListRoleDefineNewRole: Definiowanie nowej roli
+TemplateAdminListRoleRolesPublic: Publiczny
+TemplateAdminListRoleViewer: widz
+TemplateAdminListUsersAction: Akcja
+TemplateAdminListUsersDeleteUser: Usuń użytkownika
+TemplateAdminListUsersEditPermissions: Edytuj uprawnienia
+TemplateAdminListUsersEmail: Email
+TemplateAdminListUsersFullName: Pełna nazwa
+TemplateAdminListUsersResetPassword: Resetowanie hasła
+TemplateAdminSubjectSchemeDeleteLanguage: Usuwanie Język Plik
+TemplateAdminSubjectSchemeDownload: Pobierz
+TemplateAdminSubjectSchemeDownloadLanguage: Pobierz Język pliku
+TemplateAdminSubjectSchemeExistingLocalizations: Istniejące Localizations
+TemplateAdminSubjectSchemeLanguage: Język
+TemplateAdminSubjectSchemeLocalizationTitle: Temat Schemat Localization
+TemplateAdminSubjectSchemeUpdate: Aktualizacja
+TemplateAdminSubjectSchemeUpdateLanguage: Aktualizacja Język pliku
+TemplateAdminUploadCategoryfile: Prześlij plik Kategoria
+TemplateAdminUploadDefaultLanguage: Prześlij Domyślny Język pliku
+TemplateAdminUploadSiteMapFile: Prześlij plik Sitemap
+TemplateSubjectSchemeUpload: Upload Temat Schemat
+TemplateSubjectSchemeWarnReindex: UWAGA: Przekazywanie nowy schemat tematu spowoduje, że cała witryna zostać ponownie indeksowane. To może zająć kilka minut.
+TemplatesSubjectSchemeChooseFile: Wybierz plik (zapytać vlatko, a nie w HTML)
+TemplatesSubjectSchemeDownloadcurrent: Pobierz bieżący schemat tematyczny
+TemplatesSubjectSchemeNoFileChosen: Nie wybrano pliku

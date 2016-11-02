@@ -285,3 +285,47 @@ UploadLink: Yayını yükle
 YesodAuthStormPathSSOErrorOccured: Bir hata oluştu
 YesodAuthStormPathSSOLoginParamError: SSO oturum açma parametrelerinde hata oluştu
 YesodAuthStormPathSSOLoginTryAgain: Şununla yeniden oturum açmayı deneyin:
+LoginSite: Üye Girişi
+LoginSiteEmail: E-posta adresi
+LoginSiteForgotPassword: Şifremi Unuttum
+LoginSiteMessage: Artık kaydediliyor
+LoginSiteZD: ZoominDocs Girişi
+TemplateAdminCategoryfile: Kategori XML Dosyası
+TemplateAdminCshCurrent: Cari CSH Kuralları
+TemplateAdminCshDownload: Mevcut CSH Yapılandırma Dosyası İndir
+TemplateAdminCshRuleContents: Kural İçindekiler
+TemplateAdminCshRuleName: Kural Adı
+TemplateAdminCshRulePriority: Kural Önceliği
+TemplateAdminCshUpload: Yükleme CSH Yapılandırma dosyası
+TemplateAdminCurrentContentRoleGroups: Güncel İçerik Rol Grupları
+TemplateAdminDownloadDefaultLanguage: Şu Varsayılan Dil Dosyası İndir
+TemplateAdminDownloadcurrentCategory: Mevcut kategoriler XML dosyasını indirin
+TemplateAdminListGroupCurrentGroups: Cari Grupları
+TemplateAdminListGroupDefineNewGroup: Yeni Grup'u tanımla
+TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleCurrentRoles: Güncel Rolleri
+TemplateAdminListRoleDefineNewRole: Yeni Rolü tanımla
+TemplateAdminListRoleRolesPublic: Kamu
+TemplateAdminListRoleViewer: izleyici
+TemplateAdminListUsersAction: Aksiyon
+TemplateAdminListUsersDeleteUser: Kullanıcıyı Sil
+TemplateAdminListUsersEditPermissions: Düzenleme İzinleri
+TemplateAdminListUsersEmail: E-Posta
+TemplateAdminListUsersFullName: Tam adı
+TemplateAdminListUsersResetPassword: Parola Sıfırlama
+TemplateAdminSubjectSchemeDeleteLanguage: Dil Dosyayı Sil
+TemplateAdminSubjectSchemeDownload: İndir
+TemplateAdminSubjectSchemeDownloadLanguage: Download Dil Dosya
+TemplateAdminSubjectSchemeExistingLocalizations: Mevcut Yerleşimleri
+TemplateAdminSubjectSchemeLanguage: Dil
+TemplateAdminSubjectSchemeLocalizationTitle: Konu Şeması Yerelleştirme
+TemplateAdminSubjectSchemeUpdate: Güncelleme
+TemplateAdminSubjectSchemeUpdateLanguage: Güncelleme Dil Dosya
+TemplateAdminUploadCategoryfile: Yükle Kategori dosyası
+TemplateAdminUploadDefaultLanguage: Yükleme Varsayılan Dil Dosyası
+TemplateAdminUploadSiteMapFile: Yükleme Site Haritası Dosyası
+TemplateSubjectSchemeUpload: Yükleme Konu Şeması
+TemplateSubjectSchemeWarnReindex: NOT: Yeni bir konu düzeni yükleniyor tüm site yeniden dizine neden olur. Bu bir kaç dakika sürebilir.
+TemplatesSubjectSchemeChooseFile: Dosya Seç (değil html, Vlatko sor)
+TemplatesSubjectSchemeDownloadcurrent: Geçerli Konu Düzeni indirin
+TemplatesSubjectSchemeNoFileChosen: Hiçbir dosya seçilmiş

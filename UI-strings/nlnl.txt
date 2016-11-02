@@ -285,3 +285,47 @@ UploadLink: Publicatie uploaden
 YesodAuthStormPathSSOErrorOccured: Er is een fout opgetreden
 YesodAuthStormPathSSOLoginParamError: Er is een fout opgetreden bij de SSO-aanmeldingsparameters
 YesodAuthStormPathSSOLoginTryAgain: Probeer u opnieuw aan te melden met
+LoginSite: Inloggen
+LoginSiteEmail: E-mailadres
+LoginSiteForgotPassword: Wachtwoord vergeten
+LoginSiteMessage: U bent nu aangemeld in
+LoginSiteZD: ZoominDocs Inloggen
+TemplateAdminCategoryfile: Categorie XML File
+TemplateAdminCshCurrent: Actueel CSH Rules
+TemplateAdminCshDownload: Download huidige CSH configuratiebestand
+TemplateAdminCshRuleContents: Contents Rule
+TemplateAdminCshRuleName: Regelnaam
+TemplateAdminCshRulePriority: Regel Priority
+TemplateAdminCshUpload: Upload CSH Config file
+TemplateAdminCurrentContentRoleGroups: Actueel Content Rol Groepen
+TemplateAdminDownloadDefaultLanguage: Download Huidige Standaard Taal File
+TemplateAdminDownloadcurrentCategory: Download huidige categorieën XML-bestand
+TemplateAdminListGroupCurrentGroups: Actueel Groepen
+TemplateAdminListGroupDefineNewGroup: Nieuwe definiëren Group
+TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleCurrentRoles: Actueel Rollen
+TemplateAdminListRoleDefineNewRole: Nieuwe definiëren Role
+TemplateAdminListRoleRolesPublic: Public
+TemplateAdminListRoleViewer: viewer
+TemplateAdminListUsersAction: Actie
+TemplateAdminListUsersDeleteUser: User Delete
+TemplateAdminListUsersEditPermissions: Machtigingen Bewerken
+TemplateAdminListUsersEmail: E-mail
+TemplateAdminListUsersFullName: Volledige Naam
+TemplateAdminListUsersResetPassword: Reset Password
+TemplateAdminSubjectSchemeDeleteLanguage: Taal verwijderen File
+TemplateAdminSubjectSchemeDownload: Download
+TemplateAdminSubjectSchemeDownloadLanguage: Download Taal File
+TemplateAdminSubjectSchemeExistingLocalizations: Bestaande Lokalisaties
+TemplateAdminSubjectSchemeLanguage: Taal
+TemplateAdminSubjectSchemeLocalizationTitle: Subject Scheme Localization
+TemplateAdminSubjectSchemeUpdate: update
+TemplateAdminSubjectSchemeUpdateLanguage: update Taal File
+TemplateAdminUploadCategoryfile: Upload Categorie file
+TemplateAdminUploadDefaultLanguage: Upload Standaard Taal File
+TemplateAdminUploadSiteMapFile: Upload Sitemap File
+TemplateSubjectSchemeUpload: Upload Onderwerp Scheme
+TemplateSubjectSchemeWarnReindex: LET OP: Het uploaden van een nieuw onderwerp regeling zorgt ervoor dat de hele site opnieuw worden geïndexeerd. Dit kan enkele minuten duren.
+TemplatesSubjectSchemeChooseFile: Kies File (vraag Vlatko, niet in html)
+TemplatesSubjectSchemeDownloadcurrent: Download huidige Subject Scheme
+TemplatesSubjectSchemeNoFileChosen: Geen bestand gekozen

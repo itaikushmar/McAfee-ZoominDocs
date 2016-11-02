@@ -285,3 +285,47 @@ UploadLink: Charger une publication
 YesodAuthStormPathSSOErrorOccured: Une erreur s'est produite
 YesodAuthStormPathSSOLoginParamError: Les paramètres de connexion SSO sont incorrects
 YesodAuthStormPathSSOLoginTryAgain: Essayez de vous reconnecter avec
+LoginSite: Connexion
+LoginSiteEmail: Adresse e-mail
+LoginSiteForgotPassword: Mot de passe oublié
+LoginSiteMessage: Vous êtes maintenant connecté
+LoginSiteZD: ZoominDocs Connexion
+TemplateAdminCategoryfile: Fichier XML de la catégorie
+TemplateAdminCshCurrent: Règles CSH actuelles
+TemplateAdminCshDownload: Télécharger le fichier de configuration CSH actuel
+TemplateAdminCshRuleContents: Contenu des règles
+TemplateAdminCshRuleName: Nom de la règle
+TemplateAdminCshRulePriority: Priorité à la règle
+TemplateAdminCshUpload: Téléchargement du fichier CSH Config
+TemplateAdminCurrentContentRoleGroups: Groupes de rôles actuels du contenu
+TemplateAdminDownloadDefaultLanguage: Télécharger le fichier de langue par défaut actuel
+TemplateAdminDownloadcurrentCategory: Télécharger les catégories actuelles Fichier XML
+TemplateAdminListGroupCurrentGroups: Groupes actuels
+TemplateAdminListGroupDefineNewGroup: Définir un nouveau groupe
+TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleCurrentRoles: Rôles actuels
+TemplateAdminListRoleDefineNewRole: Définir un nouveau rôle
+TemplateAdminListRoleRolesPublic: Public
+TemplateAdminListRoleViewer: visionneuse
+TemplateAdminListUsersAction: Action
+TemplateAdminListUsersDeleteUser: Supprimer l'utilisateur
+TemplateAdminListUsersEditPermissions: Modifier les autorisations
+TemplateAdminListUsersEmail: Email
+TemplateAdminListUsersFullName: Nom complet
+TemplateAdminListUsersResetPassword: Réinitialiser le mot de passe
+TemplateAdminSubjectSchemeDeleteLanguage: Supprimer le fichier de langue
+TemplateAdminSubjectSchemeDownload: Télécharger
+TemplateAdminSubjectSchemeDownloadLanguage: Télécharger le fichier de langue
+TemplateAdminSubjectSchemeExistingLocalizations: localisations existantes
+TemplateAdminSubjectSchemeLanguage: Langue
+TemplateAdminSubjectSchemeLocalizationTitle: Objet Localisation du schéma
+TemplateAdminSubjectSchemeUpdate: Mise à jour
+TemplateAdminSubjectSchemeUpdateLanguage: Mettre à jour le fichier linguistique
+TemplateAdminUploadCategoryfile: Télécharger le fichier de catégorie
+TemplateAdminUploadDefaultLanguage: Importer le fichier de langue par défaut
+TemplateAdminUploadSiteMapFile: Télécharger le fichier de sitemap
+TemplateSubjectSchemeUpload: Soumettre le schéma du sujet
+TemplateSubjectSchemeWarnReindex: REMARQUE: le téléchargement d'un nouveau schéma d'objet entraînera la réindexation du site entier. Cela peut prendre plusieurs minutes.
+TemplatesSubjectSchemeChooseFile: Choisissez Fichier (demandez Vlatko, pas en html)
+TemplatesSubjectSchemeDownloadcurrent: Télécharger le schéma actuel du sujet
+TemplatesSubjectSchemeNoFileChosen: Aucun fichier choisi
