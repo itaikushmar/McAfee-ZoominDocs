@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme
+  PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "map.dtd">
+<subjectScheme>
+   <subjectHead id="product-head" navtitle="Product">
+      <subjectdef keys="prod-client-proxy" navtitle="Client Proxy">
+         <subjectdef keys="prod-client-proxy-v2-2-0" navtitle="2.2.0"/>
+      </subjectdef>
+      <subjectdef keys="prod-data-exchange-layer" navtitle="Data Exchange Layer">
+         <subjectdef keys="prod-data-exchange-layer-v3-0-0" navtitle="3.0.0"/>
+      </subjectdef>
+      <subjectdef keys="prod-enterprise-security-manager" navtitle="Enterprise Security Manager">
+         <subjectdef keys="prod-enterprise-security-manager-v9-6-0" navtitle="9.6.0"/>
+      </subjectdef>
+      <subjectdef keys="prod-epo-cloud" navtitle="ePolicy Orchestrator Cloud"/>
+      <subjectdef keys="prod-file-removable-media" navtitle="File and Removable Media Protection">
+         <subjectdef keys="prod-file-removable-media-v5-0-2" navtitle="5.0.2"/>
+      </subjectdef>
+      <subjectdef keys="prod-web-gateway" navtitle="Web Gateway">
+         <subjectdef keys="prod-web-gateway-v7-7-0" navtitle="7.7.0"/>
+      </subjectdef>
+   </subjectHead>
+   <subjectHead id="cat-head" navtitle="Category">
+      <subjectdef keys="cat-hardware" navtitle="Hardware"/>
+      <subjectdef keys="cat-installation" navtitle="Installation and Getting Started"/>
+      <subjectdef keys="cat-migration" navtitle="Migration"/>
+      <subjectdef keys="cat-product" navtitle="Product Usage"/>
+      <subjectdef keys="cat-reference" navtitle="Reference"/>
+      <subjectdef keys="cat-release-notes" navtitle="Release Notes"/>
+   </subjectHead>
+   <subjectHead id="plat-head" navtitle="Management Platform" outputclass="refine-search">
+      <subjectdef keys="plat-epo" navtitle="ePolicy Orchestrator">
+         <subjectdef keys="plat-epo-v5-3-0" navtitle="5.3.0"/>
+         <subjectdef keys="plat-epo-v5-1-0" navtitle="5.1.0"/>
+      </subjectdef>
+      <subjectdef keys="plat-epo-cloud" navtitle="ePolicy Orchestrator Cloud"/>
+      <subjectdef keys="plat-unmanaged" navtitle="Unmanaged"/>
+   </subjectHead>
+</subjectScheme>
