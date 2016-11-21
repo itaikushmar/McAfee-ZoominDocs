@@ -4,8 +4,10 @@ product-head: Tuote
 cat-head: Luokka
 cat-installation: Asennus ja käytön aloittaminen
 cat-migration: Siirto
-cat-product: Tuotteen käyttö
+cat-product: Tuotteen käyttäminen
 cat-reference: Viittaus
 cat-hardware: Laitteisto
-cat-migration: Muutto
+cat-migration: Siirto
 cat-release-notes: Julkaisutiedot
+cat-hardware: Laitteisto
+cat-migration: Siirto

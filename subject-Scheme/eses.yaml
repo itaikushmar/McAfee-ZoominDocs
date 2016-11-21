@@ -2,10 +2,12 @@ plat-head: Plataforma de administración
 plat-unmanaged: No gestionado
 product-head: Producto
 cat-head: Categoría
-cat-installation: Instalación y Tareas iniciales
+cat-installation: Instalación y tareas iniciales
 cat-migration: Migración
 cat-product: Uso del producto
 cat-reference: Referencia
 cat-hardware: Hardware
 cat-migration: Migración
 cat-release-notes: Notas de la versión
+cat-hardware: Hardware
+cat-migration: Migración
