@@ -1,4 +1,4 @@
-AdvancedSearch: Gelişmiş Arama 
+﻿AdvancedSearch: Gelişmiş Arama
 AdvancedSearchTooltip: İçerik filtrelerini seç
 BreadcrumbsProductDocumentationHome: Ürün Belgeleri Giriş Sayfası
 BreadcrumbsSearch: Ara
@@ -73,11 +73,11 @@ HandlerRolesNoRoleNameFound: Rol adı bulunamadı
 HandlerRolesNotEnoughAdminUsersRemaining: Kullanıcılar atanamıyor
 HandlerRolesSelectedPermissionsLessThenDefault: İzinler atanamıyor: Seçili izinler, varsayılan izin setinden daha az
 HandlerSearchAllResults: Tüm sonuçlar
-HandlerSearchNoResultsMsgTryFollowing: Sonuç bulunamadı. aşağıdakileri deneyin:
-HandlerSearchNoResultsMsgSpelledCorrectly: Bütün kelimelerin doğru hecelendiğinden emin ol.
-HandlerSearchNoResultsMsgTryDifferent: Farklı anahtar kelimeler deneyin.
-HandlerSearchNoResultsMsgMoreGeneral: Daha genel anahtar kelimeler deneyin.
-HandlerSearchNoResultsMsgNoFindProdVer: ürün veya sürüm bulamıyor musunuz? Intel Güvenlik ServicePortal gidin.
+HandlerSearchNoResultsMsgTryFollowing: Sonuç bulunamadı. Aşağıdakileri deneyin:
+HandlerSearchNoResultsMsgSpelledCorrectly: Tüm sözcüklerin doğru yazıldığından emin olun.
+HandlerSearchNoResultsMsgTryDifferent: Farklı anahtar sözcükleri deneyin.
+HandlerSearchNoResultsMsgMoreGeneral: Daha genel anahtar sözcükleri deneyin.
+HandlerSearchNoResultsMsgNoFindProdVer: Aradığınız ürünü veya sürümü bulamıyor musunuz? Intel Security ServicePortal’a gidin.
 HandlerSearchNoResults: Sonuç yok
 HandlerSearchOneResult: Bir sonuç
 HandlerSitemapFile: Site haritası dosyası
@@ -152,10 +152,10 @@ Manuals: Kullanım Kılavuzları
 PDFPage: Sayfa
 ProductDocumentationSplashTitle: Ürün Belgeleri 
 PublishHowto: Yayımla
-ResultsPerPage: Sayfa başına sonuçlar
-ResultsPerPageShowFirst: Sayfa başına 
-ResultsPerPageShow: sonuç göster
-Search: Ürün Belgelerinde ara
+ResultsPerPage: Sayfa başına sonuç sayısı
+ResultsPerPageShowFirst: Sayfa başına
+ResultsPerPageShow: göster
+Search: Ürün Belgelerinde Ara
 SearchContent: Bu içerikte ara
 SearchHome: Ürün Belgelerinde Ara
 ShowTOC: İçindekileri göster
@@ -205,8 +205,8 @@ TemplateBundlePagePrevious: Geri
 TemplateBundlePagePrevTopicTooltip: Önceki Konuya Git
 TemplateBundlePagePrint: Yazdır
 TemplateBundlePagePrintTooltip: Konuyu Yazdır
-TemplateBundlePagePrivacy: Gizliliğinizi korumak için geri bildiriminize iletişim bilgileri eklemeyin. Gizlilik
-TemplateBundlePagePrivacyLast: ilkemizi inceleyin.
+TemplateBundlePagePrivacy: Gizliliğinizi korumak için geri bildiriminize iletişim bilgileri eklemeyin. Gizlilik ilkemizi
+TemplateBundlePagePrivacyLast: inceleyin.
 TemplateBundlePageProvideFeedbackCharsLeft: 500 karakter kaldı
 TemplateBundlePageProvideFeedbackTooltip: Geri Bildirim Ver
 TemplateBundlePageSaveAsPDF: PDF Olarak Kaydet
@@ -226,7 +226,7 @@ TemplateBundlesDownload: Seti indir
 TemplateBundlesDownloadClassification: Sınıflandırma XML’ini indir
 TemplateBundlesHiddenBundle: Gizli kullanım kılavuzu
 TemplateBundlesSearchManuals: Kullanım Kılavuzlarında Ara
-TemplateBundlesUploadClassification: Sınıflandırma XML’ini yükle
+TemplateBundlesUploadClassification: Sınıflandırma XML’ini Yükle
 TemplateClassificationForManual: Kullanım kılavuzu için
 TemplateClassificationUploadClassificationMap: Sınıflandırma Haritası XML’ini Yükle
 TemplateClassificationWarnReindex: NOT: Sınıflandırma Haritası yüklendiğinde tüm site dizini yeniden oluşturulur. Bu işlem birkaç dakika sürebilir.
@@ -242,7 +242,7 @@ TemplateDefaultLayoutLinksCareers: Kariyer Fırsatları
 TemplateDefaultLayoutLinksContactUs: Bize Ulaşın
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Yasal Sözleşmeler ve Koşullar
-TemplateDefaultLayoutLinksLegalNotices: Yasal Bildirimler 
+TemplateDefaultLayoutLinksLegalNotices: Yasal Bildirim
 TemplateDefaultLayoutLinksPrivacy: Gizlilik
 TemplateDefaultLayoutLinksSiteMap: Site Haritası
 TemplateDefaultLayoutLinksWebsiteFeedback: Web Sitesi Geri Bildirimi
@@ -266,8 +266,8 @@ TemplateSearchSortbyUpdatedAsc: Eklenme Tarihi – Eskiden Yeniye
 TemplateSearchSortbyUpdatedDec: Eklenme Tarihi – Yeniden Eskiye
 TemplateSearchSortbyViews: Görüntülenme Sayısı
 TemplatesSearchPageClear: Temizle
-TemplatesSearchPageCurrentResultsFirst: sonuçtan
-TemplatesSearchPageCurrentResults: tanesi
+TemplatesSearchPageCurrentResultsFirst: Şunun 
+TemplatesSearchPageCurrentResults: sonuçları:
 TemplatesSearchPageRefilneResults: Sonuçları Daralt
 TemplatesSearchPageResultUpdated: Güncelleme tarihi:
 TemplateUploadSitemapDisable: Site haritasını devre dışı bırak
@@ -284,48 +284,48 @@ Upload: Yükle
 UploadLink: Yayını yükle
 YesodAuthStormPathSSOErrorOccured: Bir hata oluştu
 YesodAuthStormPathSSOLoginParamError: SSO oturum açma parametrelerinde hata oluştu
-YesodAuthStormPathSSOLoginTryAgain: Şununla yeniden oturum açmayı deneyin:
-LoginSite: Üye Girişi
+YesodAuthStormPathSSOLoginTryAgain: Lütfen tekrar oturum açın:
+LoginSite: Oturum Aç
 LoginSiteEmail: E-posta adresi
-LoginSiteForgotPassword: Şifremi Unuttum
-LoginSiteMessage: Artık kaydediliyor
-LoginSiteZD: ZoominDocs Girişi
+LoginSiteForgotPassword: Parolamı unuttum
+LoginSiteMessage: Şu anda oturum açmış durumdasınız
+LoginSiteZD: ZoominDocs Oturumu Açın
 TemplateAdminCategoryfile: Kategori XML Dosyası
-TemplateAdminCshCurrent: Cari CSH Kuralları
-TemplateAdminCshDownload: Mevcut CSH Yapılandırma Dosyası İndir
-TemplateAdminCshRuleContents: Kural İçindekiler
+TemplateAdminCshCurrent: Geçerli CSH Kuralları
+TemplateAdminCshDownload: Geçerli CSH Yapılandırma Dosyasını indir
+TemplateAdminCshRuleContents: Kural İçeriği
 TemplateAdminCshRuleName: Kural Adı
 TemplateAdminCshRulePriority: Kural Önceliği
-TemplateAdminCshUpload: Yükleme CSH Yapılandırma dosyası
-TemplateAdminCurrentContentRoleGroups: Güncel İçerik Rol Grupları
-TemplateAdminDownloadDefaultLanguage: Şu Varsayılan Dil Dosyası İndir
-TemplateAdminDownloadcurrentCategory: Mevcut kategoriler XML dosyasını indirin
-TemplateAdminListGroupCurrentGroups: Cari Grupları
-TemplateAdminListGroupDefineNewGroup: Yeni Grup'u tanımla
+TemplateAdminCshUpload: CSH Yapılandırma dosyasını yükle
+TemplateAdminCurrentContentRoleGroups:  Geçerli İçerik Rol Grupları
+TemplateAdminDownloadDefaultLanguage: Geçerli Varsayılan Dil Dosyasını İndir
+TemplateAdminDownloadcurrentCategory: Geçerli kategoriler XML dosyasını indir
+TemplateAdminListGroupCurrentGroups: Geçerli Gruplar
+TemplateAdminListGroupDefineNewGroup: Yeni Grup Tanımla
 TemplateAdminListRoleAdmin: admin
-TemplateAdminListRoleCurrentRoles: Güncel Rolleri
-TemplateAdminListRoleDefineNewRole: Yeni Rolü tanımla
-TemplateAdminListRoleRolesPublic: Kamu
-TemplateAdminListRoleViewer: izleyici
-TemplateAdminListUsersAction: Aksiyon
+TemplateAdminListRoleCurrentRoles: Geçerli Roller
+TemplateAdminListRoleDefineNewRole: Yeni Rol Tanımla
+TemplateAdminListRoleRolesPublic : Ortak
+TemplateAdminListRoleViewer: görüntüleyici
+TemplateAdminListUsersAction: Eylem
 TemplateAdminListUsersDeleteUser: Kullanıcıyı Sil
-TemplateAdminListUsersEditPermissions: Düzenleme İzinleri
-TemplateAdminListUsersEmail: E-Posta
-TemplateAdminListUsersFullName: Tam adı
-TemplateAdminListUsersResetPassword: Parola Sıfırlama
-TemplateAdminSubjectSchemeDeleteLanguage: Dil Dosyayı Sil
+TemplateAdminListUsersEditPermissions: İzinleri Düzenle
+TemplateAdminListUsersEmail: E-posta
+TemplateAdminListUsersFullName: Tam Adı
+TemplateAdminListUsersResetPassword: Parolayı Sıfırla
+TemplateAdminSubjectSchemeDeleteLanguage: Dil Dosyasını Sil
 TemplateAdminSubjectSchemeDownload: İndir
-TemplateAdminSubjectSchemeDownloadLanguage: Download Dil Dosya
-TemplateAdminSubjectSchemeExistingLocalizations: Mevcut Yerleşimleri
+TemplateAdminSubjectSchemeDownloadLanguage: Dil Dosyasını İndir
+TemplateAdminSubjectSchemeExistingLocalizations: Mevcut Yerelleştirmeler
 TemplateAdminSubjectSchemeLanguage: Dil
-TemplateAdminSubjectSchemeLocalizationTitle: Konu Şeması Yerelleştirme
-TemplateAdminSubjectSchemeUpdate: Güncelleme
-TemplateAdminSubjectSchemeUpdateLanguage: Güncelleme Dil Dosya
-TemplateAdminUploadCategoryfile: Yükle Kategori dosyası
-TemplateAdminUploadDefaultLanguage: Yükleme Varsayılan Dil Dosyası
-TemplateAdminUploadSiteMapFile: Yükleme Site Haritası Dosyası
-TemplateSubjectSchemeUpload: Yükleme Konu Şeması
-TemplateSubjectSchemeWarnReindex: NOT: Yeni bir konu düzeni yükleniyor tüm site yeniden dizine neden olur. Bu bir kaç dakika sürebilir.
-TemplatesSubjectSchemeChooseFile: Dosya Seç (değil html, Vlatko sor)
-TemplatesSubjectSchemeDownloadcurrent: Geçerli Konu Düzeni indirin
-TemplatesSubjectSchemeNoFileChosen: Hiçbir dosya seçilmiş
+TemplateAdminSubjectSchemeLocalizationTitle: Konu Düzeni Yerelleştirmesi
+TemplateAdminSubjectSchemeUpdate: Güncelle
+TemplateAdminSubjectSchemeUpdateLanguage: Dil Dosyasını Güncelle
+TemplateAdminUploadCategoryfile: Kategori dosyasını yükle
+TemplateAdminUploadDefaultLanguage: Varsayılan Dil Dosyasını Yükle
+TemplateAdminUploadSiteMapFile: Site Haritası Dosyasını Yükle
+TemplateSubjectSchemeUpload: Konu Düzenini Yükle
+TemplateSubjectSchemeWarnReindex: NOT: Yeni bir konu düzeni yüklendiğinde tüm site dizini yeniden oluşturulur. Bu işlem birkaç dakika sürebilir.
+TemplatesSubjectSchemeChooseFile: Dosya Seç (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: Geçerli Konu Düzenini indir
+TemplatesSubjectSchemeNoFileChosen: Dosya seçilmedi

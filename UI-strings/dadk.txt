@@ -1,4 +1,4 @@
-AdvancedSearch: Udvidet søgning 
+﻿AdvancedSearch: Udvidet søgning
 AdvancedSearchTooltip: Vælg indholdsfiltre
 BreadcrumbsProductDocumentationHome: Produktdokumentation hjem
 BreadcrumbsSearch: Søg
@@ -73,11 +73,11 @@ HandlerRolesNoRoleNameFound: Intet rollenavn fundet
 HandlerRolesNotEnoughAdminUsersRemaining: Kan ikke tildele brugere
 HandlerRolesSelectedPermissionsLessThenDefault: Kan ikke tildele tilladelser: De valgte tilladelser er mindre end den indstillede standardtilladelse
 HandlerSearchAllResults: Alle resultater
-HandlerSearchNoResultsMsgTryFollowing: Ingen resultater fundet. Prøv følgende:
-HandlerSearchNoResultsMsgSpelledCorrectly: Sørg for at alle ord er stavet korrekt.
+HandlerSearchNoResultsMsgTryFollowing: Der blev ikke fundet nogen resultater. Prøv følgende:
+HandlerSearchNoResultsMsgSpelledCorrectly: Kontroller, at alle ord er stavet korrekt.
 HandlerSearchNoResultsMsgTryDifferent: Prøv forskellige søgeord.
 HandlerSearchNoResultsMsgMoreGeneral: Prøv mere generelle søgeord.
-HandlerSearchNoResultsMsgNoFindProdVer: Må ikke finde dit produkt eller din version? Gå til Intel Security ServicePortal.
+HandlerSearchNoResultsMsgNoFindProdVer: Kan du ikke finde dit produkt eller din version? Gå til Intel Security ServicePortal.
 HandlerSearchNoResults: Ingen resultater
 HandlerSearchOneResult: Et resultat
 HandlerSitemapFile: Fil med oversigt over websted
@@ -205,8 +205,8 @@ TemplateBundlePagePrevious: Forrige
 TemplateBundlePagePrevTopicTooltip: Gå til forrige emne
 TemplateBundlePagePrint: Udskriv
 TemplateBundlePagePrintTooltip: Udskriv emne
-TemplateBundlePagePrivacy: For at beskytte dine personlige oplysninger skal du ikke inkludere kontaktoplysninger i din feedback. Gennemse vores politik om
-TemplateBundlePagePrivacyLast: personlige oplysninger.
+TemplateBundlePagePrivacy: For at beskytte dine personlige oplysninger skal du ikke inkludere kontaktoplysninger i din feedback. Gennemgå vores
+TemplateBundlePagePrivacyLast: politik om beskyttelse af personlige oplysninger.
 TemplateBundlePageProvideFeedbackCharsLeft: 500 tegn tilbage
 TemplateBundlePageProvideFeedbackTooltip: Giv feedback
 TemplateBundlePageSaveAsPDF: Gem som PDF
@@ -242,8 +242,8 @@ TemplateDefaultLayoutLinksCareers: Karrierer
 TemplateDefaultLayoutLinksContactUs: Kontakt os
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Juridiske kontrakter og vilkår
-TemplateDefaultLayoutLinksLegalNotices: Juridiske oplysninger 
-TemplateDefaultLayoutLinksPrivacy: Privatliv
+TemplateDefaultLayoutLinksLegalNotices: Juridiske oplysninger
+TemplateDefaultLayoutLinksPrivacy: Personlige oplysninger
 TemplateDefaultLayoutLinksSiteMap: Oversigt over websted
 TemplateDefaultLayoutLinksWebsiteFeedback: Feedback for websted
 TemplateDefaultLayoutLogout: Log af
@@ -266,7 +266,7 @@ TemplateSearchSortbyUpdatedAsc: Dato tilføjet – stigende
 TemplateSearchSortbyUpdatedDec: Dato tilføjet – aftagende
 TemplateSearchSortbyViews: Antal visninger
 TemplatesSearchPageClear: Ryd
-TemplatesSearchPageCurrentResultsFirst: Resultater
+TemplatesSearchPageCurrentResultsFirst: Resultater 
 TemplatesSearchPageCurrentResults: af
 TemplatesSearchPageRefilneResults: Tilpas resultater
 TemplatesSearchPageResultUpdated: Opdateret
@@ -284,48 +284,48 @@ Upload: Overfør
 UploadLink: Overfør publikation
 YesodAuthStormPathSSOErrorOccured: Der opstod en fejl
 YesodAuthStormPathSSOLoginParamError: Der var en fejl i forbindelse med SSO-loginparametrene
-YesodAuthStormPathSSOLoginTryAgain: Prøve at logge ind igen med
-LoginSite: Login
-LoginSiteEmail: E-mail-adresse
-LoginSiteForgotPassword: Glemt kodeord
-LoginSiteMessage: Du er nu logget ind
+YesodAuthStormPathSSOLoginTryAgain: Log på igen med
+LoginSite: Log på
+LoginSiteEmail: Mailadresse
+LoginSiteForgotPassword: Glemt adgangskoden
+LoginSiteMessage: Du er nu logget på
 LoginSiteZD: ZoominDocs Login
-TemplateAdminCategoryfile: Kategori XML File
-TemplateAdminCshCurrent: Aktuel CSH Regler
-TemplateAdminCshDownload: Hent aktuel CSH konfigurationsfil
-TemplateAdminCshRuleContents: Regel Indhold
-TemplateAdminCshRuleName: Regel Navn
-TemplateAdminCshRulePriority: Regel Prioritet
-TemplateAdminCshUpload: Upload CSH Config fil
-TemplateAdminCurrentContentRoleGroups: nuværende indhold rollegrupper
-TemplateAdminDownloadDefaultLanguage: Hent Aktuel Standard Sprog fil
-TemplateAdminDownloadcurrentCategory: Hent nuværende kategorier XML-fil
-TemplateAdminListGroupCurrentGroups: Aktuelle Grupper
-TemplateAdminListGroupDefineNewGroup: Definer ny Group
+TemplateAdminCategoryfile: Kategori XML-fil
+TemplateAdminCshCurrent: Aktuelle CSH-regler
+TemplateAdminCshDownload: Download aktuel CSH-konfigurationsfil
+TemplateAdminCshRuleContents: Regel indhold
+TemplateAdminCshRuleName: Navn på regel
+TemplateAdminCshRulePriority: Regel prioritet
+TemplateAdminCshUpload: Overfør CSH-konfigurationsfil
+TemplateAdminCurrentContentRoleGroups:  Aktuelle indholdsrollegrupper
+TemplateAdminDownloadDefaultLanguage: Download aktuel standardsprogfil
+TemplateAdminDownloadcurrentCategory: Download aktuel kategori-XML-fil
+TemplateAdminListGroupCurrentGroups: Aktuelle grupper
+TemplateAdminListGroupDefineNewGroup: Definer ny gruppe
 TemplateAdminListRoleAdmin: admin
-TemplateAdminListRoleCurrentRoles: Aktuelle Roller
-TemplateAdminListRoleDefineNewRole: Definer ny Rolle
-TemplateAdminListRoleRolesPublic: Offentlig
-TemplateAdminListRoleViewer: viewer
-TemplateAdminListUsersAction: Action
+TemplateAdminListRoleCurrentRoles: Aktuelle roller
+TemplateAdminListRoleDefineNewRole: Definer ny rolle
+TemplateAdminListRoleRolesPublic : Offentlig
+TemplateAdminListRoleViewer: fremviser
+TemplateAdminListUsersAction: Handling
 TemplateAdminListUsersDeleteUser: Slet bruger
 TemplateAdminListUsersEditPermissions: Rediger tilladelser
 TemplateAdminListUsersEmail: E-mail
-TemplateAdminListUsersFullName: Fulde navn
+TemplateAdminListUsersFullName: Fuldt navn
 TemplateAdminListUsersResetPassword: Nulstil adgangskode
-TemplateAdminSubjectSchemeDeleteLanguage: Slet sprog fil
-TemplateAdminSubjectSchemeDownload: Download
-TemplateAdminSubjectSchemeDownloadLanguage: Download Sprog fil
-TemplateAdminSubjectSchemeExistingLocalizations: Eksisterende Lokaliseringer
+TemplateAdminSubjectSchemeDeleteLanguage: Slette sprogfil
+TemplateAdminSubjectSchemeDownload: Hent
+TemplateAdminSubjectSchemeDownloadLanguage: Download sprogfil
+TemplateAdminSubjectSchemeExistingLocalizations: Eksisterende lokaliseringer
 TemplateAdminSubjectSchemeLanguage: Sprog
-TemplateAdminSubjectSchemeLocalizationTitle: Emne Scheme Lokalisering
-TemplateAdminSubjectSchemeUpdate: Opdatering
-TemplateAdminSubjectSchemeUpdateLanguage: Opdatering Sprog Fil
-TemplateAdminUploadCategoryfile: Upload Kategori fil
-TemplateAdminUploadDefaultLanguage: Upload Standardsprog fil
-TemplateAdminUploadSiteMapFile: Upload Sitemap fil
-TemplateSubjectSchemeUpload: Upload Emne Scheme
-TemplateSubjectSchemeWarnReindex: BEMÆRK: Upload et nyt emne ordning vil medføre, at hele websted skal re-indekseret. Dette kan tage flere minutter.
-TemplatesSubjectSchemeChooseFile: Vælg Filer (Spørg Vlatko, ikke i html)
-TemplatesSubjectSchemeDownloadcurrent: Hent aktuel Emne Scheme
+TemplateAdminSubjectSchemeLocalizationTitle: Lokalisering for emneordning
+TemplateAdminSubjectSchemeUpdate: Opdater
+TemplateAdminSubjectSchemeUpdateLanguage: Opdater sprogfil
+TemplateAdminUploadCategoryfile: Upload kategori-fil
+TemplateAdminUploadDefaultLanguage: Overfør standardsprogfil
+TemplateAdminUploadSiteMapFile: Upload fil med oversigt over websted
+TemplateSubjectSchemeUpload: Overfør emneordning
+TemplateSubjectSchemeWarnReindex: BEMÆRK: Hele webstedet skal genindføres, hvis du overfører en ny emneordning. Dette kan tage flere minutter.
+TemplatesSubjectSchemeChooseFile: Vælg fil (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: Download aktuel emneordning
 TemplatesSubjectSchemeNoFileChosen: Ingen fil valgt

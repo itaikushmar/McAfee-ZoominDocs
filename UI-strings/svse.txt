@@ -1,4 +1,4 @@
-AdvancedSearch: Avancerad sökning 
+﻿AdvancedSearch: Avancerad sökning
 AdvancedSearchTooltip: Välj innehållsfilter
 BreadcrumbsProductDocumentationHome: Startsida för produktdokumentationen
 BreadcrumbsSearch: Sök
@@ -73,11 +73,11 @@ HandlerRolesNoRoleNameFound: Inget rollnamn hittades
 HandlerRolesNotEnoughAdminUsersRemaining: Det gick inte att tilldela användare
 HandlerRolesSelectedPermissionsLessThenDefault: Det gick inte att tilldela behörigheter: De valda behörigheterna är färre än standardbehörighetsuppsättningen
 HandlerSearchAllResults: Alla resultat
-HandlerSearchNoResultsMsgTryFollowing: Inga resultat funna. Försök med följande:g:
-HandlerSearchNoResultsMsgSpelledCorrectly: Se till att alla ord är rättstavade.
-HandlerSearchNoResultsMsgTryDifferent: Försök med olika nyckelord.
-HandlerSearchNoResultsMsgMoreGeneral: Försök med fler generella nyckelord.
-HandlerSearchNoResultsMsgNoFindProdVer: Hittar inte din produkt eller version? Gå till Intel Security Serviceportal.
+HandlerSearchNoResultsMsgTryFollowing: Inga resultat hittades. Försök med följande:
+HandlerSearchNoResultsMsgSpelledCorrectly: Kontrollera att alla ord är rättstavade.
+HandlerSearchNoResultsMsgTryDifferent: Försök med andra nyckelord.
+HandlerSearchNoResultsMsgMoreGeneral: Försök med mer allmänna nyckelord.
+HandlerSearchNoResultsMsgNoFindProdVer: Hittar du inte din produkt eller version? Gå till Intel Security ServicePortal.
 HandlerSearchNoResults: Inga resultat
 HandlerSearchOneResult: Ett resultat
 HandlerSitemapFile: Fil med webbplatskarta
@@ -179,7 +179,7 @@ TemplateAdminManageManuals: Hantera handböcker
 TemplateAdminManageResourceManuals: Hantera resurspaket
 TemplateAdminResourceIdCsv: Hämta Excel-filen med ResourceIds
 TemplateAdminSitemap: Hantera webbplatskartan
-TemplateAdminSubjectSchemeLocalization: Hantera lokalisering av ämnesscheman
+TemplateAdminSubjectSchemeLocalization: Hantera lokalisering av ämnesschema
 TemplateAdminTitle: Administration
 TemplateAdminUploadCategoryXML: Hantera XML-filen för kategorin
 TemplateAdminUploadCategoryXml: Överför en ny XML-fil för kategorin
@@ -205,14 +205,14 @@ TemplateBundlePagePrevious: Föregående
 TemplateBundlePagePrevTopicTooltip: Gå till föregående avsnitt
 TemplateBundlePagePrint: Skriv ut
 TemplateBundlePagePrintTooltip: Skriv ut avsnitt
-TemplateBundlePagePrivacy: Av sekretesskäl ber vi dig att inte inkludera någon kontaktinformation i din feedback. Läs igenom
-TemplateBundlePagePrivacyLast: vår sekretesspolicy.
+TemplateBundlePagePrivacy: Av sekretesskäl ber vi dig att inte inkludera någon kontaktinformation i din feedback. Läs igenom vår
+TemplateBundlePagePrivacyLast: sekretesspolicy.
 TemplateBundlePageProvideFeedbackCharsLeft: 500 tecken kvar
 TemplateBundlePageProvideFeedbackTooltip: Ge feedback
 TemplateBundlePageSaveAsPDF: Spara som PDF
 TemplateBundlePageSavePDFTooltip: Spara som PDF
 TemplateBundlePageSaveSelectedTopic: Spara valt avsnitt
-TemplateBundlePageSaveSelectedTopicAndSubtopics: Spara valt avsnitt och delavsnitt
+TemplateBundlePageSaveSelectedTopicAndSubtopics: Spara valt avsnitt och valt delavsnitt
 TemplateBundlePageSeeAlso: Se även
 TemplateBundlePageSend: Skicka
 TemplateBundlePageSendLink: Skicka
@@ -237,13 +237,13 @@ TemplateDefaultLayoutArticles: Artiklar
 TemplateDefaultLayoutBrowseDocumentation: Bläddra
 TemplateDefaultLayoutDocumentation: Dokumentationsbibliotek
 TemplateDefaultLayoutHome: Hem
-TemplateDefaultLayoutLanguages: United States – English
+TemplateDefaultLayoutLanguages: United States - English
 TemplateDefaultLayoutLinksCareers: Karriär
 TemplateDefaultLayoutLinksContactUs: Kontakta oss
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Juridiska avtal och villkor
-TemplateDefaultLayoutLinksLegalNotices: Juridiska meddelanden 
-TemplateDefaultLayoutLinksPrivacy: Privatliv
+TemplateDefaultLayoutLinksLegalNotices: Juridiskt meddelande
+TemplateDefaultLayoutLinksPrivacy: Sekretess
 TemplateDefaultLayoutLinksSiteMap: Webbplatskarta
 TemplateDefaultLayoutLinksWebsiteFeedback: Feedback på webbplatsen
 TemplateDefaultLayoutLogout: Logga ut
@@ -266,7 +266,7 @@ TemplateSearchSortbyUpdatedAsc: Tillagd den – Fallande
 TemplateSearchSortbyUpdatedDec: Tillagd den – Stigande
 TemplateSearchSortbyViews: Antal visningar
 TemplatesSearchPageClear: Rensa
-TemplatesSearchPageCurrentResultsFirst: Resultat
+TemplatesSearchPageCurrentResultsFirst: Resultat 
 TemplatesSearchPageCurrentResults: av
 TemplatesSearchPageRefilneResults: Begränsa resultaten
 TemplatesSearchPageResultUpdated: Uppdaterad
@@ -284,48 +284,48 @@ Upload: Överför
 UploadLink: Överför publikation
 YesodAuthStormPathSSOErrorOccured: Ett fel inträffade
 YesodAuthStormPathSSOLoginParamError: Ett fel uppstod med SSO-inloggningsparametrarna
-YesodAuthStormPathSSOLoginTryAgain: Försök logga in igen med
+YesodAuthStormPathSSOLoginTryAgain: Logga in igen med
 LoginSite: Logga in
 LoginSiteEmail: E-postadress
 LoginSiteForgotPassword: Glömt lösenord
-LoginSiteMessage: Du är nu inloggad
-LoginSiteZD: ZoominDocs Login
-TemplateAdminCategoryfile: Kategori XML-fil
-TemplateAdminCshCurrent: Current CSH regler
-TemplateAdminCshDownload: Hämta aktuell CSH konfigurationsfil
-TemplateAdminCshRuleContents: Artikel Innehåll
+LoginSiteMessage: Nu är du inloggad
+LoginSiteZD: Inloggning till ZoominDocs
+TemplateAdminCategoryfile: XML-fil för kategorin
+TemplateAdminCshCurrent: Aktuella CSH-regler
+TemplateAdminCshDownload: Hämta den aktuella CSH-konfigurationsfilen
+TemplateAdminCshRuleContents: Regelinnehåll
 TemplateAdminCshRuleName: Regelnamn
-TemplateAdminCshRulePriority: Regel Prioritet
-TemplateAdminCshUpload: Ladda CSH Config fil
-TemplateAdminCurrentContentRoleGroups: Aktuellt innehåll rollgrupper
-TemplateAdminDownloadDefaultLanguage: Hämta Aktuell Standardspråk Arkiv
-TemplateAdminDownloadcurrentCategory: Hämta nuvarande kategorier XML-fil
-TemplateAdminListGroupCurrentGroups: Aktuellt Grupper
-TemplateAdminListGroupDefineNewGroup: Definiera ny grupp
-TemplateAdminListRoleAdmin: admin
-TemplateAdminListRoleCurrentRoles: Aktuellt Roller
-TemplateAdminListRoleDefineNewRole: Definiera ny roll
-TemplateAdminListRoleRolesPublic: Public
-TemplateAdminListRoleViewer: viewer
-TemplateAdminListUsersAction: Action
-TemplateAdminListUsersDeleteUser: Radera användare
+TemplateAdminCshRulePriority: Regelprioritet
+TemplateAdminCshUpload: Överför CSH-konfigurationsfil
+TemplateAdminCurrentContentRoleGroups:  Aktuella innehållsrollgrupper
+TemplateAdminDownloadDefaultLanguage: Hämta aktuell standardspråkfil
+TemplateAdminDownloadcurrentCategory: Hämta den aktuella XML-filen för kategorin
+TemplateAdminListGroupCurrentGroups: Aktuella grupper
+TemplateAdminListGroupDefineNewGroup: Definiera en ny grupp
+TemplateAdminListRoleAdmin: administratör
+TemplateAdminListRoleCurrentRoles: Aktuella roller
+TemplateAdminListRoleDefineNewRole: Definiera en ny roll
+TemplateAdminListRoleRolesPublic : Offentlig
+TemplateAdminListRoleViewer: visningsprogram
+TemplateAdminListUsersAction: Åtgärd
+TemplateAdminListUsersDeleteUser: Ta bort användare
 TemplateAdminListUsersEditPermissions: Redigera behörigheter
-TemplateAdminListUsersEmail: E
+TemplateAdminListUsersEmail: E-post
 TemplateAdminListUsersFullName: Fullständigt namn
 TemplateAdminListUsersResetPassword: Återställ lösenord
-TemplateAdminSubjectSchemeDeleteLanguage: Radera språkfil
+TemplateAdminSubjectSchemeDeleteLanguage: Ta bort språkfil
 TemplateAdminSubjectSchemeDownload: Hämta
 TemplateAdminSubjectSchemeDownloadLanguage: Hämta språkfil
 TemplateAdminSubjectSchemeExistingLocalizations: Befintliga lokaliseringar
 TemplateAdminSubjectSchemeLanguage: Språk
-TemplateAdminSubjectSchemeLocalizationTitle: Angående Scheme Lokalisering
-TemplateAdminSubjectSchemeUpdate: Uppdatering
+TemplateAdminSubjectSchemeLocalizationTitle: Lokalisering av ämnesschema
+TemplateAdminSubjectSchemeUpdate: Uppdatera
 TemplateAdminSubjectSchemeUpdateLanguage: Uppdatera språkfil
-TemplateAdminUploadCategoryfile: Ladda Kategori fil
-TemplateAdminUploadDefaultLanguage: Ladda Standardspråk fil
-TemplateAdminUploadSiteMapFile: Ladda webbplatskartfil
-TemplateSubjectSchemeUpload: Ladda Ämne Scheme
-TemplateSubjectSchemeWarnReindex: OBS: Ladda upp ett nytt ämne systemet kommer att leda till att hela webbplatsen att åter indexeras. Det här kan ta flera minuter.
-TemplatesSubjectSchemeChooseFile: Välj Arkiv (fråga Vlatko, inte i html)
-TemplatesSubjectSchemeDownloadcurrent: Hämta aktuella Ämnes Scheme
-TemplatesSubjectSchemeNoFileChosen: Ingen fil vald
+TemplateAdminUploadCategoryfile: Överför kategorifil
+TemplateAdminUploadDefaultLanguage: Överför standardspråkfil
+TemplateAdminUploadSiteMapFile: Överför fil för webbplatskarta
+TemplateSubjectSchemeUpload: Överför ämnesschema
+TemplateSubjectSchemeWarnReindex: Obs! Om du överför ett nytt ämnesschema kommer hela webbplatsen att omindexeras. Det kan ta flera minuter.
+TemplatesSubjectSchemeChooseFile: Välj fil (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: Hämta aktuellt ämnesschema
+TemplatesSubjectSchemeNoFileChosen: Ingen fil har valts

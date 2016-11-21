@@ -1,6 +1,6 @@
-AdvancedSearch: Ricerca avanzata 
+﻿AdvancedSearch: Ricerca avanzata
 AdvancedSearchTooltip: Seleziona filtri del contenuto
-BreadcrumbsProductDocumentationHome: Home page Documentazione del prodotto
+BreadcrumbsProductDocumentationHome: Home page della documentazione del prodotto
 BreadcrumbsSearch: Ricerca
 Cancel: Annulla
 Close: Chiudi
@@ -10,7 +10,7 @@ FilterUsers: Filtra utenti:
 FoundationLoginOnly: Accedi
 FoundationLoginRegister: Accedi/Effettua la registrazione
 HandlerAdminOnlyAdmin: Accesso negato
-HandlerBundlePageAltCSHResult: Trovato argomento CSH aternativo
+HandlerBundlePageAltCSHResult: Trovato argomento CSH alternativo
 HandlerCategoriesCategoryXMLFileUploaded: File XML delle categorie caricato
 HandlerClassificationUpdated: Mappa di classificazione aggiornata
 HandlerClassificationXMLFile: Mappa di classificazione aggiornata
@@ -46,7 +46,7 @@ HandlerFontoErrorParsingXMLToDocument: Errore durante l'analisi di XML in un doc
 HandlerFontoNoFileFound: File non trovato.
 HandlerFontoNoIDFound: ID non trovato
 HandlerFontoUntitledFromCursor: Senza titolo - Dal cursore
-HandlerGroupsErrorReadingGroupID: Errore di lettura dell'ID del gruppo
+HandlerGroupsErrorReadingGroupID: Errore durante la lettura dell'ID del gruppo
 HandlerGroupsGroupUpdated: Gruppo aggiornato
 HandlerGroupsMustUseUniqueGroupName: È necessario utilizzare un nome di gruppo univoco
 HandlerGroupsNoGroupNameFound: Nessun nome di gruppo trovato
@@ -73,25 +73,25 @@ HandlerRolesNoRoleNameFound: Nessun nome di ruolo trovato
 HandlerRolesNotEnoughAdminUsersRemaining: Impossibile assegnare utenti
 HandlerRolesSelectedPermissionsLessThenDefault: Impossibile assegnare autorizzazioni: le autorizzazioni selezionate sono inferiori al set di autorizzazioni predefinito
 HandlerSearchAllResults: Tutti i risultati
-HandlerSearchNoResultsMsgTryFollowing: Nessun risultato trovato. Provare quanto segue:
-HandlerSearchNoResultsMsgSpelledCorrectly: Assicurarsi che tutte le parole siano state digitate correttamente.
-HandlerSearchNoResultsMsgTryDifferent: Prova parole chiave diverse.
-HandlerSearchNoResultsMsgMoreGeneral: Prova parole chiave più generiche.
-HandlerSearchNoResultsMsgNoFindProdVer: Non trovare il prodotto o la versione? Vai alla Intel Security ServicePortal.
+HandlerSearchNoResultsMsgTryFollowing: Nessun risultato trovato. Provare a eseguire le seguenti operazioni:
+HandlerSearchNoResultsMsgSpelledCorrectly: Verificare che i termini di ricerca siano stati digitati correttamente.
+HandlerSearchNoResultsMsgTryDifferent: Provare con altre parole chiave.
+HandlerSearchNoResultsMsgMoreGeneral: Provare a utilizzare parole chiave più generiche.
+HandlerSearchNoResultsMsgNoFindProdVer: Prodotto o versione non disponibili? Consultare l'Intel Security Service Portal.
 HandlerSearchNoResults: Nessun risultato
 HandlerSearchOneResult: Un risultato
 HandlerSitemapFile: File della mappa del sito
 HandlerSitemapFileUploaded: Mappa del sito aggiornata.
 HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: File di localizzazione dello schema dell'oggetto non valido
-HandlerSubjectSchemeLangDeleted lang@Text: #{lang} Eliminato il file di localizzazione
+HandlerSubjectSchemeLangDeleted lang@Text: #{lang} - Eliminato file di localizzazione
 HandlerSubjectSchemeLangsAvailable: Lingue disponibili
 HandlerSubjectSchemeLangsDeleteConfirm: Eliminare il file di localizzazione? 
 HandlerSubjectSchemeLangsDeleteError: Errore durante l'eliminazione del file di localizzazione.
 HandlerSubjectSchemeLangsNewFile: Carica nuovo file di localizzazione dello schema dell'oggetto
-HandlerSubjectSchemeLangUpdated lang@Text: #{lang} File di localizzazione aggiornato
-HandlerSubjectSchemeLangUploaded lang@Text: #{lang} File di localizzazione caricato 
+HandlerSubjectSchemeLangUpdated lang@Text: #{lang} - File di localizzazione aggiornato
+HandlerSubjectSchemeLangUploaded lang@Text: #{lang} - File di localizzazione caricato 
 HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: Si è verificato un errore durante il caricamento dello schema dell'oggetto.
-HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Lo schema dell'oggetto è stato caricato
+HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Schema dell'oggetto caricato
 HandlerSubjectSchemeUnknownLanguageCode: Codice della lingua sconosciuto
 HandlerSubjectSchemeUpdated: Schema dell'oggetto aggiornato
 HandlerSubjectSchemeXMLFile: File XML con schema dell'oggetto
@@ -105,9 +105,9 @@ HandlerUploadBundleOneBundleError: Errore durante la precompilazione del bundle 
 HandlerUploadBundlePublicationUploadedSuccessfully: Pubblicazione caricata
 HandlerUploadBundleSheaf: sheaf
 HandlerUsersAddedSuccess: Utente aggiunto
-HandlerUsersBadEmail: L'indirizzo email non è registrato
+HandlerUsersBadEmail: Indirizzo email non registrato
 HandlerUsersCRCreated: Gruppo di ruoli di contenuto creato
-HandlerUsersCRGroupNameInUse: Il nome del ruolo di contenuto è già in uso
+HandlerUsersCRGroupNameInUse: Nome ruolo di contenuto già in uso
 HandlerUsersCRSetGroupName: Impostare un nome per il gruppo di ruoli di contenuto
 HandlerUsersCRUpdated: Gruppo di ruoli di contenuto aggiornato
 HandlerUsersDefineCR: Definisci nuovo gruppo di ruoli di contenuto
@@ -155,12 +155,12 @@ PublishHowto: Pubblica
 ResultsPerPage: Risultati per pagina
 ResultsPerPageShowFirst: Mostra
 ResultsPerPageShow: per pagina
-Search: Cerca in documentazione del prodotto
+Search: Cerca nella documentazione del prodotto
 SearchContent: Cerca in questo contenuto
-SearchHome: Cerca in documentazione del prodotto
+SearchHome: Cerca nella documentazione del prodotto
 ShowTOC: Mostra sommario
 SSOLoginParamError: Si è verificato un errore con i parametri di accesso SSO
-SSOLoginTryAgain: Prova effettuare di nuovo l'accesso con
+SSOLoginTryAgain: Provare a eseguire nuovamente l'accesso con
 SwitchLang: Modifica lingua
 TemplaesBundlesTitle: Libreria dei documenti
 TemplateAddHelperCancel: Annulla
@@ -198,17 +198,17 @@ TemplateBundlePageFeedback: Commenti
 TemplateBundlePageFeedbackThankYou: Grazie! I commenti sono stati inviati. 
 TemplateBundlePageFeedbackTooltip: Invia commento
 TemplateBundlePageFilterTitle: Selezionare una o più opzioni
-TemplateBundlePageNext: Avanti
+TemplateBundlePageNext: Successivo
 TemplateBundlePageNextTopicTooltip: Passa all'argomento successivo
 TemplateBundlePageNo: No
 TemplateBundlePagePrevious: Precedente 
 TemplateBundlePagePrevTopicTooltip: Passa all'argomento precedente
 TemplateBundlePagePrint: Stampa
 TemplateBundlePagePrintTooltip: Stampa argomento
-TemplateBundlePagePrivacy: Per salvaguardare la privacy, non includere informazioni di contatto nel commento. Consulta l'informativa 
-TemplateBundlePagePrivacyLast: sulla privacy.
-TemplateBundlePageProvideFeedbackCharsLeft: 500 caratteri
-TemplateBundlePageProvideFeedbackTooltip: Fornisci commenti
+TemplateBundlePagePrivacy: Per salvaguardare la propria privacy, si consiglia di non includere informazioni di contatto nel commento. Consultare
+TemplateBundlePagePrivacyLast: l'informativa sulla privacy.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 caratteri disponibili
+TemplateBundlePageProvideFeedbackTooltip: Invia commenti
 TemplateBundlePageSaveAsPDF: Salva come PDF
 TemplateBundlePageSavePDFTooltip: Salva come PDF
 TemplateBundlePageSaveSelectedTopic: Salva argomento selezionato
@@ -229,7 +229,7 @@ TemplateBundlesSearchManuals: Cerca manuali
 TemplateBundlesUploadClassification: Carica XML di classificazione
 TemplateClassificationForManual: Per il manuale
 TemplateClassificationUploadClassificationMap: Carica XML con mappa di classificazione
-TemplateClassificationWarnReindex: NOTA: se si carica una mappa di classificazione, l'intero sito verrà reindicizzato. Questa operazione può richiedere diversi minuti.
+TemplateClassificationWarnReindex: NOTA: se si carica una mappa di classificazione, l'intero sito verrà reindicizzato. L'operazione può richiedere diversi minuti.
 TemplateContentRolesCRGroups: Gruppi di ruoli di contenuto
 TemplateContentRolesDefineNewCR: Definisci nuovo ruolo di contenuto
 TemplateDefaultLayoutAdministration: Amministrazione
@@ -242,8 +242,8 @@ TemplateDefaultLayoutLinksCareers: Carriere
 TemplateDefaultLayoutLinksContactUs: Contatti
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Contratti e termini legali
-TemplateDefaultLayoutLinksLegalNotices: Avvisi legali 
-TemplateDefaultLayoutLinksPrivacy: Vita privata
+TemplateDefaultLayoutLinksLegalNotices: Avviso legale
+TemplateDefaultLayoutLinksPrivacy: Informativa sulla privacy
 TemplateDefaultLayoutLinksSiteMap: Mappa del sito
 TemplateDefaultLayoutLinksWebsiteFeedback: Commenti sul sito Web
 TemplateDefaultLayoutLogout: Esci
@@ -266,10 +266,10 @@ TemplateSearchSortbyUpdatedAsc: Data di aggiunta - Crescente
 TemplateSearchSortbyUpdatedDec: Data di aggiunta - Decrescente
 TemplateSearchSortbyViews: Numero di visualizzazioni
 TemplatesSearchPageClear: Cancella
-TemplatesSearchPageCurrentResultsFirst: Risultati
+TemplatesSearchPageCurrentResultsFirst: Risultati 
 TemplatesSearchPageCurrentResults: di
 TemplatesSearchPageRefilneResults: Filtra i risultati
-TemplatesSearchPageResultUpdated: Aggiornato
+TemplatesSearchPageResultUpdated: Aggiornata
 TemplateUploadSitemapDisable: Disattiva mappa del sito
 TemplateUploadSitemapDisabled: Mappa del sito disattivata
 TemplateUploadSitemapDisabledWord: Disattivata
@@ -284,48 +284,48 @@ Upload: Carica
 UploadLink: Carica pubblicazione
 YesodAuthStormPathSSOErrorOccured: Si è verificato un errore
 YesodAuthStormPathSSOLoginParamError: Si è verificato un errore con i parametri di accesso SSO
-YesodAuthStormPathSSOLoginTryAgain: Prova effettuare di nuovo l'accesso con
-LoginSite: Accesso
-LoginSiteEmail: Indirizzo e-mail
-LoginSiteForgotPassword dimenticata
-LoginSiteMessage: Si è ora collegato
-LoginSiteZD: ZoominDocs Accesso
-TemplateAdminCategoryfile: categoria di file XML
-TemplateAdminCshCurrent: regole attuali CSH
-TemplateAdminCshDownload: Scaricare File di configurazione corrente CSH
-TemplateAdminCshRuleContents: Contents Rule
-TemplateAdminCshRuleName: Nome regola
-TemplateAdminCshRulePriority: Priorità regola
-File Upload CSH Config: TemplateAdminCshUpload
-TemplateAdminCurrentContentRoleGroups: attuali gruppi di ruoli di contenuti
-TemplateAdminDownloadDefaultLanguage: Scarica attuale file predefinito Lingua
-TemplateAdminDownloadcurrentCategory: Scarica categorie attuali file XML
-TemplateAdminListGroupCurrentGroups: Gruppi attuali
+YesodAuthStormPathSSOLoginTryAgain: Eseguire nuovamente l'accesso con
+LoginSite: Accedi
+LoginSiteEmail: Indirizzo email
+LoginSiteForgotPassword: Password dimenticata
+LoginSiteMessage: Accesso eseguito
+LoginSiteZD: Accesso a ZoominDocs
+TemplateAdminCategoryfile: File XML delle categorie
+TemplateAdminCshCurrent: Regole CSH correnti
+TemplateAdminCshDownload: Scarica file di configurazione CSH corrente
+TemplateAdminCshRuleContents: Contenuti della regola
+TemplateAdminCshRuleName: Nome della regola
+TemplateAdminCshRulePriority: Priorità della regola
+TemplateAdminCshUpload: Carica file di configurazione CSH
+TemplateAdminCurrentContentRoleGroups: Gruppi di ruoli di contenuto correnti
+TemplateAdminDownloadDefaultLanguage: Scarica file della lingua predefinita corrente
+TemplateAdminDownloadcurrentCategory: Scarica file XML delle categorie correnti
+TemplateAdminListGroupCurrentGroups: Gruppi correnti
 TemplateAdminListGroupDefineNewGroup: Definisci nuovo gruppo
-TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleAdmin: amministratore
 TemplateAdminListRoleCurrentRoles: Ruoli correnti
-TemplateAdminListRoleDefineNewRole: Definire nuovo ruolo
-TemplateAdminListRoleRolesPublic: Pubblico
-TemplateAdminListRoleViewer: viewer
+TemplateAdminListRoleDefineNewRole: Definisci nuovo ruolo
+TemplateAdminListRoleRolesPublic : Pubblica
+TemplateAdminListRoleViewer: visualizzatore
 TemplateAdminListUsersAction: Azione
 TemplateAdminListUsersDeleteUser: Elimina utente
 TemplateAdminListUsersEditPermissions: Modifica autorizzazioni
 TemplateAdminListUsersEmail: Email
-TemplateAdminListUsersFullName: Nome completo
-TemplateAdminListUsersResetPassword: reset password
-TemplateAdminSubjectSchemeDeleteLanguage: Elimina file Lingua
-TemplateAdminSubjectSchemeDownload: Scaricare
-TemplateAdminSubjectSchemeDownloadLanguage: Download del file Lingua
+TemplateAdminListUsersFullName: Nome e cognome
+TemplateAdminListUsersResetPassword: Reimposta password
+TemplateAdminSubjectSchemeDeleteLanguage: Elimina file della lingua
+TemplateAdminSubjectSchemeDownload: Scarica
+TemplateAdminSubjectSchemeDownloadLanguage: Scarica file della lingua
 TemplateAdminSubjectSchemeExistingLocalizations: Localizzazioni esistenti
 TemplateAdminSubjectSchemeLanguage: Lingua
-TemplateAdminSubjectSchemeLocalizationTitle: Localizzazione Soggetto Scheme
-TemplateAdminSubjectSchemeUpdate: Aggiornamento
-TemplateAdminSubjectSchemeUpdateLanguage: file di aggiornamento Lingua
-TemplateAdminUploadCategoryfile: Carica file di Categoria
-TemplateAdminUploadDefaultLanguage: Carica file Lingua
-Upload di file Sitemap: TemplateAdminUploadSiteMapFile
-TemplateSubjectSchemeUpload: Carica Soggetto Scheme
-TemplateSubjectSchemeWarnReindex: NOTA: Il caricamento di un nuovo schema di soggetto farà sì che l'intero sito per essere ri-indicizzato. Questo potrebbe richiedere vari minuti.
-TemplatesSubjectSchemeChooseFile: Scegliere File (chiedere Vlatko, non in html)
-TemplatesSubjectSchemeDownloadcurrent: Scarica corrente Schema Soggetto
-TemplatesSubjectSchemeNoFileChosen: Nessun file scelto
+TemplateAdminSubjectSchemeLocalizationTitle: Localizzazione schema dell'oggetto
+TemplateAdminSubjectSchemeUpdate: Aggiorna
+TemplateAdminSubjectSchemeUpdateLanguage: Aggiorna file della lingua
+TemplateAdminUploadCategoryfile: Carica file delle categorie
+TemplateAdminUploadDefaultLanguage: Carica file della lingua predefinita
+TemplateAdminUploadSiteMapFile: Carica file della mappa del sito
+TemplateSubjectSchemeUpload: Carica schema dell'oggetto
+TemplateSubjectSchemeWarnReindex: NOTA: se si carica un nuovo schema dell'oggetto, l'intero sito verrà reindicizzato. L'operazione può richiedere diversi minuti.
+TemplatesSubjectSchemeChooseFile: Scegli file (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: Scarica schema dell'oggetto corrente
+TemplatesSubjectSchemeNoFileChosen: Nessun file selezionato

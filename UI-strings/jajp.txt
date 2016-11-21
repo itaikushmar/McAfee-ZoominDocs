@@ -1,6 +1,6 @@
-AdvancedSearch: 高度な検索
-AdvancedSearchTooltip: コンテンツ フィルターを選択する
-BreadcrumbsProductDocumentationHome: 製品マニュアル ホーム
+﻿AdvancedSearch: 高度な検索
+AdvancedSearchTooltip: コンテンツ フィルターの選択
+BreadcrumbsProductDocumentationHome: 製品ドキュメント ホーム
 BreadcrumbsSearch: 検索
 Cancel: キャンセル
 Close: 閉じる
@@ -9,7 +9,7 @@ ErrorOccured: エラーが発生しました
 FilterUsers: ユーザーをフィルタリング:
 FoundationLoginOnly: ログオン
 FoundationLoginRegister: ログオン / 登録
-HandlerAdminOnlyAdmin: アクセスが拒否されました
+HandlerAdminOnlyAdmin: 拒否されたアクセス
 HandlerBundlePageAltCSHResult: 代替の CSH トピックが見つかりました
 HandlerCategoriesCategoryXMLFileUploaded: カテゴリ XML ファイルをアップロードしました
 HandlerClassificationUpdated: Classification Map を更新しました
@@ -73,23 +73,23 @@ HandlerRolesNoRoleNameFound: ロール名が見つかりません
 HandlerRolesNotEnoughAdminUsersRemaining: ユーザーを割り当てることができません
 HandlerRolesSelectedPermissionsLessThenDefault: 権限を割り当てることができません。選択された権限はデフォルトの権限セットより権限が少なくなっています
 HandlerSearchAllResults: すべての結果
-HandlerSearchNoResultsMsgTryFollowing: 結果が見つかりません。以下のことを試してみてください。
-HandlerSearchNoResultsMsgSpelledCorrectly: すべての単語のスペルが正しいことを確認してください。
-HandlerSearchNoResultsMsgTryDifferent: 別のキーワードを試してください。
-HandlerSearchNoResultsMsgMoreGeneral: より一般的なキーワードをお試しください。
-HandlerSearchNoResultsMsgNoFindProdVer: お使いの製品またはバージョンが見つかりませんか？インテルセキュリティサービスポータルに移動します。
+HandlerSearchNoResultsMsgTryFollowing: 結果が見つかりません。次をお試しください:
+HandlerSearchNoResultsMsgSpelledCorrectly: スペルに間違いがないことを確認します。
+HandlerSearchNoResultsMsgTryDifferent: 別のキーワードを試します。
+HandlerSearchNoResultsMsgMoreGeneral: もう少し意味の広い語句を試します。
+HandlerSearchNoResultsMsgNoFindProdVer: ご使用の製品またはバージョンが見つからない場合は、Intel Security ServicePortal にアクセスしてください。
 HandlerSearchNoResults: 結果なし
 HandlerSearchOneResult: 1 つの結果
 HandlerSitemapFile: サイトマップ ファイル
 HandlerSitemapFileUploaded: サイトマップを正常に更新しました。
 HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: 無効な Subject Scheme ローカライズ ファイルです
-HandlerSubjectSchemeLangDeleted lang@Text: #{lang} ローカライズ ファイルを削除しました
+HandlerSubjectSchemeLangDeleted lang@Text: #{lang} のローカライズ ファイルを削除しました
 HandlerSubjectSchemeLangsAvailable: 利用可能な言語
 HandlerSubjectSchemeLangsDeleteConfirm: ローカライズ ファイルを削除しますか? 
 HandlerSubjectSchemeLangsDeleteError: ローカライズ ファイルの削除中にエラーが発生しました。
 HandlerSubjectSchemeLangsNewFile: 新規の SubjectScheme ローカライズ ファイルのアップロード
-HandlerSubjectSchemeLangUpdated lang@Text: #{lang} ローカライズ ファイルを更新しました
-HandlerSubjectSchemeLangUploaded lang@Text: #{lang} ローカライズ ファイルをアップロードしました
+HandlerSubjectSchemeLangUpdated lang@Text: #{lang} のローカライズ ファイルを更新しました
+HandlerSubjectSchemeLangUploaded lang@Text: #{lang} のローカライズ ファイルをアップロードしました
 HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: Subject Scheme のアップロード中に問題が発生しました。
 HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Subject Scheme を正常にアップロードしました
 HandlerSubjectSchemeUnknownLanguageCode: 不明な言語コードです
@@ -105,7 +105,7 @@ HandlerUploadBundleOneBundleError: アップロードしたバンドルの設定
 HandlerUploadBundlePublicationUploadedSuccessfully: 文書を正常にアップロードしました
 HandlerUploadBundleSheaf: sheaf
 HandlerUsersAddedSuccess: ユーザーは正常に追加されました
-HandlerUsersBadEmail: この電子メール アドレスは登録されていません
+HandlerUsersBadEmail: このメール アドレスは登録されていません
 HandlerUsersCRCreated: コンテンツ ロール グループを作成しました
 HandlerUsersCRGroupNameInUse: コンテンツ ロール名はすでに使用されています
 HandlerUsersCRSetGroupName: このコンテンツ ロール グループの名前を設定してください
@@ -119,7 +119,7 @@ HandlerUsersNoRoleIdFound: ロール ID が見つかりません
 HandlerUsersPasswordEmailSent: パスワード リセットの電子メールを送信しました
 HandlerUsersRegisterSuccess: ユーザーを正常に登録しました
 HandlerUsersResetPasswordError: パスワードのリセット中にエラーが発生しました
-HandlerUsersRolesUpdated: ユーザー ロールを更新しました
+HandlerUsersRolesUpdated: ユーザーの役割を更新しました
 HandlerUsersUnableToAssignUserPermissionRole: ユーザーに権限ロールを割り当てることができません
 HandlerUsersUnknownError: 不明なエラー
 HideTOC: 目次を非表示にする
@@ -132,7 +132,7 @@ ImportElasticIndexRebuilt x@Text: インデックスを正常に再構築しま�
 ImportElasticIndexUpdated x@Text: インデックスを正常に更新しました #{x}
 ImportElasticNoPagesFound: データベースにページが見つかりません。インデックスをリセットしました。
 ImportElasticNoPagesInBundle: アップロード内にページが見つかりません
-ImportInvalidPassword: 無効なパスワード
+ImportInvalidPassword: パスワードが無効です
 ImportRatingsOneRating: 1 件の評価
 ImportRatingsRatings: 件の評価
 ImportRolesPermissionDenied: 許可されませんでした
@@ -146,18 +146,18 @@ ImportUsersFldFirstName: 名
 ImportUsersFldLastName: 姓
 ImportUsersFldPassword: パスワード
 ImportUsersFldReenterPass: パスワードの再入力
-ImportUsersInvalidPass: 無効なパスワードです。大文字、小文字、特殊文字、数字をそれぞれ 1 文字以上使用し、8 文字以上のパスワードにしてください。
+ImportUsersInvalidPass: パスワードが無効です。大文字、小文字、特殊文字、数字をそれぞれ 1 文字以上使用し、8 文字以上のパスワードにしてください。
 LoggedInAs email@Text: #{email} でログインしています。
 Manuals: マニュアル
 PDFPage: ページ
-ProductDocumentationSplashTitle: 製品マニュアル
+ProductDocumentationSplashTitle: 製品ドキュメント
 PublishHowto: 公開
 ResultsPerPage: 1 ページに表示する結果の件数
-ResultsPerPageShowFirst: ページに
-ResultsPerPageShow: 件を表示
-Search: 製品マニュアルを検索
-SearchContent: このコンテンツを検索
-SearchHome: 製品マニュアルを検索
+ResultsPerPageShowFirst: 表示
+ResultsPerPageShow: 件/ページ
+Search: 製品ドキュメントを検索する
+SearchContent: このコンテンツを検索する
+SearchHome: 製品ドキュメントを検索する
 ShowTOC: 目次を表示する
 SSOLoginParamError: SSO ログイン パラメーターにエラーがありました
 SSOLoginTryAgain: 次を使用してもう一度ログインをお試しください
@@ -171,7 +171,7 @@ TemplateAddUserCancel: キャンセル
 TemplateAddUserPasswordMessage: パスワードは、大文字、小文字、特殊文字、数字をそれぞれ 1 文字以上使用し、8 文字以上にしてください。
 TemplateAdminArticleManagement: 記事の管理
 TemplateAdminContentRoleGroups: コンテンツ ロール グループ
-TemplateAdminCSHConfigFile: CSH 構成ファイルをダウンロードまたは更新します
+TemplateAdminCSHConfigFile: CSH 構成ファイルのダウンロードまたは更新
 TemplateAdminElasticReindex: 検索インデックスの再構築
 TemplateAdminExportComments: コメントのエクスポート
 TemplateAdminExportRatings: 評価のエクスポート
@@ -182,12 +182,12 @@ TemplateAdminSitemap: サイトマップを管理する
 TemplateAdminSubjectSchemeLocalization: Subject Scheme ローカライズの管理
 TemplateAdminTitle: 管理
 TemplateAdminUploadCategoryXML: カテゴリ XML ファイルを管理する
-TemplateAdminUploadCategoryXml: 新規のカテゴリ XML ファイルをアップロードする
-TemplateAdminUploadNewLangFile: 新規のデフォルト言語コード ファイルをアップロードする
+TemplateAdminUploadCategoryXml: 新規のカテゴリ XML ファイルのアップロード
+TemplateAdminUploadNewLangFile: 新規のデフォルト言語コード ファイルのアップロード
 TemplateAdminUploadSubjectScheme: Subject Scheme の管理
 TemplateAdminUserGroups: ユーザー グループ
 TemplateAdminUserManagement: ユーザー管理
-TemplateAdminUserRoles: ユーザー ロール
+TemplateAdminUserRoles: ユーザーの役割
 TemplateBundlePageCollapse: 折りたたむ
 TemplateBundlePageCollapseTooltip: すべてのタイトルを折りたたむ
 TemplateBundlePageComments: コメント
@@ -199,33 +199,33 @@ TemplateBundlePageFeedbackThankYou: ありがとうございます。コメン�
 TemplateBundlePageFeedbackTooltip: フィードバックの送信
 TemplateBundlePageFilterTitle: オプションを 1 つ以上選択してください
 TemplateBundlePageNext: 次へ
-TemplateBundlePageNextTopicTooltip: 次のトピックに移動
+TemplateBundlePageNextTopicTooltip: 次のトピックに移動する
 TemplateBundlePageNo: いいえ
 TemplateBundlePagePrevious: 前へ
-TemplateBundlePagePrevTopicTooltip: 前のトピックに移動
+TemplateBundlePagePrevTopicTooltip: 前のトピックに移動する
 TemplateBundlePagePrint: 印刷
-TemplateBundlePagePrintTooltip: トピックを印刷
-TemplateBundlePagePrivacy: プライバシーの保護のため、フィードバックには連絡先の情報を入力しないでください。プライバシー ポリ
-TemplateBundlePagePrivacyLast: シーをご確認ください。
-TemplateBundlePageProvideFeedbackCharsLeft: 500文字が残って
-TemplateBundlePageProvideFeedbackTooltip: フィードバックを送信する
-TemplateBundlePageSaveAsPDF: PDF で保存
-TemplateBundlePageSavePDFTooltip: PDF で保存
-TemplateBundlePageSaveSelectedTopic: 選択したトピックを保存します
-TemplateBundlePageSaveSelectedTopicAndSubtopics: 選択したトピックとサブトピックを保存します
+TemplateBundlePagePrintTooltip: トピックを印刷する
+TemplateBundlePagePrivacy: プライバシーの保護のため、フィードバックには連絡先の情報を入力しないでください。弊社の
+TemplateBundlePagePrivacyLast: プライバシー ポリシーを表示します。
+TemplateBundlePageProvideFeedbackCharsLeft: 残り 500 文字
+TemplateBundlePageProvideFeedbackTooltip: フィードバックの送信
+TemplateBundlePageSaveAsPDF: PDF で保存する
+TemplateBundlePageSavePDFTooltip: PDF で保存する
+TemplateBundlePageSaveSelectedTopic: 選択したトピックの保存
+TemplateBundlePageSaveSelectedTopicAndSubtopics: 選択したトピックとサブトピックの保存
 TemplateBundlePageSeeAlso: 関連項目
 TemplateBundlePageSend: 送信
 TemplateBundlePageSendLink: 送信
-TemplateBundlePageSendLinkTooltip: トピックへのリンクを送信
-TemplateBundlePageSubmit: 提出
+TemplateBundlePageSendLinkTooltip: トピックへのリンクの送信
+TemplateBundlePageSubmit: 送信
 TemplateBundlePageWasThisInformationHelpful: この情報は役立ちましたか?
 TemplateBundlePageYEs: はい
 TemplateBundlesDeleteLanguage: 言語の削除
 TemplateBundlesDeleteManual: マニュアルの削除
 TemplateBundlesDownload: バンドルをダウンロードする
-TemplateBundlesDownloadClassification: 分類 XML をダウンロードする
+TemplateBundlesDownloadClassification: 分類 XML のダウンロード
 TemplateBundlesHiddenBundle: 非表示のマニュアル
-TemplateBundlesSearchManuals: マニュアルの検索
+TemplateBundlesSearchManuals: マニュアルを検索する
 TemplateBundlesUploadClassification: 分類 XML をアップロードする
 TemplateClassificationForManual: マニュアルの場合
 TemplateClassificationUploadClassificationMap: Classification Map XML のアップロード
@@ -254,10 +254,10 @@ TemplateRequestResetPasswordEmail: 電子メール
 TemplateRequestResetPasswordSubmit: パスワード リセットの電子メールをリクエストする
 TemplateSearchCurrentPublication name@Text: 現在の検索は文書「#{name}」に限定されています
 TemplateSearchPageClearTooltip: フィルターをクリアする
-TemplateSearchPageFirstPageTooltip: 先頭ページに移動
-TemplateSearchPageLastPageTooltip: 最終ページに移動
-TemplateSearchPageNextPageTooltip: 次のページに移動
-TemplateSearchPagePrevPageTooltip: 前のページに移動
+TemplateSearchPageFirstPageTooltip: 先頭ページに移動する
+TemplateSearchPageLastPageTooltip: 最終ページに移動する
+TemplateSearchPageNextPageTooltip: 次のページに移動する
+TemplateSearchPagePrevPageTooltip: 前のページに移動する
 TemplateSearchPublicationTitle: 文書
 TemplateSearchSortbyCreatedAsc: 作成日 - 昇順
 TemplateSearchSortbyCreatedDec: 作成日 - 降順
@@ -266,8 +266,8 @@ TemplateSearchSortbyUpdatedAsc: 追加日 - 昇順
 TemplateSearchSortbyUpdatedDec: 追加日 - 降順
 TemplateSearchSortbyViews: 表示回数
 TemplatesSearchPageClear: クリア
-TemplatesSearchPageCurrentResultsFirst: Results
-TemplatesSearchPageCurrentResults: 検索結果 xx-yy / zzz 件
+TemplatesSearchPageCurrentResultsFirst: 結果 
+TemplatesSearchPageCurrentResults: /
 TemplatesSearchPageRefilneResults: 結果の絞り込み
 TemplatesSearchPageResultUpdated: 更新
 TemplateUploadSitemapDisable: サイトマップを無効にする
@@ -281,51 +281,51 @@ TemplateUploadSitemapLegend: sitemap.xml をアップロードする
 TemplateUploadSitemapStatus sts@Text: サイトマップは #{sts} です
 TextPass txt@Text: #{txt}
 Upload: アップロード
-UploadLink: 文書のアップロード
+UploadLink: 文書をアップロードする
 YesodAuthStormPathSSOErrorOccured: エラーが発生しました
 YesodAuthStormPathSSOLoginParamError: SSO ログイン パラメーターにエラーがありました
-YesodAuthStormPathSSOLoginTryAgain: 次を使用してもう一度ログインをお試しください
-LoginSite：ログイン
-LoginSiteEmail：電子メールアドレス
-LoginSiteForgotPassword：パスワードを忘れました
-LoginSiteMessage：あなたは現在、ログインしてい
-LoginSiteZD：ZoominDocsログイン
-TemplateAdminCategoryfile：カテゴリーのXMLファイル
-TemplateAdminCshCurrent：現在のCSHのルール
-TemplateAdminCshDownload：現在のCSHのコンフィギュレーションファイルのダウンロード
-TemplateAdminCshRuleContents：ルールの内容
-TemplateAdminCshRuleName：ルール名
-TemplateAdminCshRulePriority：ルールの優先順位
-TemplateAdminCshUpload：アップロードCSH設定ファイル
-TemplateAdminCurrentContentRoleGroups：現在のコンテンツ役割グループ
-TemplateAdminDownloadDefaultLanguage：現在のデフォルトの言語ファイルをダウンロード
-TemplateAdminDownloadcurrentCategory：現在のカテゴリのXMLファイルをダウンロード
-TemplateAdminListGroupCurrentGroups：現在のグループ
-TemplateAdminListGroupDefineNewGroup：新しいグループを定義します
-TemplateAdminListRoleAdmin：管理者
-TemplateAdminListRoleCurrentRoles：現在の役割
-TemplateAdminListRoleDefineNewRole：新しい役割を定義します
-TemplateAdminListRoleRolesPublic：公共
-TemplateAdminListRoleViewer：ビューア
-TemplateAdminListUsersAction：アクション
-TemplateAdminListUsersDeleteUser：ユーザーの削除
-TemplateAdminListUsersEditPermissions：編集権限
-TemplateAdminListUsersEmail：メール
-TemplateAdminListUsersFullName：フルネーム
-TemplateAdminListUsersResetPassword：パスワードのリセット
-TemplateAdminSubjectSchemeDeleteLanguage：言語ファイルを削除します。
-TemplateAdminSubjectSchemeDownload：ダウンロード
-TemplateAdminSubjectSchemeDownloadLanguage：ダウンロード言語ファイル
-TemplateAdminSubjectSchemeExistingLocalizations：既存のローカリゼーション
-TemplateAdminSubjectSchemeLanguage：言語
-TemplateAdminSubjectSchemeLocalizationTitle：件名スキームローカリゼーション
-TemplateAdminSubjectSchemeUpdate：更新
-TemplateAdminSubjectSchemeUpdateLanguage：更新言語ファイル
-TemplateAdminUploadCategoryfile：アップロードカテゴリファイル
-TemplateAdminUploadDefaultLanguage：アップロードデフォルトの言語ファイル
-TemplateAdminUploadSiteMapFile：アップロードサイトマップファイル
-TemplateSubjectSchemeUpload：アップロード件名スキーム
-TemplateSubjectSchemeWarnReindex：注：アップロード新しい件名方式は、サイト全体を再インデックス付けされます。ちょっと時間かかります。
-TemplatesSubjectSchemeChooseFile：ファイルを選択します（ないのhtmlで、Vlatkoを頼みます）
-TemplatesSubjectSchemeDownloadcurrent：現在のサブジェクトスキームをダウンロード
-TemplatesSubjectSchemeNoFileChosen：いいえ、ファイル選択されました
+YesodAuthStormPathSSOLoginTryAgain: 次を使用してもう一度お試しください:
+LoginSite: ログイン
+LoginSiteEmail: メール アドレス
+LoginSiteForgotPassword: パスワードを忘れた場合
+LoginSiteMessage: 現在のログイン先:
+LoginSiteZD: ZoominDocs ログイン
+TemplateAdminCategoryfile: カテゴリ XML ファイル
+TemplateAdminCshCurrent: 現在の CSH ルール
+TemplateAdminCshDownload: 現在の CSH 構成ファイルをダウンロードする
+TemplateAdminCshRuleContents: ルール コンテンツ
+TemplateAdminCshRuleName: ルール名
+TemplateAdminCshRulePriority: ルール優先度
+TemplateAdminCshUpload: CSH 構成ファイルをアップロードする
+TemplateAdminCurrentContentRoleGroups: 現在のコンテンツ ロール グループ
+TemplateAdminDownloadDefaultLanguage: 現在のデフォルト言語ファイルをダウンロードする
+TemplateAdminDownloadcurrentCategory: 現在のカテゴリ XML ファイルをダウンロードする
+TemplateAdminListGroupCurrentGroups: 現在のグループ
+TemplateAdminListGroupDefineNewGroup: 新規グループを定義する
+TemplateAdminListRoleAdmin: 管理者
+TemplateAdminListRoleCurrentRoles: 現在のロール
+TemplateAdminListRoleDefineNewRole: 新規ロールを定義する
+TemplateAdminListRoleRolesPublic : 公開
+TemplateAdminListRoleViewer: ビューアー
+TemplateAdminListUsersAction: アクション
+TemplateAdminListUsersDeleteUser: ユーザーの削除
+TemplateAdminListUsersEditPermissions: 権限を編集する
+TemplateAdminListUsersEmail: 電子メール
+TemplateAdminListUsersFullName: 氏名
+TemplateAdminListUsersResetPassword: パスワードのリセット
+TemplateAdminSubjectSchemeDeleteLanguage: 言語ファイルの削除
+TemplateAdminSubjectSchemeDownload: ダウンロード
+TemplateAdminSubjectSchemeDownloadLanguage: 言語ファイルをダウンロードする
+TemplateAdminSubjectSchemeExistingLocalizations: 既存のローカライズ
+TemplateAdminSubjectSchemeLanguage: 言語
+TemplateAdminSubjectSchemeLocalizationTitle: Subject Scheme のローカライズ
+TemplateAdminSubjectSchemeUpdate: 更新
+TemplateAdminSubjectSchemeUpdateLanguage: 言語ファイルを更新する
+TemplateAdminUploadCategoryfile: カテゴリ ファイルをアップロードする
+TemplateAdminUploadDefaultLanguage: デフォルトの言語ファイルをアップロードする
+TemplateAdminUploadSiteMapFile: サイトマップ ファイルをアップロードする
+TemplateSubjectSchemeUpload: Subject Scheme をアップロードする
+TemplateSubjectSchemeWarnReindex: 注意: 新しい Subject Scheme をアップロードすると、サイト全体でインデックスが再作成されます。処理が完了するまで数分かかる場合があります。
+TemplatesSubjectSchemeChooseFile: ファイルを選択する (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: 現在の Subject Scheme をダウンロードする
+TemplatesSubjectSchemeNoFileChosen: ファイルが選択されていません

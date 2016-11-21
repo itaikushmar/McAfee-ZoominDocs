@@ -1,4 +1,4 @@
-AdvancedSearch: Recherche avancée 
+﻿AdvancedSearch: Recherche avancée
 AdvancedSearchTooltip: Sélectionner les filtres de contenu
 BreadcrumbsProductDocumentationHome: Page d'accueil de la documentation sur les produits
 BreadcrumbsSearch: Rechercher
@@ -41,8 +41,8 @@ HandlerCustomError500H3: Erreur de serveur interne
 HandlerFontoDocumentSaved: Document enregistré
 HandlerFontoErrorGeneratingUUID: Erreur lors de la génération de l'UUID
 HandlerFontoErrorParsingID: Erreur lors de l'analyse de l'ID
-HandlerFontoErrorParsingXML: Erreur lors de l'analyse du contenu XML
-HandlerFontoErrorParsingXMLToDocument: Erreur lors de la conversion du fichier XML au format de sortie
+HandlerFontoErrorParsingXML: Erreur lors de l'analyse XML
+HandlerFontoErrorParsingXMLToDocument: Erreur lors de l'analyse XML pour la conversion en document
 HandlerFontoNoFileFound: Fichier introuvable
 HandlerFontoNoIDFound: ID introuvable
 HandlerFontoUntitledFromCursor: Sans titre – à partir du curseur
@@ -63,7 +63,7 @@ HandlerMyPubSourcePublication: Publication de la source
 HandlerProfileDisplayName: Nom d'affichage
 HandlerProfileScreenName: Pseudonyme
 HandlerProfileUpdated: Profil mis à jour
-HandlerProfileUsernameInUse: Le nom d'utilisateur existe déjà
+HandlerProfileUsernameInUse: Le nom utilisateur existe déjà
 HandlerRatingsInvalidRating: Evaluation non valide
 HandlerRatingsRatingRecorded: Votre évaluation a été enregistrée
 HandlerRatingsRatingUpdated: Votre évaluation a été mise à jour
@@ -73,11 +73,11 @@ HandlerRolesNoRoleNameFound: Aucun nom de rôle n'a été trouvé
 HandlerRolesNotEnoughAdminUsersRemaining: Utilisateurs impossibles à affecter
 HandlerRolesSelectedPermissionsLessThenDefault: Autorisations impossibles à affecter : les autorisations sélectionnées sont inférieures à l'ensemble d'autorisations par défaut
 HandlerSearchAllResults: Tous les résultats
-HandlerSearchNoResultsMsgTryFollowing: Aucun résultat trouvé. Essayez ce qui suit:
-HandlerSearchNoResultsMsgSpelledCorrectly: Assure toi que tous les mots sont épelés correctement.
-HandlerSearchNoResultsMsgTryDifferent: Essayez différents mots-clés.
-HandlerSearchNoResultsMsgMoreGeneral: Essayez des mots clés plus généraux.
-HandlerSearchNoResultsMsgNoFindProdVer: Ne pas trouver votre produit ou une version? Allez à la sécurité ServicePortal Intel.
+HandlerSearchNoResultsMsgTryFollowing: Aucun résultat n'a été trouvé. Essayez les solutions suivantes :
+HandlerSearchNoResultsMsgSpelledCorrectly: Vérifiez que tous les mots clés sont orthographiés correctement.
+HandlerSearchNoResultsMsgTryDifferent: Entrez un autre mot clé.
+HandlerSearchNoResultsMsgMoreGeneral: Entrez un mot clé plus général.
+HandlerSearchNoResultsMsgNoFindProdVer: Vous ne trouvez pas votre produit ou votre version ? Rendez-vous sur le portail Intel Security ServicePortal.
 HandlerSearchNoResults: Aucun résultat
 HandlerSearchOneResult: Un résultat
 HandlerSitemapFile: Fichier de plan du site
@@ -96,8 +96,8 @@ HandlerSubjectSchemeUnknownLanguageCode: Code de langue inconnu
 HandlerSubjectSchemeUpdated: Schéma d'objet mis à jour
 HandlerSubjectSchemeXMLFile: Fichier XML du schéma d'objet
 HandlerUploadBundleBundle: offre groupée
-HandlerUploadBundleDeleteError x@Text: Erreur lors de la suppression de #{x}
-HandlerUploadBundleDeleteSuccess x@Text: #{x} a été supprimé(e)
+HandlerUploadBundleDeleteError x@Text: Erreur lors de la suppression de l'#{x}
+HandlerUploadBundleDeleteSuccess x@Text: L'#{x} a été supprimée
 HandlerUploadBundleError: Erreur
 HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Erreur - Mettez à jour la version de votre offre groupée
 HandlerUploadBundleNoContentToDelete x@Text: Aucun contenu à supprimer dans #{x} 
@@ -119,7 +119,7 @@ HandlerUsersNoRoleIdFound: Aucun ID de rôle n'a été trouvé
 HandlerUsersPasswordEmailSent: E-mail de réinitialisation du mot de passe envoyé
 HandlerUsersRegisterSuccess: L'utilisateur a été enregistré
 HandlerUsersResetPasswordError: Erreur lors de la réinitialisation du mot de passe
-HandlerUsersRolesUpdated: Rôles d'utilisateur mis à jour
+HandlerUsersRolesUpdated: Rôles utilisateur mis à jour
 HandlerUsersUnableToAssignUserPermissionRole: Rôle d'autorisation utilisateur impossible à affecter
 HandlerUsersUnknownError: Erreur inconnue
 HideTOC: Masquer le sommaire
@@ -141,13 +141,13 @@ ImportSearchUnknownTopicLink: *** lien de rubrique inconnu ***
 ImportUsersCaptchaError: reCAPTCHA non valide 
 ImportUsersCaptchaParseError: Erreur de reCAPTCHA
 ImportUsersEmailFieldError: Aucun champ d'e-mail n'a été trouvé.
-ImportUsersFldEmail: Adresse e-mail
+ImportUsersFldEmail: E-mail
 ImportUsersFldFirstName: Prénom
 ImportUsersFldLastName: Nom
 ImportUsersFldPassword: Mot de passe
 ImportUsersFldReenterPass: Saisir de nouveau le mot de passe
 ImportUsersInvalidPass: Mot de passe non valide : le mot de passe sélectionné doit contenir au moins huit caractères, et comprendre au moins une majuscule, une minuscule, un caractère spécial et un chiffre.
-LoggedInAs email@Text: Connecté(e) en tant que #{email}.
+LoggedInAs email@Text: Connecté en tant que #{email}.
 Manuals: Manuels
 PDFPage: Page
 ProductDocumentationSplashTitle: Documentation sur les produits 
@@ -160,7 +160,7 @@ SearchContent: Rechercher dans ce contenu
 SearchHome: Rechercher dans la documentation sur les produits
 ShowTOC: Afficher le sommaire
 SSOLoginParamError: Les paramètres de connexion SSO sont incorrects
-SSOLoginTryAgain: Essayez de vous reconnecter avec
+SSOLoginTryAgain: Essayez de vous reconnecter avec votre
 SwitchLang: Modifier la langue
 TemplaesBundlesTitle: Bibliothèque de documentation
 TemplateAddHelperCancel: Annuler
@@ -187,13 +187,13 @@ TemplateAdminUploadNewLangFile: Charger un nouveau fichier de code de langue par
 TemplateAdminUploadSubjectScheme: Gérer le schéma d'objet
 TemplateAdminUserGroups: Groupes d'utilisateurs
 TemplateAdminUserManagement: Gestion des utilisateurs
-TemplateAdminUserRoles: Rôles d'utilisateur
+TemplateAdminUserRoles: Rôles utilisateur
 TemplateBundlePageCollapse: Réduire
 TemplateBundlePageCollapseTooltip: Réduire tous les titres
 TemplateBundlePageComments: Commentaires
 TemplateBundlePageContents: Sommaire
 TemplateBundlePageExpand: Développer
-TemplateBundlePageExpandTooltip: Etendre le sommaire
+TemplateBundlePageExpandTooltip: Développer le sommaire
 TemplateBundlePageFeedback: Commentaires
 TemplateBundlePageFeedbackThankYou: Merci. Vos commentaires ont été envoyés. 
 TemplateBundlePageFeedbackTooltip: Envoyer des commentaires
@@ -205,10 +205,10 @@ TemplateBundlePagePrevious: Précédent
 TemplateBundlePagePrevTopicTooltip: Accéder à la rubrique précédente
 TemplateBundlePagePrint: Imprimer
 TemplateBundlePagePrintTooltip: Imprimer la rubrique
-TemplateBundlePagePrivacy: Afin de garantir la confidentialité de vos informations personnelles, veuillez ne pas inclure vos coordonnées dans vos commentaires. Lisez notre politique
-TemplateBundlePagePrivacyLast: de confidentialité.
-TemplateBundlePageProvideFeedbackCharsLeft: 500 caractères restants
-TemplateBundlePageProvideFeedbackTooltip: Fournir des commentaires
+TemplateBundlePagePrivacy: Afin de garantir la confidentialité de vos informations personnelles, veuillez ne pas inclure vos coordonnées dans vos commentaires. Consultez notre
+TemplateBundlePagePrivacyLast: politique de confidentialité
+TemplateBundlePageProvideFeedbackCharsLeft: 500 caractère(s) restant(s)
+TemplateBundlePageProvideFeedbackTooltip: Entrer des commentaires
 TemplateBundlePageSaveAsPDF: Enregistrer au format PDF
 TemplateBundlePageSavePDFTooltip: Enregistrer au format PDF
 TemplateBundlePageSaveSelectedTopic: Enregistrer la rubrique sélectionnée
@@ -229,7 +229,7 @@ TemplateBundlesSearchManuals: Rechercher dans les manuels
 TemplateBundlesUploadClassification: Charger le fichier XML de classification
 TemplateClassificationForManual: Pour le manuel
 TemplateClassificationUploadClassificationMap: Charger le fichier XML de mappage de classification
-TemplateClassificationWarnReindex: REMARQUE : le chargement d'un mappage de classification entraînera la réindexation de la totalité du site. L'opération peut prendre plusieurs minutes.
+TemplateClassificationWarnReindex: REMARQUE : le chargement d'un mappage de classification entraînera la réindexation de la totalité du site. Cette opération peut prendre plusieurs minutes.
 TemplateContentRolesCRGroups: Groupes de rôles de contenu
 TemplateContentRolesDefineNewCR: Définir un nouveau rôle de contenu
 TemplateDefaultLayoutAdministration: Administration
@@ -242,8 +242,8 @@ TemplateDefaultLayoutLinksCareers: Opportunités d'emploi
 TemplateDefaultLayoutLinksContactUs: Nous contacter
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Conditions des contrats et dispositions légales
-TemplateDefaultLayoutLinksLegalNotices: Mentions légales  
-TemplateDefaultLayoutLinksPrivacy: Intimité
+TemplateDefaultLayoutLinksLegalNotices: Avis juridique
+TemplateDefaultLayoutLinksPrivacy: Confidentialité
 TemplateDefaultLayoutLinksSiteMap: Plan du site
 TemplateDefaultLayoutLinksWebsiteFeedback: Commentaires sur le site web
 TemplateDefaultLayoutLogout: Se déconnecter
@@ -266,7 +266,7 @@ TemplateSearchSortbyUpdatedAsc: Date d'ajout - Ordre croissant
 TemplateSearchSortbyUpdatedDec: Date d'ajout - Ordre décroissant
 TemplateSearchSortbyViews: Nombre de consultations
 TemplatesSearchPageClear: Effacer
-TemplatesSearchPageCurrentResultsFirst: Résultats
+TemplatesSearchPageCurrentResultsFirst: Résultats 
 TemplatesSearchPageCurrentResults: sur
 TemplatesSearchPageRefilneResults: Affiner les résultats
 TemplatesSearchPageResultUpdated: Mis à jour
@@ -284,48 +284,48 @@ Upload: Charger
 UploadLink: Charger une publication
 YesodAuthStormPathSSOErrorOccured: Une erreur s'est produite
 YesodAuthStormPathSSOLoginParamError: Les paramètres de connexion SSO sont incorrects
-YesodAuthStormPathSSOLoginTryAgain: Essayez de vous reconnecter avec
-LoginSite: Connexion
+YesodAuthStormPathSSOLoginTryAgain: Reconnectez-vous avec votre
+LoginSite: Se connecter
 LoginSiteEmail: Adresse e-mail
 LoginSiteForgotPassword: Mot de passe oublié
-LoginSiteMessage: Vous êtes maintenant connecté
-LoginSiteZD: ZoominDocs Connexion
-TemplateAdminCategoryfile: Fichier XML de la catégorie
+LoginSiteMessage: Vous êtes connecté
+LoginSiteZD: Connexion à ZoominDocs
+TemplateAdminCategoryfile: Fichier XML de catégorie
 TemplateAdminCshCurrent: Règles CSH actuelles
 TemplateAdminCshDownload: Télécharger le fichier de configuration CSH actuel
-TemplateAdminCshRuleContents: Contenu des règles
+TemplateAdminCshRuleContents: Contenu de la règle
 TemplateAdminCshRuleName: Nom de la règle
-TemplateAdminCshRulePriority: Priorité à la règle
-TemplateAdminCshUpload: Téléchargement du fichier CSH Config
-TemplateAdminCurrentContentRoleGroups: Groupes de rôles actuels du contenu
+TemplateAdminCshRulePriority: Priorité de la règle
+TemplateAdminCshUpload: Charger le fichier de configuration CSH
+TemplateAdminCurrentContentRoleGroups:  Groupes de rôles de contenu actuels
 TemplateAdminDownloadDefaultLanguage: Télécharger le fichier de langue par défaut actuel
-TemplateAdminDownloadcurrentCategory: Télécharger les catégories actuelles Fichier XML
+TemplateAdminDownloadcurrentCategory: Télécharger le fichier XML de catégorie actuel
 TemplateAdminListGroupCurrentGroups: Groupes actuels
 TemplateAdminListGroupDefineNewGroup: Définir un nouveau groupe
-TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleAdmin: administrateur
 TemplateAdminListRoleCurrentRoles: Rôles actuels
 TemplateAdminListRoleDefineNewRole: Définir un nouveau rôle
-TemplateAdminListRoleRolesPublic: Public
-TemplateAdminListRoleViewer: visionneuse
+TemplateAdminListRoleRolesPublic : Public
+TemplateAdminListRoleViewer: observateur
 TemplateAdminListUsersAction: Action
 TemplateAdminListUsersDeleteUser: Supprimer l'utilisateur
 TemplateAdminListUsersEditPermissions: Modifier les autorisations
-TemplateAdminListUsersEmail: Email
+TemplateAdminListUsersEmail: E-mail
 TemplateAdminListUsersFullName: Nom complet
 TemplateAdminListUsersResetPassword: Réinitialiser le mot de passe
 TemplateAdminSubjectSchemeDeleteLanguage: Supprimer le fichier de langue
 TemplateAdminSubjectSchemeDownload: Télécharger
 TemplateAdminSubjectSchemeDownloadLanguage: Télécharger le fichier de langue
-TemplateAdminSubjectSchemeExistingLocalizations: localisations existantes
+TemplateAdminSubjectSchemeExistingLocalizations: Localisations existantes
 TemplateAdminSubjectSchemeLanguage: Langue
-TemplateAdminSubjectSchemeLocalizationTitle: Objet Localisation du schéma
-TemplateAdminSubjectSchemeUpdate: Mise à jour
-TemplateAdminSubjectSchemeUpdateLanguage: Mettre à jour le fichier linguistique
-TemplateAdminUploadCategoryfile: Télécharger le fichier de catégorie
-TemplateAdminUploadDefaultLanguage: Importer le fichier de langue par défaut
-TemplateAdminUploadSiteMapFile: Télécharger le fichier de sitemap
-TemplateSubjectSchemeUpload: Soumettre le schéma du sujet
-TemplateSubjectSchemeWarnReindex: REMARQUE: le téléchargement d'un nouveau schéma d'objet entraînera la réindexation du site entier. Cela peut prendre plusieurs minutes.
-TemplatesSubjectSchemeChooseFile: Choisissez Fichier (demandez Vlatko, pas en html)
-TemplatesSubjectSchemeDownloadcurrent: Télécharger le schéma actuel du sujet
-TemplatesSubjectSchemeNoFileChosen: Aucun fichier choisi
+TemplateAdminSubjectSchemeLocalizationTitle: Localisation du schéma d'objet
+TemplateAdminSubjectSchemeUpdate: Mettre à jour
+TemplateAdminSubjectSchemeUpdateLanguage: Mettre à jour le fichier de langue
+TemplateAdminUploadCategoryfile: Charger le fichier de catégorie
+TemplateAdminUploadDefaultLanguage: Charger le fichier de langue par défaut
+TemplateAdminUploadSiteMapFile: Charger le fichier de plan du site
+TemplateSubjectSchemeUpload: Charger le schéma d'objet
+TemplateSubjectSchemeWarnReindex: REMARQUE : le chargement d'un nouveau schéma d'objet entraînera la réindexation de la totalité du site. Cette opération peut prendre plusieurs minutes.
+TemplatesSubjectSchemeChooseFile: Choisir un fichier (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: Télécharger le schéma d'objet actuel
+TemplatesSubjectSchemeNoFileChosen: Aucun fichier n'a été sélectionné

@@ -1,4 +1,4 @@
-AdvancedSearch: Pesquisa avançada 
+﻿AdvancedSearch: Pesquisa avançada
 AdvancedSearchTooltip: Selecionar filtros de conteúdo
 BreadcrumbsProductDocumentationHome: Início da documentação do produto
 BreadcrumbsSearch: Pesquisar
@@ -74,10 +74,10 @@ HandlerRolesNotEnoughAdminUsersRemaining: Não foi possível atribuir usuários
 HandlerRolesSelectedPermissionsLessThenDefault: Não foi possível atribuir permissões: O total de permissões selecionadas é menor do que o conjunto de permissões padrão
 HandlerSearchAllResults: Todos os resultados
 HandlerSearchNoResultsMsgTryFollowing: Nenhum resultado encontrado. Tente o seguinte:
-HandlerSearchNoResultsMsgSpelledCorrectly: Certifique-se de que todas as palavras estão escritas corretamente.
+HandlerSearchNoResultsMsgSpelledCorrectly: Faça a verificação ortográfica de todas as palavras.
 HandlerSearchNoResultsMsgTryDifferent: Tente palavras-chave diferentes.
 HandlerSearchNoResultsMsgMoreGeneral: Tente palavras-chave mais gerais.
-HandlerSearchNoResultsMsgNoFindProdVer: Não encontrar o seu produto ou versão mais recente? Vá para a Segurança ServicePortal Intel.
+HandlerSearchNoResultsMsgNoFindProdVer: Não encontra seu produto ou versão? Vá para o Intel Security ServicePortal.
 HandlerSearchNoResults: Nenhum resultado
 HandlerSearchOneResult: Um resultado
 HandlerSitemapFile: Arquivo do mapa do site
@@ -205,9 +205,9 @@ TemplateBundlePagePrevious: Voltar
 TemplateBundlePagePrevTopicTooltip: Ir para o tópico anterior
 TemplateBundlePagePrint: Imprimir
 TemplateBundlePagePrintTooltip: Imprimir tópico
-TemplateBundlePagePrivacy: Para proteger a sua privacidade, não inclua as suas informações de contato nos comentários. Revise a nossa política
-TemplateBundlePagePrivacyLast: de privacidade.
-TemplateBundlePageProvideFeedbackCharsLeft: 500 caracteres restantes
+TemplateBundlePagePrivacy: Para proteger a sua privacidade, não inclua as suas informações de contato nos comentários. Consulte nossa
+TemplateBundlePagePrivacyLast: política de privacidade.
+TemplateBundlePageProvideFeedbackCharsLeft: Faltam 500 caracteres
 TemplateBundlePageProvideFeedbackTooltip: Fornecer comentários
 TemplateBundlePageSaveAsPDF: Salvar como PDF
 TemplateBundlePageSavePDFTooltip: Salvar como PDF
@@ -226,7 +226,7 @@ TemplateBundlesDownload: Fazer download do pacote
 TemplateBundlesDownloadClassification: Fazer download do XML de classificação
 TemplateBundlesHiddenBundle: Manual oculto
 TemplateBundlesSearchManuals: Pesquisar manuais
-TemplateBundlesUploadClassification: Fazer upload de XML de classificação
+TemplateBundlesUploadClassification: Fazer upload do XML de classificação
 TemplateClassificationForManual: Para manual
 TemplateClassificationUploadClassificationMap: Fazer upload do XML do mapa de classificação
 TemplateClassificationWarnReindex: OBSERVAÇÃO: o upload de um mapa de classificação reindexará todo o site. A conclusão deste processo pode levar vários minutos.
@@ -242,7 +242,7 @@ TemplateDefaultLayoutLinksCareers: Carreiras
 TemplateDefaultLayoutLinksContactUs: Fale conosco
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Termos e contratos legais
-TemplateDefaultLayoutLinksLegalNotices: Avisos legais  
+TemplateDefaultLayoutLinksLegalNotices: Avisos legais
 TemplateDefaultLayoutLinksPrivacy: Privacidade
 TemplateDefaultLayoutLinksSiteMap: Mapa do site
 TemplateDefaultLayoutLinksWebsiteFeedback: Comentários sobre o site
@@ -259,14 +259,14 @@ TemplateSearchPageLastPageTooltip: Ir para a última página
 TemplateSearchPageNextPageTooltip: Ir para a próxima página
 TemplateSearchPagePrevPageTooltip: Ir para a página anterior
 TemplateSearchPublicationTitle: Publicação
-TemplateSearchSortbyCreatedAsc: Data de criação - crescente
+TemplateSearchSortbyCreatedAsc: Data de criação - Crescente
 TemplateSearchSortbyCreatedDec: Data de criação - Decrescente
 TemplateSearchSortbyScore: Pontuação
-TemplateSearchSortbyUpdatedAsc: Data da adição - crescente
-TemplateSearchSortbyUpdatedDec: Data da adição - decrescente
+TemplateSearchSortbyUpdatedAsc: Data da adição - Crescente
+TemplateSearchSortbyUpdatedDec: Data da adição - Decrescente
 TemplateSearchSortbyViews: Número de exibições
 TemplatesSearchPageClear: Limpar
-TemplatesSearchPageCurrentResultsFirst: Resultados
+TemplatesSearchPageCurrentResultsFirst: Resultados 
 TemplatesSearchPageCurrentResults: de
 TemplatesSearchPageRefilneResults: Refinar resultados
 TemplatesSearchPageResultUpdated: Atualizado
@@ -284,48 +284,48 @@ Upload: Fazer upload
 UploadLink: Fazer upload da publicação
 YesodAuthStormPathSSOErrorOccured: Erro
 YesodAuthStormPathSSOLoginParamError: Erro com os parâmetros de entrada de SSO
-YesodAuthStormPathSSOLoginTryAgain: Tente entrar novamente com
-LoginSite: Login
+YesodAuthStormPathSSOLoginTryAgain: Entre novamente com
+LoginSite: Entrar
 LoginSiteEmail: Endereço de e-mail
 LoginSiteForgotPassword: Esqueceu a senha?
-LoginSiteMessage: Você está agora logado
-LoginSiteZD: ZoominDocs Entrar
+LoginSiteMessage: Agora você está conectado
+LoginSiteZD: Entrar no ZoominDocs
 TemplateAdminCategoryfile: Arquivo XML de categoria
-TemplateAdminCshCurrent: Regras atuais do CSH
-TemplateAdminCshDownload: Baixar o arquivo de configuração CSH atual
+TemplateAdminCshCurrent: Regras de CSH atuais
+TemplateAdminCshDownload: Fazer download do Arquivo de configuração de CSH atual
 TemplateAdminCshRuleContents: Conteúdo da regra
 TemplateAdminCshRuleName: Nome da regra
-TemplateAdminCshRulePriority: Prioridade de regra
-TemplateAdminCshUpload: Carregue o arquivo CSH Config
-TemplateAdminCurrentContentRoleGroups: grupos de função de conteúdo atual
-TemplateAdminDownloadDefaultLanguage: Download do arquivo de idioma padrão atual
-TemplateAdminDownloadcurrentCategory: Download de categorias atuais arquivo XML
+TemplateAdminCshRulePriority: Prioridade da regra
+TemplateAdminCshUpload: Faça upload do Arquivo de configuração de CSH
+TemplateAdminCurrentContentRoleGroups:  Grupos de função de conteúdo atuais
+TemplateAdminDownloadDefaultLanguage: Fazer download do Arquivo de idioma padrão atual
+TemplateAdminDownloadcurrentCategory: Fazer download do arquivo XML de categorias atual
 TemplateAdminListGroupCurrentGroups: Grupos atuais
-TemplateAdminListGroupDefineNewGroup: Definir novo grupo
-TemplateAdminListRoleAdmin: admin
+TemplateAdminListGroupDefineNewGroup: Definir Novo grupo
+TemplateAdminListRoleAdmin: administração
 TemplateAdminListRoleCurrentRoles: Funções atuais
-TemplateAdminListRoleDefineNewRole: Definir nova função
-TemplateAdminListRoleRolesPublic: Public
+TemplateAdminListRoleDefineNewRole: Definir Nova função
+TemplateAdminListRoleRolesPublic : Público
 TemplateAdminListRoleViewer: visualizador
-TemplateAdminListUsersAction: Action
+TemplateAdminListUsersAction: Ação
 TemplateAdminListUsersDeleteUser: Excluir usuário
 TemplateAdminListUsersEditPermissions: Editar permissões
-TemplateAdminListUsersEmail: Email
+TemplateAdminListUsersEmail: E-mail
 TemplateAdminListUsersFullName: Nome completo
-TemplateAdminListUsersResetPassword: Redefinir Senha
+TemplateAdminListUsersResetPassword: Redefinir senha
 TemplateAdminSubjectSchemeDeleteLanguage: Excluir arquivo de idioma
-TemplateAdminSubjectSchemeDownload: Download
-TemplateAdminSubjectSchemeDownloadLanguage: Baixar arquivo de idioma
+TemplateAdminSubjectSchemeDownload: Fazer download
+TemplateAdminSubjectSchemeDownloadLanguage: Fazer download do arquivo de idioma
 TemplateAdminSubjectSchemeExistingLocalizations: Localizações existentes
 TemplateAdminSubjectSchemeLanguage: Idioma
-TemplateAdminSubjectSchemeLocalizationTitle: Assunto Localização do esquema
-TemplateAdminSubjectSchemeUpdate: Atualização
-TemplateAdminSubjectSchemeUpdateLanguage: Atualizar arquivo de linguagem
-TemplateAdminUploadCategoryfile: Carregar arquivo de categoria
-TemplateAdminUploadDefaultLanguage: Carregar Arquivo de Idioma Padrão
-TemplateAdminUploadSiteMapFile: Carregar arquivo de sitemap
-TemplateSubjectSchemeUpload: Submeter esquema de assunto
-TemplateSubjectSchemeWarnReindex: Observação: carregar um novo esquema de assunto fará com que o site inteiro seja re-indexado. Isso pode levar vários minutos.
-TemplatesSubjectSchemeChooseFile: Escolha Arquivo (pergunte Vlatko, não em html)
-TemplatesSubjectSchemeDownloadcurrent: Fazer o download do esquema de assunto atual
+TemplateAdminSubjectSchemeLocalizationTitle: Localização do esquema do assunto
+TemplateAdminSubjectSchemeUpdate: Atualizar
+TemplateAdminSubjectSchemeUpdateLanguage: Atualizar arquivo de idioma
+TemplateAdminUploadCategoryfile: Fazer upload do Arquivo de categoria
+TemplateAdminUploadDefaultLanguage: Fazer upload do Arquivo de idioma padrão
+TemplateAdminUploadSiteMapFile: Fazer upload do Arquivo do mapa do site
+TemplateSubjectSchemeUpload: Fazer upload do Esquema do assunto
+TemplateSubjectSchemeWarnReindex: OBSERVAÇÃO: o upload de um novo esquema do assunto reindexará todo o site. A conclusão deste processo pode levar vários minutos.
+TemplatesSubjectSchemeChooseFile: Escolher arquivo (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: Fazer download do Esquema do assunto atual
 TemplatesSubjectSchemeNoFileChosen: Nenhum arquivo escolhido

@@ -1,4 +1,4 @@
-AdvancedSearch: Avansert søk 
+﻿AdvancedSearch: Avansert søk
 AdvancedSearchTooltip: Velg innholdsfiltre
 BreadcrumbsProductDocumentationHome: Hjemmeside for produktdokumentasjon
 BreadcrumbsSearch: Søk
@@ -73,11 +73,11 @@ HandlerRolesNoRoleNameFound: Finner ikke rollenavn
 HandlerRolesNotEnoughAdminUsersRemaining: Kan ikke tildele brukere
 HandlerRolesSelectedPermissionsLessThenDefault: Kan ikke tildele tillatelser: Valgte tillatelser er færre enn standard tillatelsessett
 HandlerSearchAllResults: Alle resultater
-HandlerSearchNoResultsMsgTryFollowing: Ingen resultater. Prøv følgende:
-HandlerSearchNoResultsMsgSpelledCorrectly: Kontroller at alle ordene er stavet riktig.
-HandlerSearchNoResultsMsgTryDifferent: Prøv andre søkeord.
-HandlerSearchNoResultsMsgMoreGeneral: Prøv mer generelle søkeord.
-HandlerSearchNoResultsMsgNoFindProdVer: Du må ikke finne produktet eller versjonen? Gå til Intel Security ServicePortal.
+HandlerSearchNoResultsMsgTryFollowing: Fant ingen resultater. Prøv følgende:
+HandlerSearchNoResultsMsgSpelledCorrectly: Pass på at ordene er stavet riktig.
+HandlerSearchNoResultsMsgTryDifferent: Prøv andre nøkkelord.
+HandlerSearchNoResultsMsgMoreGeneral: Prøv mer generelle nøkkelord.
+HandlerSearchNoResultsMsgNoFindProdVer: Finner du ikke produktet ditt eller versjonen din? Gå til Intel Security ServicePortal.
 HandlerSearchNoResults: Ingen resultater
 HandlerSearchOneResult: Ett resultat
 HandlerSitemapFile: Områdekartfil
@@ -205,19 +205,19 @@ TemplateBundlePagePrevious: Forrige
 TemplateBundlePagePrevTopicTooltip: Gå til forrige emne
 TemplateBundlePagePrint: Skriv ut
 TemplateBundlePagePrintTooltip: Skriv ut emne
-TemplateBundlePagePrivacy: Unngå å ta med kontaktinformasjon i tilbakemeldingen, slik at personvernet ditt opprettholdes. Se retningslinjene våre
-TemplateBundlePagePrivacyLast: for personvern.
-TemplateBundlePageProvideFeedbackCharsLeft: 500 tekens over
+TemplateBundlePagePrivacy: Unngå å ta med kontaktinformasjon i tilbakemeldingen, slik at personvernet ditt opprettholdes. Les
+TemplateBundlePagePrivacyLast: personvernerklæringen vår.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 tegn gjenstår
 TemplateBundlePageProvideFeedbackTooltip: Gi tilbakemeldinger
 TemplateBundlePageSaveAsPDF: Lagre som PDF
 TemplateBundlePageSavePDFTooltip: Lagre som PDF
 TemplateBundlePageSaveSelectedTopic: Lagre det valgte emnet
 TemplateBundlePageSaveSelectedTopicAndSubtopics: Lagre det valgte emnet og underemner
 TemplateBundlePageSeeAlso: Se også
-TemplateBundlePageSend: Sende
+TemplateBundlePageSend: Send
 TemplateBundlePageSendLink: Send
 TemplateBundlePageSendLinkTooltip: Send kobling til emne
-TemplateBundlePageSubmit: Send inn
+TemplateBundlePageSubmit: Send
 TemplateBundlePageWasThisInformationHelpful: Var denne informasjonen til hjelp for deg?
 TemplateBundlePageYEs: Ja
 TemplateBundlesDeleteLanguage: Slett språk
@@ -242,8 +242,8 @@ TemplateDefaultLayoutLinksCareers: Jobbmuligheter
 TemplateDefaultLayoutLinksContactUs: Kontakt oss
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Juridiske kontrakter og vilkår
-TemplateDefaultLayoutLinksLegalNotices: Juridiske merknader 
-TemplateDefaultLayoutLinksPrivacy: Privatliv
+TemplateDefaultLayoutLinksLegalNotices: Juridiske opplysninger
+TemplateDefaultLayoutLinksPrivacy: Personvern
 TemplateDefaultLayoutLinksSiteMap: Områdekart
 TemplateDefaultLayoutLinksWebsiteFeedback: Tilbakemelding om nettsted
 TemplateDefaultLayoutLogout: Logg av
@@ -266,7 +266,7 @@ TemplateSearchSortbyUpdatedAsc: Dato lagt til – stigende
 TemplateSearchSortbyUpdatedDec: Dato lagt til – synkende
 TemplateSearchSortbyViews: Antall visninger
 TemplatesSearchPageClear: Fjern
-TemplatesSearchPageCurrentResultsFirst: Resultater
+TemplatesSearchPageCurrentResultsFirst: Resultat 
 TemplatesSearchPageCurrentResults: av
 TemplatesSearchPageRefilneResults: Avgrense søkeresultatene
 TemplatesSearchPageResultUpdated: Oppdatert
@@ -284,29 +284,29 @@ Upload: Last opp
 UploadLink: Last opp publikasjon
 YesodAuthStormPathSSOErrorOccured: Det oppstod en feil
 YesodAuthStormPathSSOLoginParamError: Det var en feil med parameterne for enkeltpålogging
-YesodAuthStormPathSSOLoginTryAgain: Prøv å logge på med
-Loginsite: Innlogging
+YesodAuthStormPathSSOLoginTryAgain: Logg på igjen med
+LoginSite: Logg inn
 LoginSiteEmail: E-postadresse
-LoginSiteForgotPassword: Glemt passord
-LoginSiteMessage: Du er nå logget inn
-LoginSiteZD: ZoominDocs Pålogging
-TemplateAdminCategoryfile Kategori XML File
-TemplateAdminCshCurrent: Nåværende CSH Regler
-TemplateAdminCshDownload: Last ned dagens CSH konfigurasjonsfil
-TemplateAdminCshRuleContents: Regel Innhold
+LoginSiteForgotPassword: Glemt passordet
+LoginSiteMessage: Du er nå pålogget
+LoginSiteZD: ZoominDocs-pålogging
+TemplateAdminCategoryfile: Kategori-XML-fil
+TemplateAdminCshCurrent: Gjeldende CSH-regler
+TemplateAdminCshDownload: Last ned gjeldende CSH-konfigurasjonsfil
+TemplateAdminCshRuleContents: Regelinnhold
 TemplateAdminCshRuleName: Regelnavn
-TemplateAdminCshRulePriority: Regel Priority
-TemplateAdminCshUpload: Last opp CSH Config fil
-TemplateAdminCurrentContentRoleGroups: nåværende innhold rollegrupper
-TemplateAdminDownloadDefaultLanguage: Last ned Gjeldende Standard språkfil
-TemplateAdminDownloadcurrentCategory: Last ned dagens kategorier XML-fil
-TemplateAdminListGroupCurrentGroups: Aktuelle grupper
+TemplateAdminCshRulePriority: Regelprioritet
+TemplateAdminCshUpload: Last opp CSH-konfigurasjonsfil
+TemplateAdminCurrentContentRoleGroups:  Gjeldende innholdsrollegrupper
+TemplateAdminDownloadDefaultLanguage: Last ned gjeldende fil for standardspråk
+TemplateAdminDownloadcurrentCategory: Last ned gjeldende XML-fil for kategorier
+TemplateAdminListGroupCurrentGroups: Gjeldende grupper
 TemplateAdminListGroupDefineNewGroup: Definer ny gruppe
 TemplateAdminListRoleAdmin: admin
-TemplateAdminListRoleCurrentRoles: nåværende roller
+TemplateAdminListRoleCurrentRoles: Gjeldende roller
 TemplateAdminListRoleDefineNewRole: Definer ny rolle
-TemplateAdminListRoleRolesPublic: Offentlig
-TemplateAdminListRoleViewer: viewer
+TemplateAdminListRoleRolesPublic : Offentlig
+TemplateAdminListRoleViewer: visningsprogram
 TemplateAdminListUsersAction: Handling
 TemplateAdminListUsersDeleteUser: Slett bruker
 TemplateAdminListUsersEditPermissions: Rediger tillatelser
@@ -318,14 +318,14 @@ TemplateAdminSubjectSchemeDownload: Last ned
 TemplateAdminSubjectSchemeDownloadLanguage: Last ned språkfil
 TemplateAdminSubjectSchemeExistingLocalizations: Eksisterende lokaliseringer
 TemplateAdminSubjectSchemeLanguage: Språk
-TemplateAdminSubjectSchemeLocalizationTitle: Subject Scheme Lokalisering
-TemplateAdminSubjectSchemeUpdate: Oppdatering
-TemplateAdminSubjectSchemeUpdateLanguage: Oppdatering språkfil
-TemplateAdminUploadCategoryfile: Last opp Kategori fil
-TemplateAdminUploadDefaultLanguage: Last opp Standardspråk File
-TemplateAdminUploadSiteMapFile: Last opp Sitemap-fil
-TemplateSubjectSchemeUpload: Last opp Subject Scheme
-TemplateSubjectSchemeWarnReindex: MERK: Laste opp et nytt fag ordningen vil føre til at hele området for å bli re-indeksert. Dette kan ta flere minutter.
-TemplatesSubjectSchemeChooseFile: Velg File (spør Vlatko, ikke i html)
-TemplatesSubjectSchemeDownloadcurrent: Last ned dagens tema Scheme
-TemplatesSubjectSchemeNoFileChosen: Ingen fil valgt
+TemplateAdminSubjectSchemeLocalizationTitle: Lokalisering av emneskjema
+TemplateAdminSubjectSchemeUpdate: Oppdater
+TemplateAdminSubjectSchemeUpdateLanguage: Oppdater språkfil
+TemplateAdminUploadCategoryfile: Last opp kategorifil
+TemplateAdminUploadDefaultLanguage: Last opp fil for standardspråk
+TemplateAdminUploadSiteMapFile: Last opp områdekartfil
+TemplateSubjectSchemeUpload: Last opp emneskjema
+TemplateSubjectSchemeWarnReindex: MERK: Opplasting av et nytt emneskjema fører til at hele området indekseres på nytt. Dette kan ta flere minutter.
+TemplatesSubjectSchemeChooseFile: Velg fil (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: Last ned gjeldende emneskjema
+TemplatesSubjectSchemeNoFileChosen: Ingen fil er valgt

@@ -1,4 +1,4 @@
-AdvancedSearch: 進階搜尋 
+﻿AdvancedSearch: 進階搜尋
 AdvancedSearchTooltip: 選取內容篩選器
 BreadcrumbsProductDocumentationHome: 產品說明文件首頁
 BreadcrumbsSearch: 搜尋
@@ -16,7 +16,7 @@ HandlerClassificationUpdated: 分類導覽已更新
 HandlerClassificationXMLFile: 已更新分類導覽
 HandlerCommentsComments: 個註解
 HandlerCommentsOneComment: 1 個註解
-HandlerCommentsPostedCommentOn: 在以下位置張貼了一個註解:
+HandlerCommentsPostedCommentOn: 在以下位置發表註解:
 HandlerContentRolesAreYouSureDelete: 是否確定要刪除此內容角色？
 HandlerContentRolesCRDeleted: 已刪除內容角色
 HandlerContentRolesErrorDeleting: 發生問題。 未刪除內容角色。
@@ -73,11 +73,11 @@ HandlerRolesNoRoleNameFound: 找不到角色名稱
 HandlerRolesNotEnoughAdminUsersRemaining: 無法指派使用者
 HandlerRolesSelectedPermissionsLessThenDefault: 無法指派權限: 所選權限數少於預設權限集中的權限數
 HandlerSearchAllResults: 所有結果
-HandlerSearchNoResultsMsgTryFollowing: 未找到結果。 嘗試以下操作：
+HandlerSearchNoResultsMsgTryFollowing: 沒有找到結果。 請嘗試以下作業:
 HandlerSearchNoResultsMsgSpelledCorrectly: 確保所有字詞拼寫正確。
 HandlerSearchNoResultsMsgTryDifferent: 嘗試其他關鍵字。
-HandlerSearchNoResultsMsgMoreGeneral: 嘗試使用更寬泛的關鍵字。
-HandlerSearchNoResultsMsgNoFindProdVer: 找不到您的產品或版本？ 轉到Intel Security ServicePortal。
+HandlerSearchNoResultsMsgMoreGeneral: 嘗試使用更常用的關鍵字。
+HandlerSearchNoResultsMsgNoFindProdVer: 找不到您的產品或版本？ 請前往 Intel Security ServicePortal。
 HandlerSearchNoResults: 無結果
 HandlerSearchOneResult: 一個結果
 HandlerSitemapFile: 網站導覽檔案
@@ -138,7 +138,7 @@ ImportRatingsRatings: 個分級
 ImportRolesPermissionDenied: 權限遭拒
 ImportSearchNoCategoriesUploaded: 未上傳類別 XML 檔案
 ImportSearchUnknownTopicLink: *** 未知主題連結 ***
-ImportUsersCaptchaError: 無效的 reCAPTCHA 
+ImportUsersCaptchaError: reCAPTCHA 無效 
 ImportUsersCaptchaParseError: reCAPTCHA 錯誤
 ImportUsersEmailFieldError: 找不到電子郵件欄位。
 ImportUsersFldEmail: 電子郵件
@@ -153,8 +153,8 @@ PDFPage: 頁面
 ProductDocumentationSplashTitle: 產品說明文件 
 PublishHowto: 發佈
 ResultsPerPage: 每頁的結果數
-ResultsPerPageShowFirst: 每頁顯示
-ResultsPerPageShow: 個
+ResultsPerPageShowFirst: 顯示
+ResultsPerPageShow: 每頁
 Search: 搜尋產品說明文件
 SearchContent: 搜尋此內容
 SearchHome: 搜尋產品說明文件
@@ -194,9 +194,9 @@ TemplateBundlePageComments: 意見
 TemplateBundlePageContents: 目錄
 TemplateBundlePageExpand: 展開
 TemplateBundlePageExpandTooltip: 展開目錄
-TemplateBundlePageFeedback: 意見反映
+TemplateBundlePageFeedback: 意見反應
 TemplateBundlePageFeedbackThankYou: 非常感謝。 您的註解已傳送。 
-TemplateBundlePageFeedbackTooltip: 提交意見反映
+TemplateBundlePageFeedbackTooltip: 提交意見反應
 TemplateBundlePageFilterTitle: 選取一或多個選項
 TemplateBundlePageNext: 下一個
 TemplateBundlePageNextTopicTooltip: 前往下一主題
@@ -205,10 +205,10 @@ TemplateBundlePagePrevious: 上一個
 TemplateBundlePagePrevTopicTooltip: 前往上一主題
 TemplateBundlePagePrint: 列印
 TemplateBundlePagePrintTooltip: 列印主題
-TemplateBundlePagePrivacy: 為保護您的隱私權，請不要在您的意見反映中包含連絡資訊。 檢閱我們的隱私權政策。
-TemplateBundlePagePrivacyLast: privacy policy.
-TemplateBundlePageProvideFeedbackCharsLeft: 剩餘500個字符
-TemplateBundlePageProvideFeedbackTooltip: 提供意見反映
+TemplateBundlePagePrivacy: 為保護您的隱私權，請不要在您的意見反應中包含連絡資訊。 檢閱我們的
+TemplateBundlePagePrivacyLast: 隱私權政策。
+TemplateBundlePageProvideFeedbackCharsLeft: 剩餘 500 個字元
+TemplateBundlePageProvideFeedbackTooltip: 提供意見反應
 TemplateBundlePageSaveAsPDF: 另存為 PDF
 TemplateBundlePageSavePDFTooltip: 另存為 PDF
 TemplateBundlePageSaveSelectedTopic: 儲存選取的主題
@@ -242,14 +242,14 @@ TemplateDefaultLayoutLinksCareers: 工作機會
 TemplateDefaultLayoutLinksContactUs: 連絡我們
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: 法律契約和條款
-TemplateDefaultLayoutLinksLegalNotices: 法律聲明 
-TemplateDefaultLayoutLinksPrivacy: 隱私
+TemplateDefaultLayoutLinksLegalNotices: 法律聲明
+TemplateDefaultLayoutLinksPrivacy: 隱私權
 TemplateDefaultLayoutLinksSiteMap: 網站導覽
-TemplateDefaultLayoutLinksWebsiteFeedback: 網站意見反映
+TemplateDefaultLayoutLinksWebsiteFeedback: 網站意見反應
 TemplateDefaultLayoutLogout: 登出
 TemplateDefaultLayoutProfile: 設定檔
 TemplateDefaultLayoutVideos: 視訊
-TemplateFilterCurrentPublication: 目前發佈內容
+TemplateFilterCurrentPublication: 目前的發佈內容
 TemplateRequestResetPasswordEmail: 電子郵件
 TemplateRequestResetPasswordSubmit: 請求密碼重設電子郵件
 TemplateSearchCurrentPublication name@Text: 目前搜尋僅限在「#{name}」發佈內容中進行
@@ -266,8 +266,8 @@ TemplateSearchSortbyUpdatedAsc: 新增日期 - 遞增順序
 TemplateSearchSortbyUpdatedDec: 新增日期 - 遞減順序
 TemplateSearchSortbyViews: 檢視次數
 TemplatesSearchPageClear: 清除
-TemplatesSearchPageCurrentResultsFirst: 第
-TemplatesSearchPageCurrentResults: 個 (共 個) 結果
+TemplatesSearchPageCurrentResultsFirst: 結果 
+TemplatesSearchPageCurrentResults: /
 TemplatesSearchPageRefilneResults: 縮小結果範圍
 TemplatesSearchPageResultUpdated: 已更新
 TemplateUploadSitemapDisable: 停用網站導覽
@@ -281,51 +281,51 @@ TemplateUploadSitemapLegend: 上傳 sitemap.xml
 TemplateUploadSitemapStatus sts@Text: 網站導覽為 #{sts}
 TextPass txt@Text: #{txt}
 Upload: 上傳
-UploadLink: 上傳發佈
+UploadLink: 上傳發佈內容
 YesodAuthStormPathSSOErrorOccured: 發生一個錯誤
 YesodAuthStormPathSSOLoginParamError: SSO 登入參數中存在錯誤
-YesodAuthStormPathSSOLoginTryAgain: 請嘗試使用以下內容重新登入
-登錄網站：登錄
-LoginSiteEmail：電子郵件地址
-LoginSiteForgotPassword：忘記密碼
-LoginSiteMessage：您現在已經登錄
-LoginSiteZD：ZoominDocs登錄
-TemplateAdminCategoryfile：類別XML文件
-TemplateAdminCshCurrent：當前CSH規則
-TemplateAdminCsh下載：下載當前的CSH配置文件
-TemplateAdminCshRuleContents：規則內容
-TemplateAdminCshRuleName：規則名稱
-TemplateAdminCshRulePriority：規則優先級
-TemplateAdminCshUpload：上傳CSH配置文件
-TemplateAdminCurrentContentRoleGroups：當前內容角色組
-TemplateAdminDownloadDefaultLanguage：下載當前默認語言文件
-TemplateAdminDownloadcurrentCategory：下載當前類別的XML文件
-TemplateAdminListGroupCurrentGroups：當前組
-TemplateAdminListGroupDefineNewGroup：定義新組
-TemplateAdminListRoleAdmin：admin
-TemplateAdminListRoleCurrentRoles：當前角色
-TemplateAdminListRoleDefineNewRole：定義新角色
-TemplateAdminListRoleRolesPublic：Public
-TemplateAdminListRoleViewer：viewer
-TemplateAdminListUsersAction：Action
-TemplateAdminListUsersDeleteUser：刪除用戶
-TemplateAdminListUsersEditPermissions：編輯權限
-TemplateAdminListUsersEmail：電子郵件
-TemplateAdminListUsersFullName：全名
-TemplateAdminListUsersResetPassword：重置密碼
-TemplateAdminSubjectSchemeDeleteLanguage：刪除語言文件
-TemplateAdminSubjectScheme下載：下載
-TemplateAdminSubjectSchemeDownloadLanguage：下載語言文件
-TemplateAdminSubjectSchemeExistingLocalizations：現有本地化
-TemplateAdminSubjectSchemeLanguage：語言
-TemplateAdminSubjectSchemeLocalizationTitle：主題方案本地化
-TemplateAdminSubjectSchemeUpdate：Update
-TemplateAdminSubjectSchemeUpdateLanguage：更新語言文件
-TemplateAdminUploadCategoryfile：上傳類別文件
-TemplateAdminUploadDefaultLanguage：上傳默認語言文件
-TemplateAdminUploadSiteMapFile：上傳Sitemap文件
-TemplateSubjectSchemeUpload：上傳主題方案
-TemplateSubjectSchemeWarnReindex：注意：上傳新的主題方案將導致整個網站重新編制索引。這可能會需要幾分鐘。
-TemplatesSubjectSchemeChooseFile：選擇文件（詢問Vlatko，而不是html）
-TemplatesSubjectSchemeDownloadcurrent：下載當前主題方案
-TemplatesSubjectSchemeNoFileChosen：未選擇文件
+YesodAuthStormPathSSOLoginTryAgain: 請使用以下資訊重新登入
+LoginSite: 登入
+LoginSiteEmail: 電子郵件地址
+LoginSiteForgotPassword: 忘記密碼
+LoginSiteMessage: 現在您已登入
+LoginSiteZD: ZoominDocs 登入
+TemplateAdminCategoryfile: 類別 XML 檔案
+TemplateAdminCshCurrent: 目前的 CSH 規則
+TemplateAdminCshDownload: 下載最新的 CSH 組態檔案
+TemplateAdminCshRuleContents: 規則內容
+TemplateAdminCshRuleName: 規則名稱
+TemplateAdminCshRulePriority: 規則優先順序
+TemplateAdminCshUpload: 上傳 CSH 組態檔案
+TemplateAdminCurrentContentRoleGroups: 目前的內容角色群組
+TemplateAdminDownloadDefaultLanguage: 下載目前的預設語言檔案
+TemplateAdminDownloadcurrentCategory: 下載目前的類別 XML 檔案
+TemplateAdminListGroupCurrentGroups: 目前的群組
+TemplateAdminListGroupDefineNewGroup: 定義新群組
+TemplateAdminListRoleAdmin: 管理員
+TemplateAdminListRoleCurrentRoles: 目前的角色
+TemplateAdminListRoleDefineNewRole: 定義新角色
+TemplateAdminListRoleRolesPublic : 公用
+TemplateAdminListRoleViewer: 檢視器
+TemplateAdminListUsersAction: 動作
+TemplateAdminListUsersDeleteUser: 刪除使用者
+TemplateAdminListUsersEditPermissions: 編輯權限
+TemplateAdminListUsersEmail: 電子郵件
+TemplateAdminListUsersFullName: 完整名稱
+TemplateAdminListUsersResetPassword: 重設密碼
+TemplateAdminSubjectSchemeDeleteLanguage: 刪除語言檔案
+TemplateAdminSubjectSchemeDownload: 下載
+TemplateAdminSubjectSchemeDownloadLanguage: 下載語言檔案
+TemplateAdminSubjectSchemeExistingLocalizations: 現有當地語系化
+TemplateAdminSubjectSchemeLanguage: 語言
+TemplateAdminSubjectSchemeLocalizationTitle: 主旨方案當地語系化
+TemplateAdminSubjectSchemeUpdate: 更新
+TemplateAdminSubjectSchemeUpdateLanguage: 更新語言檔案
+TemplateAdminUploadCategoryfile: 上傳類別檔案
+TemplateAdminUploadDefaultLanguage: 上傳預設語言檔案
+TemplateAdminUploadSiteMapFile: 上傳網站導覽檔案
+TemplateSubjectSchemeUpload: 上傳主旨方案
+TemplateSubjectSchemeWarnReindex: 附註: 上傳新主旨方案會導致對整個網站重新編制索引。 這可能需要幾分鐘時間。
+TemplatesSubjectSchemeChooseFile: 選擇檔案 (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: 下載目前的主旨方案
+TemplatesSubjectSchemeNoFileChosen: 未選擇任何檔案

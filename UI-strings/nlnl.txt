@@ -1,4 +1,4 @@
-AdvancedSearch: Geavanceerd zoeken 
+﻿AdvancedSearch: Geavanceerd zoeken
 AdvancedSearchTooltip: Inhoudsfilters selecteren
 BreadcrumbsProductDocumentationHome: Startpagina productdocumentatie
 BreadcrumbsSearch: Zoeken
@@ -74,10 +74,10 @@ HandlerRolesNotEnoughAdminUsersRemaining: Kan geen gebruikers toewijzen
 HandlerRolesSelectedPermissionsLessThenDefault: Kan geen machtigingen toewijzen: geselecteerde machtigingen zijn minder dan standaard machtigingenset
 HandlerSearchAllResults: Alle resultaten
 HandlerSearchNoResultsMsgTryFollowing: Geen resultaten gevonden. Probeer het volgende:
-HandlerSearchNoResultsMsgSpelledCorrectly: Zorg ervoor dat alle woorden correct gespeld zijn.
+HandlerSearchNoResultsMsgSpelledCorrectly: Zorg dat alle woorden juist zijn gespeld.
 HandlerSearchNoResultsMsgTryDifferent: Probeer verschillende trefwoorden.
-HandlerSearchNoResultsMsgMoreGeneral: Probeer meer algemene zoekwoorden.
-HandlerSearchNoResultsMsgNoFindProdVer: Heeft uw product of versie niet vinden? Ga naar de Intel Beveiliging ServicePortal..
+HandlerSearchNoResultsMsgMoreGeneral: Probeer algemenere trefwoorden.
+HandlerSearchNoResultsMsgNoFindProdVer: Kunt u uw product of versie niet vinden? Ga naar de ServicePortal van Intel Security.
 HandlerSearchNoResults: Geen resultaten
 HandlerSearchOneResult: Eén resultaat
 HandlerSitemapFile: Siteoverzichtsbestand
@@ -153,8 +153,8 @@ PDFPage: Pagina
 ProductDocumentationSplashTitle: Productdocumentatie 
 PublishHowto: Publiceren
 ResultsPerPage: Resultaten per pagina
-ResultsPerPageShowFirst:
-ResultsPerPageShow: per pagina tonen
+ResultsPerPageShowFirst: Weergeven
+ResultsPerPageShow: per pagina
 Search: Zoeken in productdocumentatie
 SearchContent: Zoek in deze inhoud
 SearchHome: Zoeken in productdocumentatie
@@ -205,9 +205,9 @@ TemplateBundlePagePrevious: Vorige
 TemplateBundlePagePrevTopicTooltip: Ga naar vorig onderwerp
 TemplateBundlePagePrint: Afdrukken
 TemplateBundlePagePrintTooltip: Onderwerp afdrukken
-TemplateBundlePagePrivacy: Neem ter bescherming van uw privacy geen contactgegevens op in uw feedback. Lees ons 
+TemplateBundlePagePrivacy: Neem ter bescherming van uw privacy geen contactgegevens op in uw feedback. Bekijk ons
 TemplateBundlePagePrivacyLast: privacybeleid.
-TemplateBundlePageProvideFeedbackCharsLeft: 500 tegn igjen
+TemplateBundlePageProvideFeedbackCharsLeft: Nog 500 tekens resterend
 TemplateBundlePageProvideFeedbackTooltip: Feedback geven
 TemplateBundlePageSaveAsPDF: Opslaan als PDF
 TemplateBundlePageSavePDFTooltip: Opslaan als PDF
@@ -242,7 +242,7 @@ TemplateDefaultLayoutLinksCareers: Carrières
 TemplateDefaultLayoutLinksContactUs: Contact
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Juridische contracten en voorwaarden
-TemplateDefaultLayoutLinksLegalNotices: Juridische kennisgevingen  
+TemplateDefaultLayoutLinksLegalNotices: Juridische kennisgeving
 TemplateDefaultLayoutLinksPrivacy: Privacy
 TemplateDefaultLayoutLinksSiteMap: Websiteoverzicht
 TemplateDefaultLayoutLinksWebsiteFeedback: Websitefeedback
@@ -266,7 +266,7 @@ TemplateSearchSortbyUpdatedAsc: Datum toegevoegd - oplopend
 TemplateSearchSortbyUpdatedDec: Datum toegevoegd - aflopend
 TemplateSearchSortbyViews: Aantal weergaven
 TemplatesSearchPageClear: Wissen
-TemplatesSearchPageCurrentResultsFirst: Resultaten
+TemplatesSearchPageCurrentResultsFirst: Resultaten 
 TemplatesSearchPageCurrentResults: van
 TemplatesSearchPageRefilneResults: Resultaten verfijnen
 TemplatesSearchPageResultUpdated: Bijgewerkt
@@ -284,48 +284,48 @@ Upload: Uploaden
 UploadLink: Publicatie uploaden
 YesodAuthStormPathSSOErrorOccured: Er is een fout opgetreden
 YesodAuthStormPathSSOLoginParamError: Er is een fout opgetreden bij de SSO-aanmeldingsparameters
-YesodAuthStormPathSSOLoginTryAgain: Probeer u opnieuw aan te melden met
-LoginSite: Inloggen
+YesodAuthStormPathSSOLoginTryAgain: Meld u opnieuw aan met
+LoginSite: Aanmelden
 LoginSiteEmail: E-mailadres
 LoginSiteForgotPassword: Wachtwoord vergeten
-LoginSiteMessage: U bent nu aangemeld in
-LoginSiteZD: ZoominDocs Inloggen
-TemplateAdminCategoryfile: Categorie XML File
-TemplateAdminCshCurrent: Actueel CSH Rules
-TemplateAdminCshDownload: Download huidige CSH configuratiebestand
-TemplateAdminCshRuleContents: Contents Rule
+LoginSiteMessage: U bent nu aangemeld
+LoginSiteZD: ZoominDocs-aanmelding
+TemplateAdminCategoryfile: Categorie-XML-bestand
+TemplateAdminCshCurrent: Huidige CSH-regels
+TemplateAdminCshDownload: Huidig CSH-configuratiebestand downloaden
+TemplateAdminCshRuleContents: Regelinhoud
 TemplateAdminCshRuleName: Regelnaam
-TemplateAdminCshRulePriority: Regel Priority
-TemplateAdminCshUpload: Upload CSH Config file
-TemplateAdminCurrentContentRoleGroups: Actueel Content Rol Groepen
-TemplateAdminDownloadDefaultLanguage: Download Huidige Standaard Taal File
-TemplateAdminDownloadcurrentCategory: Download huidige categorieën XML-bestand
-TemplateAdminListGroupCurrentGroups: Actueel Groepen
-TemplateAdminListGroupDefineNewGroup: Nieuwe definiëren Group
-TemplateAdminListRoleAdmin: admin
-TemplateAdminListRoleCurrentRoles: Actueel Rollen
-TemplateAdminListRoleDefineNewRole: Nieuwe definiëren Role
-TemplateAdminListRoleRolesPublic: Public
-TemplateAdminListRoleViewer: viewer
+TemplateAdminCshRulePriority: Regelprioriteit
+TemplateAdminCshUpload: CSH-configuratiebestand uploaden
+TemplateAdminCurrentContentRoleGroups:  Huidige inhoudsrolgroepen
+TemplateAdminDownloadDefaultLanguage: Huidig standaard taalbestand downloaden
+TemplateAdminDownloadcurrentCategory: Huidige categorieën-XML-bestand downloaden
+TemplateAdminListGroupCurrentGroups: Huidige groepen
+TemplateAdminListGroupDefineNewGroup: Nieuwe groep definiëren
+TemplateAdminListRoleAdmin: beheer
+TemplateAdminListRoleCurrentRoles: Huidige rollen
+TemplateAdminListRoleDefineNewRole: Nieuwe rol definiëren
+TemplateAdminListRoleRolesPublic : Openbaar
+TemplateAdminListRoleViewer: weergave
 TemplateAdminListUsersAction: Actie
-TemplateAdminListUsersDeleteUser: User Delete
-TemplateAdminListUsersEditPermissions: Machtigingen Bewerken
+TemplateAdminListUsersDeleteUser: Gebruiker verwijderen
+TemplateAdminListUsersEditPermissions: Machtigingen bewerken
 TemplateAdminListUsersEmail: E-mail
-TemplateAdminListUsersFullName: Volledige Naam
-TemplateAdminListUsersResetPassword: Reset Password
-TemplateAdminSubjectSchemeDeleteLanguage: Taal verwijderen File
-TemplateAdminSubjectSchemeDownload: Download
-TemplateAdminSubjectSchemeDownloadLanguage: Download Taal File
-TemplateAdminSubjectSchemeExistingLocalizations: Bestaande Lokalisaties
+TemplateAdminListUsersFullName: Volledige naam
+TemplateAdminListUsersResetPassword: Wachtwoord opnieuw instellen
+TemplateAdminSubjectSchemeDeleteLanguage: Taalbestand verwijderen
+TemplateAdminSubjectSchemeDownload: Downloaden
+TemplateAdminSubjectSchemeDownloadLanguage: Taalbestand downloaden
+TemplateAdminSubjectSchemeExistingLocalizations: Bestaande lokalisaties
 TemplateAdminSubjectSchemeLanguage: Taal
-TemplateAdminSubjectSchemeLocalizationTitle: Subject Scheme Localization
-TemplateAdminSubjectSchemeUpdate: update
-TemplateAdminSubjectSchemeUpdateLanguage: update Taal File
-TemplateAdminUploadCategoryfile: Upload Categorie file
-TemplateAdminUploadDefaultLanguage: Upload Standaard Taal File
-TemplateAdminUploadSiteMapFile: Upload Sitemap File
-TemplateSubjectSchemeUpload: Upload Onderwerp Scheme
-TemplateSubjectSchemeWarnReindex: LET OP: Het uploaden van een nieuw onderwerp regeling zorgt ervoor dat de hele site opnieuw worden geïndexeerd. Dit kan enkele minuten duren.
-TemplatesSubjectSchemeChooseFile: Kies File (vraag Vlatko, niet in html)
-TemplatesSubjectSchemeDownloadcurrent: Download huidige Subject Scheme
+TemplateAdminSubjectSchemeLocalizationTitle: Onderwerpschemalokalisatie
+TemplateAdminSubjectSchemeUpdate: Bijwerken
+TemplateAdminSubjectSchemeUpdateLanguage: Taalbestand bijwerken
+TemplateAdminUploadCategoryfile: Categoriebestand uploaden
+TemplateAdminUploadDefaultLanguage: Standaard taalbestand uploaden
+TemplateAdminUploadSiteMapFile: Websiteoverzichtbestand uploaden
+TemplateSubjectSchemeUpload: Onderwerpschema uploaden
+TemplateSubjectSchemeWarnReindex: OPMERKING: als u een nieuw onderwerpschema uploadt, wordt de gehele site opnieuw geïndexeerd. Dit kan enkele minuten duren.
+TemplatesSubjectSchemeChooseFile: Bestand kiezen (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: Huidig onderwerpschema downloaden
 TemplatesSubjectSchemeNoFileChosen: Geen bestand gekozen

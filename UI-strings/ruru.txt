@@ -1,6 +1,6 @@
-AdvancedSearch: Расширенный поиск 
+﻿AdvancedSearch: Расширенный поиск
 AdvancedSearchTooltip: Выбрать фильтры содержимого
-BreadcrumbsProductDocumentationHome: Домашняя страница документации по продукту
+BreadcrumbsProductDocumentationHome: Домашняя страница документации по продуктам
 BreadcrumbsSearch: Поиск
 Cancel: Отмена
 Close: Закрыть
@@ -11,9 +11,9 @@ FoundationLoginOnly: Выполнить вход
 FoundationLoginRegister: Выполнить вход / зарегистрироваться
 HandlerAdminOnlyAdmin: Доступ запрещен
 HandlerBundlePageAltCSHResult: Найдена дополнительная тема CSH
-HandlerCategoriesCategoryXMLFileUploaded: Выгружен XML-файл категорий
+HandlerCategoriesCategoryXMLFileUploaded: XML-файл категорий передан
 HandlerClassificationUpdated: Карта классификации обновлена
-HandlerClassificationXMLFile: Карта классификации обновлена
+HandlerClassificationXMLFile: Обновленная карта классификации
 HandlerCommentsComments: коммент.
 HandlerCommentsOneComment: 1 комментарий
 HandlerCommentsPostedCommentOn: опубликовал(-а) комментарий на тему:
@@ -24,16 +24,16 @@ HandlerCshAlternateCSHTopicFound: Найдена дополнительная т
 HandlerCshCSHRulesUpdated: Правила CSH обновлены
 HandlerCshInvalidAliases: Недопустимые ключи псевдонима, обнаруженные в URL-адресе CSH
 HandlerCshInvalidCSHRulesFile: Недопустимый файл правил CSH
-HandlerCshNewCshFile: Выгрузить новый файл конфигурации CSH
+HandlerCshNewCshFile: Передать новый файл конфигурации CSH
 HandlerCshReservedAliasesUsed: Резервные псевдонимы, используемые в файле конфигурации CSH
 HandlerCustomError400H2: 400
-HandlerCustomError400H3: Неверный запрос
+HandlerCustomError400H3: Неправильный запрос
 HandlerCustomError401H2: 401
-HandlerCustomError401H3: Неавторизованный запрос
+HandlerCustomError401H3: Отсутствует авторизация
 HandlerCustomError403H2: 403
 HandlerCustomError403H3: Доступ запрещен
 HandlerCustomError404H2: 404
-HandlerCustomError404H3: Ресурс не найден
+HandlerCustomError404H3: Не найдено
 HandlerCustomError405H2: 405
 HandlerCustomError405H3: Недопустимый метод
 HandlerCustomError500H2: 500
@@ -58,7 +58,7 @@ HandlerHowtoSaved: Сохранено
 HandlerHowtoTitle: Заголовок
 HandlerHtmlEmptyMyDocs: Очистить папку "Мои документы"
 HandlerLangDefaultLanguageCodeFileUpdated: Файл с кодом языка по умолчанию обновлен
-HandlerLangNewLangFile: Выгрузить новый файл с кодом языка по умолчанию
+HandlerLangNewLangFile: Передать новый файл с кодом языка по умолчанию
 HandlerMyPubSourcePublication: Исходная публикация
 HandlerProfileDisplayName: Отображаемое имя
 HandlerProfileScreenName: Имя пользователя
@@ -73,25 +73,25 @@ HandlerRolesNoRoleNameFound: Имя роли не найдено
 HandlerRolesNotEnoughAdminUsersRemaining: Не удается назначить пользователей
 HandlerRolesSelectedPermissionsLessThenDefault: Не удается назначить разрешения: уровень выбранных разрешений ниже, чем уровень набора разрешений по умолчанию
 HandlerSearchAllResults: Все результаты
-HandlerSearchNoResultsMsgTryFollowing: Результатов не найдено. Попробуйте выполнить следующие действия:
-HandlerSearchNoResultsMsgSpelledCorrectly: Убедись, что все слова написаны правильно.
+HandlerSearchNoResultsMsgTryFollowing: Ничего не найдено. Попробуйте выполнить следующие действия:
+HandlerSearchNoResultsMsgSpelledCorrectly: Убедитесь, что все слова написаны правильно.
 HandlerSearchNoResultsMsgTryDifferent: Попробуйте использовать другие ключевые слова.
 HandlerSearchNoResultsMsgMoreGeneral: Попробуйте использовать более общие ключевые слова.
-HandlerSearchNoResultsMsgNoFindProdVer: Не нашли свой продукт или версию? Перейти к Intel Security ServicePortal.
+HandlerSearchNoResultsMsgNoFindProdVer: Не нашли свой продукт или версию? Перейдите на портал Intel Security ServicePortal.
 HandlerSearchNoResults: Нет результатов
 HandlerSearchOneResult: Один результат
 HandlerSitemapFile: Файл карты сайта
 HandlerSitemapFileUploaded: Карта сайта успешно обновлена.
 HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Недопустимый файл локализации тематической схемы
-HandlerSubjectSchemeLangDeleted lang@Text: #{lang} Файл локализации удален
+HandlerSubjectSchemeLangDeleted lang@Text: Файл локализации #{lang} удален
 HandlerSubjectSchemeLangsAvailable: Доступные языки
 HandlerSubjectSchemeLangsDeleteConfirm: Удалить файл локализации? 
 HandlerSubjectSchemeLangsDeleteError: Ошибка при удалении файла локализации.
 HandlerSubjectSchemeLangsNewFile: Передать новый файл локализации тематической схемы
-HandlerSubjectSchemeLangUpdated lang@Text: #{lang} Файл локализации обновлен
-HandlerSubjectSchemeLangUploaded lang@Text: #{lang} Файл локализации выгружен 
-HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: При выгрузке тематической схемы возникла проблема.
-HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Тематическая схема успешно выгружена
+HandlerSubjectSchemeLangUpdated lang@Text: Файл локализации #{lang} обновлен
+HandlerSubjectSchemeLangUploaded lang@Text: Файл локализации #{lang} передан 
+HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: При передаче тематической схемы возникла проблема.
+HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: Тематическая схема успешно передана
 HandlerSubjectSchemeUnknownLanguageCode: Неизвестный код языка
 HandlerSubjectSchemeUpdated: Тематическая схема обновлена
 HandlerSubjectSchemeXMLFile: XML-файл тематической схемы
@@ -101,9 +101,9 @@ HandlerUploadBundleDeleteSuccess x@Text: Удаление #{x} выполнен�
 HandlerUploadBundleError: Ошибка
 HandlerUploadBundleErrorPleaseUpdateSuiteBundleVersion: Ошибка: обновите версию пакета
 HandlerUploadBundleNoContentToDelete x@Text: В #{x} нет содержимого для удаления 
-HandlerUploadBundleOneBundleError: Ошибка заполнения выгруженного пакета
-HandlerUploadBundlePublicationUploadedSuccessfully: Публикация успешно выгружена
-HandlerUploadBundleSheaf: sheaf
+HandlerUploadBundleOneBundleError: Ошибка заполнения переданного пакета
+HandlerUploadBundlePublicationUploadedSuccessfully: Публикация успешно передана
+HandlerUploadBundleSheaf: связка
 HandlerUsersAddedSuccess: Пользователь успешно добавлен
 HandlerUsersBadEmail: Адрес электронной почты не зарегистрирован
 HandlerUsersCRCreated: Группа ролей содержимого создана
@@ -131,12 +131,12 @@ ImportElasticErrorUpdating: Ошибка обновления индекса. П
 ImportElasticIndexRebuilt x@Text: Индекс успешно перестроен #{x}
 ImportElasticIndexUpdated x@Text: Индекс успешно обновлен #{x}
 ImportElasticNoPagesFound: В базе данных не найдено ни одной страницы – индекс сброшен.
-ImportElasticNoPagesInBundle: В выгруженных файлах не найдено ни одной страницы
+ImportElasticNoPagesInBundle: В переданных файлах не найдено ни одной страницы
 ImportInvalidPassword: Недопустимый пароль
 ImportRatingsOneRating: 1 рейтинг
 ImportRatingsRatings: Рейтинги
 ImportRolesPermissionDenied: В разрешении отказано
-ImportSearchNoCategoriesUploaded: Нет выгруженных XML-файлов категорий
+ImportSearchNoCategoriesUploaded: Нет переданных XML-файлов категорий
 ImportSearchUnknownTopicLink: *** ссылка на неизвестную тему ***
 ImportUsersCaptchaError: В поле reCAPTCHA введены недопустимые символы 
 ImportUsersCaptchaParseError: Ошибка reCAPTCHA
@@ -150,14 +150,14 @@ ImportUsersInvalidPass: Недопустимый пароль: выбранны�
 LoggedInAs email@Text: Вы вошли как #{email}.
 Manuals: Руководства
 PDFPage: Страница
-ProductDocumentationSplashTitle: Документация по продукту 
+ProductDocumentationSplashTitle: Документация по продуктам 
 PublishHowto: Публиковать
 ResultsPerPage: Количество результатов на странице
-ResultsPerPageShowFirst: Отображать
-ResultsPerPageShow: на странице
-Search: Поиск в документации по продукту
+ResultsPerPageShowFirst: Показать
+ResultsPerPageShow: на страницу
+Search: Поиск в документации по продуктам
 SearchContent: Поиск в этом содержимом
-SearchHome: Поиск в документации по продукту
+SearchHome: Поиск в документации по продуктам
 ShowTOC: Показать содержание
 SSOLoginParamError: Возникла ошибка, связанная с параметрами входа SSO
 SSOLoginTryAgain: Повторите попытку входа с
@@ -182,19 +182,19 @@ TemplateAdminSitemap: Управление картой сайта
 TemplateAdminSubjectSchemeLocalization: Управление локализацией тематической схемы
 TemplateAdminTitle: Администрирование
 TemplateAdminUploadCategoryXML: Управление XML-файлом категорий
-TemplateAdminUploadCategoryXml: Выгрузить новый XML-файл категорий
-TemplateAdminUploadNewLangFile: Выгрузить новый файл с кодом языка по умолчанию
+TemplateAdminUploadCategoryXml: Передать новый XML-файл категорий
+TemplateAdminUploadNewLangFile: Передать новый файл с кодом языка по умолчанию
 TemplateAdminUploadSubjectScheme: Управление тематической схемой
 TemplateAdminUserGroups: Группы пользователей
 TemplateAdminUserManagement: Управление пользователями
 TemplateAdminUserRoles: Роли пользователя
 TemplateBundlePageCollapse: Свернуть
 TemplateBundlePageCollapseTooltip: Свернуть все заголовки
-TemplateBundlePageComments: Комментарии
+TemplateBundlePageComments: Комментарий
 TemplateBundlePageContents: Содержание
 TemplateBundlePageExpand: Развернуть
 TemplateBundlePageExpandTooltip: Развернуть содержание
-TemplateBundlePageFeedback: Обратная связь
+TemplateBundlePageFeedback: Оставить отзыв
 TemplateBundlePageFeedbackThankYou: Спасибо! Ваши комментарии отправлены. 
 TemplateBundlePageFeedbackTooltip: Отправить отзыв
 TemplateBundlePageFilterTitle: Выберите один или несколько вариантов
@@ -207,8 +207,8 @@ TemplateBundlePagePrint: Печать
 TemplateBundlePagePrintTooltip: Распечатать тему
 TemplateBundlePagePrivacy: Чтобы сохранить конфиденциальность, не указывайте контактные данные в вашем отзыве. Ознакомьтесь с нашей
 TemplateBundlePagePrivacyLast: политикой конфиденциальности.
-TemplateBundlePageProvideFeedbackCharsLeft: 500 символов осталось
-TemplateBundlePageProvideFeedbackTooltip: Предоставить отзыв
+TemplateBundlePageProvideFeedbackCharsLeft: Осталось символов: 500
+TemplateBundlePageProvideFeedbackTooltip: Оставить отзыв
 TemplateBundlePageSaveAsPDF: Сохранить в формате PDF
 TemplateBundlePageSavePDFTooltip: Сохранить в формате PDF
 TemplateBundlePageSaveSelectedTopic: Сохранить выбранную тему
@@ -225,11 +225,11 @@ TemplateBundlesDeleteManual: Удалить руководство
 TemplateBundlesDownload: Загрузить пакет
 TemplateBundlesDownloadClassification: Загрузить XML-файл классификации
 TemplateBundlesHiddenBundle: Скрытое руководство
-TemplateBundlesSearchManuals: Искать руководства
-TemplateBundlesUploadClassification: Выгрузить XML-файл классификации
-TemplateClassificationForManual: Вручную
-TemplateClassificationUploadClassificationMap: Выгрузить XML-файл карты классификации
-TemplateClassificationWarnReindex: ПРИМЕЧАНИЕ. При выгрузке карты классификации будет выполнена повторная индексация всего сайта. Это может занять несколько минут.
+TemplateBundlesSearchManuals: Поиск в руководствах
+TemplateBundlesUploadClassification: Передать XML-файл классификации
+TemplateClassificationForManual: Для руководства
+TemplateClassificationUploadClassificationMap: Передать XML-файл карты классификации
+TemplateClassificationWarnReindex: ПРИМЕЧАНИЕ. При передаче карты классификации будет выполнена повторная индексация всего сайта. Это может занять несколько минут.
 TemplateContentRolesCRGroups: Группы ролей содержимого
 TemplateContentRolesDefineNewCR: Определить новую роль содержимого
 TemplateDefaultLayoutAdministration: Администрирование
@@ -242,7 +242,7 @@ TemplateDefaultLayoutLinksCareers: Вакансии
 TemplateDefaultLayoutLinksContactUs: Связаться с нами
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Законные контракты и условия
-TemplateDefaultLayoutLinksLegalNotices: Правовое уведомление  
+TemplateDefaultLayoutLinksLegalNotices: Юридическая информация
 TemplateDefaultLayoutLinksPrivacy: Конфиденциальность
 TemplateDefaultLayoutLinksSiteMap: Карта сайта
 TemplateDefaultLayoutLinksWebsiteFeedback: Обратная связь через веб-сайт
@@ -260,72 +260,72 @@ TemplateSearchPageNextPageTooltip: Перейти к следующей стра
 TemplateSearchPagePrevPageTooltip: Перейти к предыдущей странице
 TemplateSearchPublicationTitle: Публикация
 TemplateSearchSortbyCreatedAsc: Дата создания – по возрастанию
-TemplateSearchSortbyCreatedDec: Дата создания – по убыванию
+TemplateSearchSortbyCreatedDec: Дата создания – по убыванию
 TemplateSearchSortbyScore: Оценка
 TemplateSearchSortbyUpdatedAsc: Дата добавления – по возрастанию
 TemplateSearchSortbyUpdatedDec: Дата добавления – по убыванию
 TemplateSearchSortbyViews: Число просмотров
 TemplatesSearchPageClear: Очистить
-TemplatesSearchPageCurrentResultsFirst: Результаты
+TemplatesSearchPageCurrentResultsFirst: Результаты 
 TemplatesSearchPageCurrentResults: из
 TemplatesSearchPageRefilneResults: Уточнить результаты
 TemplatesSearchPageResultUpdated: Обновлено
 TemplateUploadSitemapDisable: Отключить карту сайта
 TemplateUploadSitemapDisabled: Карта сайта отключена
-TemplateUploadSitemapDisabledWord: Отключена
+TemplateUploadSitemapDisabledWord: Отключено
 TemplateUploadSitemapDownloadSitemap: Загрузить файл sitemap.xml
 TemplateUploadSitemapEnable: Включить карту сайта
 TemplateUploadSitemapEnabled: Карта сайта включена
-TemplateUploadSitemapEnabledWord: Включена
-TemplateUploadSitemapLegend: Выгрузить файл sitemap.xml
+TemplateUploadSitemapEnabledWord: Включено
+TemplateUploadSitemapLegend: Передать файл sitemap.xml
 TemplateUploadSitemapStatus sts@Text: Состояние карты сайта: #{sts}
 TextPass txt@Text: #{txt}
-Upload: Выгрузить
+Upload: Передать
 UploadLink: Отправить публикацию
 YesodAuthStormPathSSOErrorOccured: Возникла ошибка
 YesodAuthStormPathSSOLoginParamError: Возникла ошибка, связанная с параметрами входа SSO
 YesodAuthStormPathSSOLoginTryAgain: Повторите попытку входа с
-LoginSite: Войти
+LoginSite: Вход
 LoginSiteEmail: Адрес электронной почты
-LoginSiteForgotPassword: Забыли пароль
-LoginSiteMessage: Вы вошли в систему
-LoginSiteZD: ZoominDocs Войти
-TemplateAdminCategoryfile: Категория XML-файла
-TemplateAdminCshCurrent: Current CSH Правила
-TemplateAdminCshDownload: Загрузить текущую CSH файла конфигурации
-TemplateAdminCshRuleContents: Правило Содержание
+LoginSiteForgotPassword: Забыли пароль?
+LoginSiteMessage: Вы вошли в
+LoginSiteZD: Вход в ZoominDocs
+TemplateAdminCategoryfile: XML-файл категорий
+TemplateAdminCshCurrent: Текущие правила CSH
+TemplateAdminCshDownload: Загрузить текущий файл конфигурации CSH
+TemplateAdminCshRuleContents: Содержимое правила
 TemplateAdminCshRuleName: Имя правила
-TemplateAdminCshRulePriority: Правило приоритета
-TemplateAdminCshUpload: Загрузить CSH Config файл
-TemplateAdminCurrentContentRoleGroups: текущее содержимое групп ролей
-TemplateAdminDownloadDefaultLanguage: Скачать Текущая Язык по умолчанию файл
-TemplateAdminDownloadcurrentCategory: Загрузить текущие категории XML-файл
+TemplateAdminCshRulePriority: Приоритет правила
+TemplateAdminCshUpload: Передать файл конфигурации CSH
+TemplateAdminCurrentContentRoleGroups:  Текущие группы ролей содержимого
+TemplateAdminDownloadDefaultLanguage: Загрузить текущий файл языка по умолчанию
+TemplateAdminDownloadcurrentCategory: Загрузить текущий XML-файл категорий
 TemplateAdminListGroupCurrentGroups: Текущие группы
 TemplateAdminListGroupDefineNewGroup: Определить новую группу
 TemplateAdminListRoleAdmin: администратор
-TemplateAdminListRoleCurrentRoles: Текущие Роли
+TemplateAdminListRoleCurrentRoles: Текущие роли
 TemplateAdminListRoleDefineNewRole: Определить новую роль
-TemplateAdminListRoleRolesPublic: Общественный
-TemplateAdminListRoleViewer: зритель
+TemplateAdminListRoleRolesPublic : Открытая
+TemplateAdminListRoleViewer: читатель
 TemplateAdminListUsersAction: Действие
 TemplateAdminListUsersDeleteUser: Удалить пользователя
-TemplateAdminListUsersEditPermissions: Изменить Разрешения
-TemplateAdminListUsersEmail: Email
-TemplateAdminListUsersFullName: Полное фирменное наименование
+TemplateAdminListUsersEditPermissions: Изменить разрешения
+TemplateAdminListUsersEmail: Адрес электронной почты
+TemplateAdminListUsersFullName: Полное имя
 TemplateAdminListUsersResetPassword: Сброс пароля
 TemplateAdminSubjectSchemeDeleteLanguage: Удалить файл языка
-TemplateAdminSubjectSchemeDownload: Скачать
-TemplateAdminSubjectSchemeDownloadLanguage: Скачать Язык файла
-TemplateAdminSubjectSchemeExistingLocalizations: Существующие Локализации
+TemplateAdminSubjectSchemeDownload: Загрузить
+TemplateAdminSubjectSchemeDownloadLanguage: Загрузить файл языка
+TemplateAdminSubjectSchemeExistingLocalizations: Существующие локализации
 TemplateAdminSubjectSchemeLanguage: Язык
-TemplateAdminSubjectSchemeLocalizationTitle: Тема Схема локализации
-TemplateAdminSubjectSchemeUpdate: Обновление
-TemplateAdminSubjectSchemeUpdateLanguage: Обновление языкового файла
-TemplateAdminUploadCategoryfile: Загрузить файл Категория
-TemplateAdminUploadDefaultLanguage: Загрузить Язык по умолчанию файла
-TemplateAdminUploadSiteMapFile: Загрузить файл Sitemap
-TemplateSubjectSchemeUpload: Загрузить Тема Схема
-TemplateSubjectSchemeWarnReindex: ПРИМЕЧАНИЕ: При загрузке новой схемы объекта будет вызывать весь сайт будет повторно индексироваться. Это займет несколько минут.
-TemplatesSubjectSchemeChooseFile: Выберите Файл (спросите Vlatko, а не в формате HTML)
-TemplatesSubjectSchemeDownloadcurrent: Загрузить текущую схему Тема
+TemplateAdminSubjectSchemeLocalizationTitle: Локализация тематической схемы
+TemplateAdminSubjectSchemeUpdate: Обновить
+TemplateAdminSubjectSchemeUpdateLanguage: Обновить файл языка
+TemplateAdminUploadCategoryfile: Передать файл категорий
+TemplateAdminUploadDefaultLanguage: Передать файл языка по умолчанию
+TemplateAdminUploadSiteMapFile: Передать файл карты сайта
+TemplateSubjectSchemeUpload: Передать тематическую схему
+TemplateSubjectSchemeWarnReindex: ПРИМЕЧАНИЕ. При передаче новой тематической схемы будет выполнена повторная индексация всего сайта. Это может занять несколько минут.
+TemplatesSubjectSchemeChooseFile: Выбрать файл (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: Загрузить текущую тематическую схему
 TemplatesSubjectSchemeNoFileChosen: Файл не выбран

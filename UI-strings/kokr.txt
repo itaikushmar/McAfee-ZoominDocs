@@ -1,4 +1,4 @@
-AdvancedSearch: 고급 검색 
+﻿AdvancedSearch: 고급 검색
 AdvancedSearchTooltip: 콘텐츠 필터 선택
 BreadcrumbsProductDocumentationHome: 제품 설명서 홈
 BreadcrumbsSearch: 검색
@@ -73,11 +73,11 @@ HandlerRolesNoRoleNameFound: 역할 이름이 없음
 HandlerRolesNotEnoughAdminUsersRemaining: 사용자를 할당할 수 없음
 HandlerRolesSelectedPermissionsLessThenDefault: 권한을 할당할 수 없음: 선택한 권한이 기본 권한 집합보다 적습니다.
 HandlerSearchAllResults: 모든 결과
-HandlerSearchNoResultsMsgTryFollowing: 검색 결과가 없습니다. 다음을 시도해보십시오
+HandlerSearchNoResultsMsgTryFollowing: 결과가 없습니다. 다음을 시도해보십시오.
 HandlerSearchNoResultsMsgSpelledCorrectly: 모든 단어의 철자가 올바른지 확인하십시오.
 HandlerSearchNoResultsMsgTryDifferent: 다른 키워드를 사용해보십시오.
 HandlerSearchNoResultsMsgMoreGeneral: 좀 더 일반적인 키워드를 사용해보십시오.
-HandlerSearchNoResultsMsgNoFindProdVer: 제품 또는 버전을 찾을 수 없습니까? 인텔 보안 서비스 포털로 이동합니다.
+HandlerSearchNoResultsMsgNoFindProdVer: 제품 또는 버전을 찾을 수 없습니까? Intel Security ServicePortal로 이동합니다.
 HandlerSearchNoResults: 결과 없음
 HandlerSearchOneResult: 1개 결과
 HandlerSitemapFile: 사이트 맵 파일
@@ -104,7 +104,7 @@ HandlerUploadBundleNoContentToDelete x@Text: #{x}에 삭제할 콘텐츠가 없�
 HandlerUploadBundleOneBundleError: 업로드된 번들을 채우는 중 오류 발생
 HandlerUploadBundlePublicationUploadedSuccessfully: 게시를 성공적으로 업로드함
 HandlerUploadBundleSheaf: sheaf
-HandlerUsersAddedSuccess: 사용자가 성공적으로 추가됨
+HandlerUsersAddedSuccess: 사용자를 성공적으로 추가함
 HandlerUsersBadEmail: 해당 이메일 주소가 등록되어 있지 않습니다.
 HandlerUsersCRCreated: 콘텐츠 역할 그룹이 만들어짐
 HandlerUsersCRGroupNameInUse: 콘텐츠 역할 이름이 이미 사용 중입니다.
@@ -153,8 +153,8 @@ PDFPage: 페이지
 ProductDocumentationSplashTitle: 제품 설명서 
 PublishHowto: 게시
 ResultsPerPage: 페이지당 결과
-ResultsPerPageShowFirst: 페이지당
-ResultsPerPageShow: 개 표시
+ResultsPerPageShowFirst: 표시
+ResultsPerPageShow: 페이지당
 Search: 제품 설명서 검색
 SearchContent: 이 콘텐츠 검색
 SearchHome: 제품 설명서 검색
@@ -173,7 +173,7 @@ TemplateAdminArticleManagement: 문서 관리
 TemplateAdminContentRoleGroups: 콘텐츠 역할 그룹
 TemplateAdminCSHConfigFile: CSH 구성 파일 다운로드 또는 업데이트
 TemplateAdminElasticReindex: 검색 인덱스 다시 만들기
-TemplateAdminExportComments: 설명 내보내기
+TemplateAdminExportComments: 의견 내보내기
 TemplateAdminExportRatings: 등급 내보내기
 TemplateAdminManageManuals: 설명서 관리
 TemplateAdminManageResourceManuals: 리소스 패키지 관리
@@ -190,7 +190,7 @@ TemplateAdminUserManagement: 사용자 관리
 TemplateAdminUserRoles: 사용자 역할
 TemplateBundlePageCollapse: 축소
 TemplateBundlePageCollapseTooltip: 모든 제목 축소
-TemplateBundlePageComments: 설명
+TemplateBundlePageComments: 의견
 TemplateBundlePageContents: 목차
 TemplateBundlePageExpand: 확장
 TemplateBundlePageExpandTooltip: 목차 확장
@@ -205,9 +205,9 @@ TemplateBundlePagePrevious: 이전
 TemplateBundlePagePrevTopicTooltip: 이전 항목으로 이동
 TemplateBundlePagePrint: 인쇄
 TemplateBundlePagePrintTooltip: 항목 인쇄
-TemplateBundlePagePrivacy: 개인 정보를 보호하려면 피드백에 연락처 정보를 포함하지 마십시오. 개인 정보 보호
-TemplateBundlePagePrivacyLast: 정책을 검토하십시오.
-TemplateBundlePageProvideFeedbackCharsLeft: 500 자 남음
+TemplateBundlePagePrivacy: 개인 정보를 보호하려면 피드백에 연락처 정보를 포함하지 마십시오. 당사
+TemplateBundlePagePrivacyLast: 개인 정보 보호 정책을 검토하십시오.
+TemplateBundlePageProvideFeedbackCharsLeft: 500자 남음
 TemplateBundlePageProvideFeedbackTooltip: 피드백 제공
 TemplateBundlePageSaveAsPDF: PDF로 저장
 TemplateBundlePageSavePDFTooltip: PDF로 저장
@@ -242,8 +242,8 @@ TemplateDefaultLayoutLinksCareers: 채용 정보
 TemplateDefaultLayoutLinksContactUs: 문의처
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: 법적 계약 및 기간
-TemplateDefaultLayoutLinksLegalNotices: 법적 고지 사항 
-TemplateDefaultLayoutLinksPrivacy: 은둔
+TemplateDefaultLayoutLinksLegalNotices: 법적 고지 사항
+TemplateDefaultLayoutLinksPrivacy: 개인 정보 보호
 TemplateDefaultLayoutLinksSiteMap: 사이트 맵
 TemplateDefaultLayoutLinksWebsiteFeedback: 웹 사이트 피드백
 TemplateDefaultLayoutLogout: 로그아웃
@@ -266,8 +266,8 @@ TemplateSearchSortbyUpdatedAsc: 추가된 날짜 - 오름차순
 TemplateSearchSortbyUpdatedDec: 추가된 날짜 - 내림차순
 TemplateSearchSortbyViews: 조회 수
 TemplatesSearchPageClear: 지우기
-TemplatesSearchPageCurrentResultsFirst: 결과
-TemplatesSearchPageCurrentResults:
+TemplatesSearchPageCurrentResultsFirst: 결과 
+TemplatesSearchPageCurrentResults: /
 TemplatesSearchPageRefilneResults: 결과 구체화
 TemplatesSearchPageResultUpdated: 업데이트됨
 TemplateUploadSitemapDisable: 사이트 맵 사용 안 함
@@ -285,47 +285,47 @@ UploadLink: 게시물 업로드
 YesodAuthStormPathSSOErrorOccured: 오류 발생
 YesodAuthStormPathSSOLoginParamError: SSO 로그인 매개 변수에 오류가 있습니다.
 YesodAuthStormPathSSOLoginTryAgain: 다음을 사용하여 다시 로그인하십시오.
-LoginSite : 로그인
-LoginSiteEmail : 이메일 주소
-LoginSiteForgotPassword : 비밀번호를 잊어 버렸
-LoginSiteMessage : 이제 로그인
-LoginSiteZD : ZoominDocs 로그인
-TemplateAdminCategoryfile : 분류 XML 파일
-TemplateAdminCshCurrent : 현재 CSH 규칙
-TemplateAdminCshDownload : 현재 CSH 구성 파일 다운로드
-TemplateAdminCshRuleContents : 규칙 내용
-TemplateAdminCshRuleName : 규칙 이름
-TemplateAdminCshRulePriority : 규칙의 우선 순위
-TemplateAdminCshUpload : 업로드 CSH 구성 파일
-TemplateAdminCurrentContentRoleGroups : 현재 콘텐츠 역할 그룹
-TemplateAdminDownloadDefaultLanguage : 현재 기본 언어 파일 다운로드
-TemplateAdminDownloadcurrentCategory : 현재 카테고리 XML 파일을 다운로드
-TemplateAdminListGroupCurrentGroups : 현재 그룹
-TemplateAdminListGroupDefineNewGroup : 새로운 그룹을 정의
-TemplateAdminListRoleAdmin : 관리자
-TemplateAdminListRoleCurrentRoles : 현재 역할
-TemplateAdminListRoleDefineNewRole : 새 역할을 정의
-TemplateAdminListRoleRolesPublic : 공중
-TemplateAdminListRoleViewer : 뷰어
-TemplateAdminListUsersAction : 액션
-TemplateAdminListUsersDeleteUser : 사용자 삭제
-TemplateAdminListUsersEditPermissions : 편집 권한
-TemplateAdminListUsersEmail : 이메일
-TemplateAdminListUsersFullName : 전체 이름
-TemplateAdminListUsersResetPassword : 암호 재설정
-TemplateAdminSubjectSchemeDeleteLanguage : 언어 파일 삭제
-TemplateAdminSubjectSchemeDownload : 다운로드
-TemplateAdminSubjectSchemeDownloadLanguage : 다운로드 언어 파일
-TemplateAdminSubjectSchemeExistingLocalizations : 기존 현지화
-TemplateAdminSubjectSchemeLanguage : 언어
-TemplateAdminSubjectSchemeLocalizationTitle : 제목 계획의 현지화
-TemplateAdminSubjectSchemeUpdate : 업데이트
-TemplateAdminSubjectSchemeUpdateLanguage : 업데이트 언어 파일
-TemplateAdminUploadCategoryfile : 업로드 종류의 파일
-TemplateAdminUploadDefaultLanguage : 업로드 기본 언어 파일
-TemplateAdminUploadSiteMapFile : 업로드 사이트 맵 파일
-TemplateSubjectSchemeUpload : 업로드 주제 제도
-TemplateSubjectSchemeWarnReindex 참고 : 새로운 주제 방식을 업로드하면 전체 사이트를 다시 색인하게됩니다. 이 작업은 몇 분 정도 걸릴 수 있습니다.
-TemplatesSubjectSchemeChooseFile : 파일을 선택합니다 (하지 HTML에서, Vlatko 문의)
-TemplatesSubjectSchemeDownloadcurrent : 현재 제목 계획 다운로드
-TemplatesSubjectSchemeNoFileChosen : 없음 파일을 선택하지
+LoginSite: 로그인
+LoginSiteEmail: 이메일 주소
+LoginSiteForgotPassword: 암호 잊음
+LoginSiteMessage: 현재 로그인된 사용자 -
+LoginSiteZD: ZoominDocs 로그인
+TemplateAdminCategoryfile: 범주 XML 파일 관리
+TemplateAdminCshCurrent: 현재 CSH 규칙
+TemplateAdminCshDownload: 현재 CSH 구성 파일 다운로드
+TemplateAdminCshRuleContents: 규칙 콘텐츠
+TemplateAdminCshRuleName: 규칙 이름
+TemplateAdminCshRulePriority: 규칙 우선 순위
+TemplateAdminCshUpload: CSH 구성 파일 업로드
+TemplateAdminCurrentContentRoleGroups:  현재 콘텐츠 역할 그룹
+TemplateAdminDownloadDefaultLanguage: 현재 기본 언어 파일 다운로드
+TemplateAdminDownloadcurrentCategory: 현재 범주 XML 파일 다운로드
+TemplateAdminListGroupCurrentGroups: 현재 그룹
+TemplateAdminListGroupDefineNewGroup: 새 그룹 정의
+TemplateAdminListRoleAdmin: 관리
+TemplateAdminListRoleCurrentRoles: 현재 역할
+TemplateAdminListRoleDefineNewRole: 새 역할 정의
+TemplateAdminListRoleRolesPublic : 공개
+TemplateAdminListRoleViewer: 뷰어
+TemplateAdminListUsersAction: 액션
+TemplateAdminListUsersDeleteUser: 사용자 삭제
+TemplateAdminListUsersEditPermissions: 편집 권한
+TemplateAdminListUsersEmail: 이메일
+TemplateAdminListUsersFullName: 전체 이름
+TemplateAdminListUsersResetPassword: 암호 재설정
+TemplateAdminSubjectSchemeDeleteLanguage: 언어 파일 삭제
+TemplateAdminSubjectSchemeDownload: 다운로드
+TemplateAdminSubjectSchemeDownloadLanguage: 언어 파일 다운로드
+TemplateAdminSubjectSchemeExistingLocalizations: 기존 지역화
+TemplateAdminSubjectSchemeLanguage: 언어
+TemplateAdminSubjectSchemeLocalizationTitle: 주제 체계 지역화
+TemplateAdminSubjectSchemeUpdate: 업데이트
+TemplateAdminSubjectSchemeUpdateLanguage: 언어 파일 업데이트
+TemplateAdminUploadCategoryfile: 범주 파일 업로드
+TemplateAdminUploadDefaultLanguage: 기본 언어 파일 업로드
+TemplateAdminUploadSiteMapFile: 사이트 맵 파일 업로드
+TemplateSubjectSchemeUpload: 주제 체계 업로드
+TemplateSubjectSchemeWarnReindex: 참고: 새 주제 체계를 업로드하면 전체 사이트가 다시 인덱싱됩니다. 이 작업을 완료하는 데 몇 분 정도 걸릴 수 있습니다.
+TemplatesSubjectSchemeChooseFile: 파일 선택 (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: 현재 주제 체계 다운로드
+TemplatesSubjectSchemeNoFileChosen: 선택한 파일 없음

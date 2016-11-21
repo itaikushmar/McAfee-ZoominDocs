@@ -1,4 +1,4 @@
-AdvancedSearch: 高级搜索 
+﻿AdvancedSearch: 高级搜索
 AdvancedSearchTooltip: 选择内容过滤器
 BreadcrumbsProductDocumentationHome: 产品文档主页
 BreadcrumbsSearch: 搜索
@@ -14,18 +14,18 @@ HandlerBundlePageAltCSHResult: 已找到备用 CSH 主题
 HandlerCategoriesCategoryXMLFileUploaded: 已上传类别 XML 文件
 HandlerClassificationUpdated: 已更新分类图
 HandlerClassificationXMLFile: 已更新分类图
-HandlerCommentsComments: 条注释
-HandlerCommentsOneComment: 1 条注释
-HandlerCommentsPostedCommentOn: 在以下位置发布了一条注释:
-HandlerContentRolesAreYouSureDelete: 是否确实要删除此内容角色？
+HandlerCommentsComments: 条评论
+HandlerCommentsOneComment: 1 条评论
+HandlerCommentsPostedCommentOn: 在以下位置发布了一条评论:
+HandlerContentRolesAreYouSureDelete: 是否确定要删除此内容角色？
 HandlerContentRolesCRDeleted: 已删除内容角色
 HandlerContentRolesErrorDeleting: 出现问题。 未删除内容角色。
-HandlerCshAlternateCSHTopicFound: 找到备用 CSH 主题
+HandlerCshAlternateCSHTopicFound: 已找到备用 CSH 主题
 HandlerCshCSHRulesUpdated: 已更新 CSH 规则
 HandlerCshInvalidAliases: 在 CSH URL 中找到无效的别名密钥
 HandlerCshInvalidCSHRulesFile: CSH 规则文件无效
 HandlerCshNewCshFile: 上传新的 CSH 配置文件
-HandlerCshReservedAliasesUsed: 在 CSH 配置文件中使用了保留别名
+HandlerCshReservedAliasesUsed: 在 CSH 配置文件中使用的保留别名
 HandlerCustomError400H2: 400
 HandlerCustomError400H3: 错误的请求
 HandlerCustomError401H2: 401
@@ -63,7 +63,7 @@ HandlerMyPubSourcePublication: 来源发布内容
 HandlerProfileDisplayName: 显示名称
 HandlerProfileScreenName: 屏幕名称
 HandlerProfileUpdated: 已更新配置文件
-HandlerProfileUsernameInUse: 用户名存在
+HandlerProfileUsernameInUse: 用户名已存在
 HandlerRatingsInvalidRating: 评级无效
 HandlerRatingsRatingRecorded: 已记录您的评级
 HandlerRatingsRatingUpdated: 已更新您的评级
@@ -73,11 +73,11 @@ HandlerRolesNoRoleNameFound: 未找到角色名
 HandlerRolesNotEnoughAdminUsersRemaining: 无法分配用户
 HandlerRolesSelectedPermissionsLessThenDefault: 无法分配权限: 选定权限数少于默认权限集中的权限数
 HandlerSearchAllResults: 所有结果
-HandlerSearchNoResultsMsgTryFollowing: 未找到结果。 尝试以下操作：
+HandlerSearchNoResultsMsgTryFollowing: 未找到结果。 请尝试以下操作:
 HandlerSearchNoResultsMsgSpelledCorrectly: 确保所有字词拼写正确。
 HandlerSearchNoResultsMsgTryDifferent: 尝试其他关键字。
 HandlerSearchNoResultsMsgMoreGeneral: 尝试使用更宽泛的关键字。
-HandlerSearchNoResultsMsgNoFindProdVer: 找不到您的产品或版本？ 转到Intel Security ServicePortal。
+HandlerSearchNoResultsMsgNoFindProdVer: 找不到您的产品或版本？ 请转到 Intel Security ServicePortal。
 HandlerSearchNoResults: 无结果
 HandlerSearchOneResult: 一个结果
 HandlerSitemapFile: 站点地图文件
@@ -85,12 +85,12 @@ HandlerSitemapFileUploaded: 已成功更新站点地图。
 HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: 主题方案本地化文件无效
 HandlerSubjectSchemeLangDeleted lang@Text: #{lang} 已删除本地化文件
 HandlerSubjectSchemeLangsAvailable: 可用语言
-HandlerSubjectSchemeLangsDeleteConfirm: 是否确实要删除该本地化文件？ 
+HandlerSubjectSchemeLangsDeleteConfirm: 是否确定要删除该本地化文件？ 
 HandlerSubjectSchemeLangsDeleteError: 删除本地化文件时出错。
 HandlerSubjectSchemeLangsNewFile: 上传新的主题方案本地化文件
 HandlerSubjectSchemeLangUpdated lang@Text: #{lang} 已更新本地化文件
 HandlerSubjectSchemeLangUploaded lang@Text: #{lang} 已上传本地化文件 
-HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: 上传主题方案时发生问题。
+HandlerSubjectSchemeProblemOccurredWhileUploadingSubjectScheme: 上传主题方案时出现问题。
 HandlerSubjectSchemeSubjectSchemeUploadedSuccessfully: 已成功上传主题方案
 HandlerSubjectSchemeUnknownLanguageCode: 未知语言代码
 HandlerSubjectSchemeUpdated: 已更新主题方案
@@ -123,14 +123,14 @@ HandlerUsersRolesUpdated: 已更新用户角色
 HandlerUsersUnableToAssignUserPermissionRole: 无法分配用户权限角色
 HandlerUsersUnknownError: 未知错误
 HideTOC: 隐藏目录
-ImportAddHelperProblemRunningAddHelper: 运行 addHelper 时发生问题
+ImportAddHelperProblemRunningAddHelper: 运行 addHelper 时出现问题
 ImportBundlesTooManyTopics num@Int: 最多可以发布 #{show num} 个主题。 请选择较少主题，然后重试。
 ImportElasticAnalyzerError: - 注意: 自定分析器错误，请查看日志了解详细信息。 正在使用默认分析器。 
 ImportElasticErrorRebuilding: 重建索引时出错，请查看日志了解更多详细信息。
 ImportElasticErrorUpdating: 更新索引时出错，请查看日志了解更多详细信息。
 ImportElasticIndexRebuilt x@Text: 已成功重建索引 #{x}
 ImportElasticIndexUpdated x@Text: 已成功更新索引 #{x}
-ImportElasticNoPagesFound: 在数据库中未找到页面 – 索引重置。
+ImportElasticNoPagesFound: 在数据库中未找到页面 – 已重置索引。
 ImportElasticNoPagesInBundle: 在上传内容中未找到页面
 ImportInvalidPassword: 密码无效
 ImportRatingsOneRating: 1 个评级
@@ -153,8 +153,8 @@ PDFPage: 页面
 ProductDocumentationSplashTitle: 产品文档 
 PublishHowto: 发布
 ResultsPerPage: 每页的结果数
-ResultsPerPageShowFirst: 每页显示
-ResultsPerPageShow:
+ResultsPerPageShowFirst: 显示
+ResultsPerPageShow: 每页
 Search: 搜索产品文档
 SearchContent: 搜索此内容
 SearchHome: 搜索产品文档
@@ -172,8 +172,8 @@ TemplateAddUserPasswordMessage: 密码必须至少包含 8 个字符，其中至
 TemplateAdminArticleManagement: 文章管理
 TemplateAdminContentRoleGroups: 内容角色组
 TemplateAdminCSHConfigFile: 下载或更新 CSH 配置文件
-TemplateAdminElasticReindex: 重新构建搜索索引
-TemplateAdminExportComments: 导出注释
+TemplateAdminElasticReindex: 重建搜索索引
+TemplateAdminExportComments: 导出评论
 TemplateAdminExportRatings: 导出评级
 TemplateAdminManageManuals: 管理手册
 TemplateAdminManageResourceManuals: 管理资源包
@@ -190,24 +190,24 @@ TemplateAdminUserManagement: 用户管理
 TemplateAdminUserRoles: 用户角色
 TemplateBundlePageCollapse: 折叠
 TemplateBundlePageCollapseTooltip: 折叠全部标题
-TemplateBundlePageComments: 备注
+TemplateBundlePageComments: 评论
 TemplateBundlePageContents: 目录
 TemplateBundlePageExpand: 展开
 TemplateBundlePageExpandTooltip: 展开目录
 TemplateBundlePageFeedback: 反馈
-TemplateBundlePageFeedbackThankYou: 谢谢！ 已发送您的注释。 
+TemplateBundlePageFeedbackThankYou: 谢谢！ 已发送您的评论。 
 TemplateBundlePageFeedbackTooltip: 提交反馈
 TemplateBundlePageFilterTitle: 选择一个或多个选项
-TemplateBundlePageNext: 下一页
+TemplateBundlePageNext: 下一个
 TemplateBundlePageNextTopicTooltip: 转至下一个主题
 TemplateBundlePageNo: 否
 TemplateBundlePagePrevious: 上一个 
 TemplateBundlePagePrevTopicTooltip: 转至上一个主题
 TemplateBundlePagePrint: 打印
 TemplateBundlePagePrintTooltip: 打印主题
-TemplateBundlePagePrivacy: 为保护您的隐私权，请勿在反馈中包含联系信息。
-TemplateBundlePagePrivacyLast:  查看我们的隐私权政策。
-TemplateBundlePageProvideFeedbackCharsLeft: 剩余500个字符
+TemplateBundlePagePrivacy: 为保护您的隐私权，请勿在反馈中包含联系信息。 请查看我们的
+TemplateBundlePagePrivacyLast: 隐私策略。
+TemplateBundlePageProvideFeedbackCharsLeft: 剩余 500 个字符
 TemplateBundlePageProvideFeedbackTooltip: 提供反馈
 TemplateBundlePageSaveAsPDF: 另存为 PDF
 TemplateBundlePageSavePDFTooltip: 另存为 PDF
@@ -242,7 +242,7 @@ TemplateDefaultLayoutLinksCareers: 职业
 TemplateDefaultLayoutLinksContactUs: 联系我们
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: 法律合同与条款
-TemplateDefaultLayoutLinksLegalNotices: 法律声明 
+TemplateDefaultLayoutLinksLegalNotices: 法律声明
 TemplateDefaultLayoutLinksPrivacy: 隐私
 TemplateDefaultLayoutLinksSiteMap: 站点地图
 TemplateDefaultLayoutLinksWebsiteFeedback: 网站反馈
@@ -266,10 +266,10 @@ TemplateSearchSortbyUpdatedAsc: 添加日期 – 升序
 TemplateSearchSortbyUpdatedDec: 添加日期 – 降序
 TemplateSearchSortbyViews: 查看次数
 TemplatesSearchPageClear: 清除
-TemplatesSearchPageCurrentResultsFirst: 结果
-TemplatesSearchPageCurrentResults:
+TemplatesSearchPageCurrentResultsFirst: 结果 
+TemplatesSearchPageCurrentResults: /
 TemplatesSearchPageRefilneResults: 优化结果
-TemplatesSearchPageResultUpdated: 已更新
+TemplatesSearchPageResultUpdated: 更新日期
 TemplateUploadSitemapDisable: 禁用站点地图
 TemplateUploadSitemapDisabled: 已禁用站点地图
 TemplateUploadSitemapDisabledWord: 已禁用
@@ -282,50 +282,50 @@ TemplateUploadSitemapStatus sts@Text: 站点地图为 #{sts}
 TextPass txt@Text: #{txt}
 Upload: 上传
 UploadLink: 上传发布内容
-YesodAuthStormPathSSOErrorOccured: 发生错误
+YesodAuthStormPathSSOErrorOccured: 出现错误
 YesodAuthStormPathSSOLoginParamError: SSO 登录参数中存在错误
-YesodAuthStormPathSSOLoginTryAgain: 请尝试使用以下内容重新登录
-登录网站：登录
-LoginSiteEmail：电子邮件地址
-LoginSiteForgotPassword：忘记密码
-LoginSiteMessage：您现在已经登录
-LoginSiteZD：ZoominDocs登录
-TemplateAdminCategoryfile：类别XML文件
-TemplateAdminCshCurrent：当前CSH规则
-TemplateAdminCsh下载：下载当前的CSH配置文件
-TemplateAdminCshRuleContents：规则内容
-TemplateAdminCshRuleName：规则名称
-TemplateAdminCshRulePriority：规则优先级
-TemplateAdminCshUpload：上传CSH配置文件
-TemplateAdminCurrentContentRoleGroups：当前内容角色组
-TemplateAdminDownloadDefaultLanguage：下载当前默认语言文件
-TemplateAdminDownloadcurrentCategory：下载当前类别的XML文件
-TemplateAdminListGroupCurrentGroups：当前组
-TemplateAdminListGroupDefineNewGroup：定义新组
-TemplateAdminListRoleAdmin：admin
-TemplateAdminListRoleCurrentRoles：当前角色
-TemplateAdminListRoleDefineNewRole：定义新角色
-TemplateAdminListRoleRolesPublic：Public
-TemplateAdminListRoleViewer：viewer
-TemplateAdminListUsersAction：Action
-TemplateAdminListUsersDeleteUser：删除用户
-TemplateAdminListUsersEditPermissions：编辑权限
-TemplateAdminListUsersEmail：电子邮件
-TemplateAdminListUsersFullName：全名
-TemplateAdminListUsersResetPassword：重置密码
-TemplateAdminSubjectSchemeDeleteLanguage：删除语言文件
-TemplateAdminSubjectScheme下载：下载
-TemplateAdminSubjectSchemeDownloadLanguage：下载语言文件
-TemplateAdminSubjectSchemeExistingLocalizations：现有本地化
-TemplateAdminSubjectSchemeLanguage：语言
-TemplateAdminSubjectSchemeLocalizationTitle：主题方案本地化
-TemplateAdminSubjectSchemeUpdate：Update
-TemplateAdminSubjectSchemeUpdateLanguage：更新语言文件
-TemplateAdminUploadCategoryfile：上传类别文件
-TemplateAdminUploadDefaultLanguage：上传默认语言文件
-TemplateAdminUploadSiteMapFile：上传Sitemap文件
-TemplateSubjectSchemeUpload：上传主题方案
-TemplateSubjectSchemeWarnReindex：注意：上传新的主题方案将导致整个网站重新编制索引。这可能会需要几分钟。
-TemplatesSubjectSchemeChooseFile：选择文件（询问Vlatko，而不是html）
-TemplatesSubjectSchemeDownloadcurrent：下载当前主题方案
-TemplatesSubjectSchemeNoFileChosen：未选择文件
+YesodAuthStormPathSSOLoginTryAgain: 请使用以下内容重新登录
+LoginSite: 登录
+LoginSiteEmail: 电子邮件地址
+LoginSiteForgotPassword: 忘记密码
+LoginSiteMessage: 您现在已登录
+LoginSiteZD: ZoominDocs 登录
+TemplateAdminCategoryfile: 类别 XML 文件
+TemplateAdminCshCurrent: 当前 CSH 规则
+TemplateAdminCshDownload: 下载当前 CSH 配置文件
+TemplateAdminCshRuleContents: 规则内容
+TemplateAdminCshRuleName: 规则名称
+TemplateAdminCshRulePriority: 规则优先级
+TemplateAdminCshUpload: 上传 CSH 配置文件
+TemplateAdminCurrentContentRoleGroups:  当前内容角色组
+TemplateAdminDownloadDefaultLanguage: 下载当前默认语言文件
+TemplateAdminDownloadcurrentCategory: 下载当前类别 XML 文件
+TemplateAdminListGroupCurrentGroups: 当前组
+TemplateAdminListGroupDefineNewGroup: 定义新组
+TemplateAdminListRoleAdmin: 管理员
+TemplateAdminListRoleCurrentRoles: 当前角色
+TemplateAdminListRoleDefineNewRole: 定义新角色
+TemplateAdminListRoleRolesPublic : 公共
+TemplateAdminListRoleViewer: 查看器
+TemplateAdminListUsersAction: 操作
+TemplateAdminListUsersDeleteUser: 删除用户
+TemplateAdminListUsersEditPermissions: 编辑权限
+TemplateAdminListUsersEmail: 电子邮件
+TemplateAdminListUsersFullName: 全名
+TemplateAdminListUsersResetPassword: 重置密码
+TemplateAdminSubjectSchemeDeleteLanguage: 删除语言文件
+TemplateAdminSubjectSchemeDownload: 下载
+TemplateAdminSubjectSchemeDownloadLanguage: 下载语言文件
+TemplateAdminSubjectSchemeExistingLocalizations: 现有本地化
+TemplateAdminSubjectSchemeLanguage: 语言
+TemplateAdminSubjectSchemeLocalizationTitle: 主题方案本地化
+TemplateAdminSubjectSchemeUpdate: 更新
+TemplateAdminSubjectSchemeUpdateLanguage: 更新语言文件
+TemplateAdminUploadCategoryfile: 上传类别文件
+TemplateAdminUploadDefaultLanguage: 上传默认语言文件
+TemplateAdminUploadSiteMapFile: 上传站点地图文件
+TemplateSubjectSchemeUpload: 上传主题方案
+TemplateSubjectSchemeWarnReindex: 注意: 上传新的主题方案会导致对整个站点重新编制索引。 这可能需要几分钟。
+TemplatesSubjectSchemeChooseFile: 选择文件 (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: 下载当前主题方案
+TemplatesSubjectSchemeNoFileChosen: 未选择文件

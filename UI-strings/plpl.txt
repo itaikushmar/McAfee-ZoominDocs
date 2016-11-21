@@ -1,4 +1,4 @@
-AdvancedSearch: Wyszukiwanie zaawansowane 
+﻿AdvancedSearch: Wyszukiwanie zaawansowane
 AdvancedSearchTooltip: Wybierz filtry zawartości
 BreadcrumbsProductDocumentationHome: Strona główna dokumentacji produktu
 BreadcrumbsSearch: Wyszukaj
@@ -77,11 +77,11 @@ HandlerSearchNoResultsMsgTryFollowing: Nie znaleziono wyników. Spróbuj wykona�
 HandlerSearchNoResultsMsgSpelledCorrectly: Upewnij się, że wszystkie słowa zostały poprawnie napisane.
 HandlerSearchNoResultsMsgTryDifferent: Spróbuj użyć innych słów kluczowych.
 HandlerSearchNoResultsMsgMoreGeneral: Spróbuj użyć bardziej ogólnych słów kluczowych.
-HandlerSearchNoResultsMsgNoFindProdVer: Nie znaleziono produktu lub wersji? Przejdź do Intel Bezpieczeństwa ServicePortal.
+HandlerSearchNoResultsMsgNoFindProdVer: Nie znaleziono produktu lub wersji? Przejdź do Intel Security ServicePortal.
 HandlerSearchNoResults: Brak wyników
 HandlerSearchOneResult: Jeden wynik
 HandlerSitemapFile: Plik mapy witryny
-HandlerSitemapFileUploaded: Zaktualizowano pomyślnie mapę witryny.
+HandlerSitemapFileUploaded: Pomyślnie zaktualizowano mapę witryny.
 HandlerSubjectSchemeInvalidSubjectSchemeLocalizationFile: Nieprawidłowy plik lokalizacji schematu tematu
 HandlerSubjectSchemeLangDeleted lang@Text: Plik lokalizacji #{lang} został usunięty
 HandlerSubjectSchemeLangsAvailable: Dostępne języki
@@ -116,7 +116,7 @@ HandlerUsersEmailError: Wystąpił błąd podczas wysyłania wiadomości e-mail 
 HandlerUsersInvalidToken: Nieprawidłowy token
 HandlerUsersNoResetToken: Brak tokenu resetowania
 HandlerUsersNoRoleIdFound: Nie znaleziono identyfikatora roli
-HandlerUsersPasswordEmailSent: Wiadomość e-mail dotycząca resetowania hasła została wysłana
+HandlerUsersPasswordEmailSent: Wysłano wiadomość e-mail dotyczącą resetowania hasła
 HandlerUsersRegisterSuccess: Pomyślnie zarejestrowano użytkownika
 HandlerUsersResetPasswordError: Wystąpił błąd podczas resetowania hasła
 HandlerUsersRolesUpdated: Role użytkownika zostały zaktualizowane
@@ -134,7 +134,7 @@ ImportElasticNoPagesFound: Nie znaleziono stron w bazie danych — indeks zostan
 ImportElasticNoPagesInBundle: Nie znaleziono stron w przesłanych danych
 ImportInvalidPassword: Niepoprawne hasło
 ImportRatingsOneRating: 1 ocena
-ImportRatingsRatings: Oceny
+ImportRatingsRatings: ocen(y)
 ImportRolesPermissionDenied: Odmowa dostępu
 ImportSearchNoCategoriesUploaded: Nie przesłano pliku XML kategorii
 ImportSearchUnknownTopicLink: *** nieznane łącze tematu ***
@@ -205,9 +205,9 @@ TemplateBundlePagePrevious: Poprzedni
 TemplateBundlePagePrevTopicTooltip: Przejdź do poprzedniego tematu
 TemplateBundlePagePrint: Drukuj
 TemplateBundlePagePrintTooltip: Wydrukuj temat
-TemplateBundlePagePrivacy: Aby chronić swoją prywatność, nie podawaj informacji kontaktowych w treści swojej opinii. Przejrzyj nasze zasady
-TemplateBundlePagePrivacyLast: zachowania prywatności.
-TemplateBundlePageProvideFeedbackCharsLeft: 500 pozostało znaków
+TemplateBundlePagePrivacy: Aby chronić swoją prywatność, nie podawaj informacji kontaktowych w treści swojej opinii. Zapoznaj się z naszymi
+TemplateBundlePagePrivacyLast: zasadami zachowania prywatności.
+TemplateBundlePageProvideFeedbackCharsLeft: Pozostało znaków: 500
 TemplateBundlePageProvideFeedbackTooltip: Prześlij opinię
 TemplateBundlePageSaveAsPDF: Zapisz jako plik PDF
 TemplateBundlePageSavePDFTooltip: Zapisz jako plik PDF
@@ -237,12 +237,12 @@ TemplateDefaultLayoutArticles: Artykuły
 TemplateDefaultLayoutBrowseDocumentation: Przeglądaj
 TemplateDefaultLayoutDocumentation: Biblioteka z dokumentacją
 TemplateDefaultLayoutHome: Strona główna
-TemplateDefaultLayoutLanguages: United States - English
+TemplateDefaultLayoutLanguages: Stany Zjednoczone - Angielski
 TemplateDefaultLayoutLinksCareers: Możliwości kariery
 TemplateDefaultLayoutLinksContactUs: Skontaktuj się z nami
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Umowy prawne i postanowienia
-TemplateDefaultLayoutLinksLegalNotices: Uwagi prawne  
+TemplateDefaultLayoutLinksLegalNotices: Uwagi prawne
 TemplateDefaultLayoutLinksPrivacy: Prywatność
 TemplateDefaultLayoutLinksSiteMap: Mapa witryny
 TemplateDefaultLayoutLinksWebsiteFeedback: Uwagi dotyczące witryny sieci Web
@@ -256,8 +256,8 @@ TemplateSearchCurrentPublication name@Text: Bieżące wyszukiwanie jest ogranicz
 TemplateSearchPageClearTooltip: Wyczyść filtry
 TemplateSearchPageFirstPageTooltip: Przejdź do pierwszej strony
 TemplateSearchPageLastPageTooltip: Przejdź do ostatniej strony
-TemplateSearchPageNextPageTooltip: Przejście do następnej strony
-TemplateSearchPagePrevPageTooltip: Przejście do poprzedniej strony
+TemplateSearchPageNextPageTooltip: Przejdź do następnej strony
+TemplateSearchPagePrevPageTooltip: Przejdź do poprzedniej strony
 TemplateSearchPublicationTitle: Publikacja
 TemplateSearchSortbyCreatedAsc: Data utworzenia — rosnąco
 TemplateSearchSortbyCreatedDec: Data utworzenia — malejąco
@@ -266,8 +266,8 @@ TemplateSearchSortbyUpdatedAsc: Data dodania — rosnąco
 TemplateSearchSortbyUpdatedDec: Data dodania — malejąco
 TemplateSearchSortbyViews: Liczba wyświetleń
 TemplatesSearchPageClear: Wyczyść
-TemplatesSearchPageCurrentResultsFirst: Wyniki
-TemplatesSearchPageCurrentResults:
+TemplatesSearchPageCurrentResultsFirst: Wyniki 
+TemplatesSearchPageCurrentResults: z
 TemplatesSearchPageRefilneResults: Zawęź wyniki
 TemplatesSearchPageResultUpdated: Zaktualizowano
 TemplateUploadSitemapDisable: Wyłącz mapę witryny
@@ -284,48 +284,48 @@ Upload: Prześlij
 UploadLink: Prześlij publikację
 YesodAuthStormPathSSOErrorOccured: Wystąpił błąd
 YesodAuthStormPathSSOLoginParamError: Wystąpił błąd z parametrami logowania SSO
-YesodAuthStormPathSSOLoginTryAgain: Spróbuj zalogować się ponownie za pomocą
-LoginSite: Zaloguj
-LoginSiteEmail: Adres email
-LoginSiteForgotPassword: Zapomniane hasło
-LoginSiteMessage: jesteś teraz zalogowany
-LoginSiteZD: ZoominDocs Logowanie
-TemplateAdminCategoryfile: Kategoria XML File
-TemplateAdminCshCurrent: Aktualny CSH Zasady
-TemplateAdminCshDownload: Pobierz aktualny CSH pliku konfiguracyjnego
-TemplateAdminCshRuleContents: Zasada ogólna
+YesodAuthStormPathSSOLoginTryAgain: Zaloguj się ponownie za pomocą
+LoginSite: Logowanie
+LoginSiteEmail: Adres e-mail
+LoginSiteForgotPassword: Nie pamiętam hasła
+LoginSiteMessage: Użytkownik nie jest zalogowany
+LoginSiteZD: Logowanie ZoominDocs
+TemplateAdminCategoryfile: Plik XML kategorii
+TemplateAdminCshCurrent: Bieżące reguły CSH
+TemplateAdminCshDownload: Pobierz bieżący plik konfiguracji CSH
+TemplateAdminCshRuleContents: Reguły dotyczące zawartości
 TemplateAdminCshRuleName: Nazwa reguły
-TemplateAdminCshRulePriority: zasady pierwszeństwa
-Prześlij plik CSH Config: TemplateAdminCshUpload
-TemplateAdminCurrentContentRoleGroups: Spis treści Rola Grupy
-TemplateAdminDownloadDefaultLanguage: Pobierz plik Obecny domyślny język
-TemplateAdminDownloadcurrentCategory: Pobierz plik XML dotychczasowych kategorii
-TemplateAdminListGroupCurrentGroups: Aktualne Grupy
+TemplateAdminCshRulePriority: Priorytet reguły
+TemplateAdminCshUpload: Prześlij plik konfiguracji CSH
+TemplateAdminCurrentContentRoleGroups:  Bieżące grupy roli zawartości
+TemplateAdminDownloadDefaultLanguage: Pobierz bieżący plik domyślnego języka
+TemplateAdminDownloadcurrentCategory: Pobierz bieżący plik XML kategorii
+TemplateAdminListGroupCurrentGroups: Bieżące grupy
 TemplateAdminListGroupDefineNewGroup: Zdefiniuj nową grupę
-TemplateAdminListRoleAdmin: Admin
-TemplateAdminListRoleCurrentRoles: Aktualne Role
-TemplateAdminListRoleDefineNewRole: Definiowanie nowej roli
-TemplateAdminListRoleRolesPublic: Publiczny
-TemplateAdminListRoleViewer: widz
+TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleCurrentRoles: Bieżące role
+TemplateAdminListRoleDefineNewRole: Zdefiniuj nową rolę
+TemplateAdminListRoleRolesPublic : Publiczny
+TemplateAdminListRoleViewer: przeglądający
 TemplateAdminListUsersAction: Akcja
 TemplateAdminListUsersDeleteUser: Usuń użytkownika
 TemplateAdminListUsersEditPermissions: Edytuj uprawnienia
-TemplateAdminListUsersEmail: Email
+TemplateAdminListUsersEmail: E-mail
 TemplateAdminListUsersFullName: Pełna nazwa
-TemplateAdminListUsersResetPassword: Resetowanie hasła
-TemplateAdminSubjectSchemeDeleteLanguage: Usuwanie Język Plik
+TemplateAdminListUsersResetPassword: Resetuj hasło
+TemplateAdminSubjectSchemeDeleteLanguage: Usuń plik języka
 TemplateAdminSubjectSchemeDownload: Pobierz
-TemplateAdminSubjectSchemeDownloadLanguage: Pobierz Język pliku
-TemplateAdminSubjectSchemeExistingLocalizations: Istniejące Localizations
+TemplateAdminSubjectSchemeDownloadLanguage: Pobierz plik języka
+TemplateAdminSubjectSchemeExistingLocalizations: Istniejące lokalizacje
 TemplateAdminSubjectSchemeLanguage: Język
-TemplateAdminSubjectSchemeLocalizationTitle: Temat Schemat Localization
+TemplateAdminSubjectSchemeLocalizationTitle: Lokalizacja schematu tematu
 TemplateAdminSubjectSchemeUpdate: Aktualizacja
-TemplateAdminSubjectSchemeUpdateLanguage: Aktualizacja Język pliku
-TemplateAdminUploadCategoryfile: Prześlij plik Kategoria
-TemplateAdminUploadDefaultLanguage: Prześlij Domyślny Język pliku
-TemplateAdminUploadSiteMapFile: Prześlij plik Sitemap
-TemplateSubjectSchemeUpload: Upload Temat Schemat
-TemplateSubjectSchemeWarnReindex: UWAGA: Przekazywanie nowy schemat tematu spowoduje, że cała witryna zostać ponownie indeksowane. To może zająć kilka minut.
-TemplatesSubjectSchemeChooseFile: Wybierz plik (zapytać vlatko, a nie w HTML)
-TemplatesSubjectSchemeDownloadcurrent: Pobierz bieżący schemat tematyczny
+TemplateAdminSubjectSchemeUpdateLanguage: Aktualizuj plik języka
+TemplateAdminUploadCategoryfile: Prześlij plik kategorii
+TemplateAdminUploadDefaultLanguage: Prześlij plik domyślnego języka
+TemplateAdminUploadSiteMapFile: Prześlij plik mapy witryny
+TemplateSubjectSchemeUpload: Prześlij schemat tematu
+TemplateSubjectSchemeWarnReindex: UWAGA: Przesłanie nowego schematu tematu spowoduje wykonanie ponownego indeksowania całej witryny. Może to potrwać kilka minut.
+TemplatesSubjectSchemeChooseFile: Wybierz plik (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: Pobierz bieżący schemat tematu
 TemplatesSubjectSchemeNoFileChosen: Nie wybrano pliku

@@ -1,4 +1,4 @@
-AdvancedSearch: Pesquisa avançada 
+﻿AdvancedSearch: Pesquisa avançada
 AdvancedSearchTooltip: Selecionar filtros de conteúdo
 BreadcrumbsProductDocumentationHome: Página principal da documentação do produto
 BreadcrumbsSearch: Pesquisar
@@ -8,7 +8,7 @@ DeleteText: Eliminar
 ErrorOccured: Ocorreu um erro
 FilterUsers: Filtrar utilizadores:
 FoundationLoginOnly: Iniciar sessão
-FoundationLoginRegister: Iniciar sessão/Registar-se
+FoundationLoginRegister: Iniciar sessão/registar-se
 HandlerAdminOnlyAdmin: Acesso negado
 HandlerBundlePageAltCSHResult: Tópico CSH alternativo encontrado
 HandlerCategoriesCategoryXMLFileUploaded: Ficheiro XML da categoria carregado
@@ -45,7 +45,7 @@ HandlerFontoErrorParsingXML: Erro ao analisar XML
 HandlerFontoErrorParsingXMLToDocument: Erro ao analisar XML para documento
 HandlerFontoNoFileFound: Ficheiro não encontrado
 HandlerFontoNoIDFound: ID não encontrado
-HandlerFontoUntitledFromCursor: Sem título – do Cursor
+HandlerFontoUntitledFromCursor: Sem título – do cursor
 HandlerGroupsErrorReadingGroupID: Erro ao ler ID de grupo
 HandlerGroupsGroupUpdated: Grupo atualizado
 HandlerGroupsMustUseUniqueGroupName: É necessário um nome do grupo exclusivo
@@ -73,11 +73,11 @@ HandlerRolesNoRoleNameFound: Nenhum nome da função encontrado
 HandlerRolesNotEnoughAdminUsersRemaining: Não foi possível atribuir utilizadores
 HandlerRolesSelectedPermissionsLessThenDefault: Não foi possível atribuir permissões. As permissões selecionadas são inferiores ao conjunto de permissões predefinido.
 HandlerSearchAllResults: Todos os resultados
-HandlerSearchNoResultsMsgTryFollowing: Nenhum resultado encontrado. Tente o seguinte:
+HandlerSearchNoResultsMsgTryFollowing: Não foram encontrados resultados. Experimente o seguinte:
 HandlerSearchNoResultsMsgSpelledCorrectly: Certifique-se de que todas as palavras estão escritas corretamente.
-HandlerSearchNoResultsMsgTryDifferent: Tente palavras-chave diferentes.
-HandlerSearchNoResultsMsgMoreGeneral: Tente palavras-chave mais gerais.
-HandlerSearchNoResultsMsgNoFindProdVer: Não encontrar o seu produto ou versão mais recente? Vá para a Segurança ServicePortal Intel.
+HandlerSearchNoResultsMsgTryDifferent: Experimente palavras-chave diferentes.
+HandlerSearchNoResultsMsgMoreGeneral: Experimente palavras-chave mais gerais.
+HandlerSearchNoResultsMsgNoFindProdVer: Não encontra o seu produto ou a sua versão? Aceda ao Intel Security ServicePortal.
 HandlerSearchNoResults: Não há resultados
 HandlerSearchOneResult: Um resultado
 HandlerSitemapFile: Ficheiro do mapa do site
@@ -205,9 +205,9 @@ TemplateBundlePagePrevious: Anterior
 TemplateBundlePagePrevTopicTooltip: Aceder ao tópico anterior
 TemplateBundlePagePrint: Imprimir
 TemplateBundlePagePrintTooltip: Imprimir tópico
-TemplateBundlePagePrivacy: Para proteger a sua privacidade, não inclua informações de contacto nos comentários. Consulte a nossa Política
-TemplateBundlePagePrivacyLast: de Privacidade.
-TemplateBundlePageProvideFeedbackCharsLeft: 500 caracteres restantes
+TemplateBundlePagePrivacy: Para proteger a sua privacidade, não inclua informações de contacto nos comentários. Consulte a nossa
+TemplateBundlePagePrivacyLast: Política de Privacidade.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 carateres restantes
 TemplateBundlePageProvideFeedbackTooltip: Enviar comentários
 TemplateBundlePageSaveAsPDF: Guardar como PDF
 TemplateBundlePageSavePDFTooltip: Guardar como PDF
@@ -242,7 +242,7 @@ TemplateDefaultLayoutLinksCareers: Empregos
 TemplateDefaultLayoutLinksContactUs: Contacte-nos
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Termos e contratos legais
-TemplateDefaultLayoutLinksLegalNotices: Avisos legais 
+TemplateDefaultLayoutLinksLegalNotices: Aviso legal
 TemplateDefaultLayoutLinksPrivacy: Privacidade
 TemplateDefaultLayoutLinksSiteMap: Mapa do site
 TemplateDefaultLayoutLinksWebsiteFeedback: Comentários acerca do Web site
@@ -266,7 +266,7 @@ TemplateSearchSortbyUpdatedAsc: Data de adição – ordem ascendente
 TemplateSearchSortbyUpdatedDec: Data de adição – ordem descendente
 TemplateSearchSortbyViews: Número de visitas
 TemplatesSearchPageClear: Limpar
-TemplatesSearchPageCurrentResultsFirst: Resultados
+TemplatesSearchPageCurrentResultsFirst: Resultados 
 TemplatesSearchPageCurrentResults: de
 TemplatesSearchPageRefilneResults: Refinar resultados
 TemplatesSearchPageResultUpdated: Atualizado
@@ -284,48 +284,48 @@ Upload: Carregar
 UploadLink: Carregar publicação
 YesodAuthStormPathSSOErrorOccured: Ocorreu um erro
 YesodAuthStormPathSSOLoginParamError: Ocorreu um erro com os parâmetros de início de sessão SSO
-YesodAuthStormPathSSOLoginTryAgain: Experimente iniciar sessão novamente com
-LoginSite: Login
-LoginSiteEmail: Endereço de e-mail
-LoginSiteForgotPassword: Esqueceu a senha?
-LoginSiteMessage: Você está agora logado
-LoginSiteZD: ZoominDocs Entrar
-TemplateAdminCategoryfile: Arquivo XML de categoria
-TemplateAdminCshCurrent: Regras atuais do CSH
-TemplateAdminCshDownload: Baixar o arquivo de configuração CSH atual
+YesodAuthStormPathSSOLoginTryAgain: Inicie sessão novamente com
+LoginSite: Iniciar sessão
+LoginSiteEmail: Endereço de correio eletrónico
+LoginSiteForgotPassword: Esqueci-me da palavra-passe
+LoginSiteMessage: Tem sessão iniciada em
+LoginSiteZD: Início de sessão ZoominDocs
+TemplateAdminCategoryfile: Ficheiro XML da categoria
+TemplateAdminCshCurrent: Regras CSH atuais
+TemplateAdminCshDownload: Transferir ficheiro de configuração CSH atual
 TemplateAdminCshRuleContents: Conteúdo da regra
 TemplateAdminCshRuleName: Nome da regra
-TemplateAdminCshRulePriority: Prioridade de regra
-TemplateAdminCshUpload: Carregue o arquivo CSH Config
-TemplateAdminCurrentContentRoleGroups: grupos de função de conteúdo atual
-TemplateAdminDownloadDefaultLanguage: Download do arquivo de idioma padrão atual
-TemplateAdminDownloadcurrentCategory: Download de categorias atuais arquivo XML
+TemplateAdminCshRulePriority: Prioridade da regra
+TemplateAdminCshUpload: Carregar ficheiro de configuração CSH
+TemplateAdminCurrentContentRoleGroups: Grupos de funções de conteúdo atuais
+TemplateAdminDownloadDefaultLanguage: Transferir ficheiro de idioma predefinido atual
+TemplateAdminDownloadcurrentCategory: Transferir ficheiro XML de categorias atual
 TemplateAdminListGroupCurrentGroups: Grupos atuais
 TemplateAdminListGroupDefineNewGroup: Definir novo grupo
-TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleAdmin: administrador
 TemplateAdminListRoleCurrentRoles: Funções atuais
 TemplateAdminListRoleDefineNewRole: Definir nova função
-TemplateAdminListRoleRolesPublic: Public
+TemplateAdminListRoleRolesPublic : Pública
 TemplateAdminListRoleViewer: visualizador
-TemplateAdminListUsersAction: Action
-TemplateAdminListUsersDeleteUser: Excluir usuário
+TemplateAdminListUsersAction: Ação
+TemplateAdminListUsersDeleteUser: Eliminar utilizador
 TemplateAdminListUsersEditPermissions: Editar permissões
-TemplateAdminListUsersEmail: Email
+TemplateAdminListUsersEmail: Correio eletrónico
 TemplateAdminListUsersFullName: Nome completo
-TemplateAdminListUsersResetPassword: Redefinir Senha
-TemplateAdminSubjectSchemeDeleteLanguage: Excluir arquivo de idioma
-TemplateAdminSubjectSchemeDownload: Download
-TemplateAdminSubjectSchemeDownloadLanguage: Baixar arquivo de idioma
+TemplateAdminListUsersResetPassword: Repor a palavra-passe
+TemplateAdminSubjectSchemeDeleteLanguage: Eliminar ficheiro de idioma
+TemplateAdminSubjectSchemeDownload: Transferir
+TemplateAdminSubjectSchemeDownloadLanguage: Transferir ficheiro de idioma
 TemplateAdminSubjectSchemeExistingLocalizations: Localizações existentes
 TemplateAdminSubjectSchemeLanguage: Idioma
-TemplateAdminSubjectSchemeLocalizationTitle: Assunto Localização do esquema
-TemplateAdminSubjectSchemeUpdate: Atualização
-TemplateAdminSubjectSchemeUpdateLanguage: Atualizar arquivo de linguagem
-TemplateAdminUploadCategoryfile: Carregar arquivo de categoria
-TemplateAdminUploadDefaultLanguage: Carregar Arquivo de Idioma Padrão
-TemplateAdminUploadSiteMapFile: Carregar arquivo de sitemap
-TemplateSubjectSchemeUpload: Submeter esquema de assunto
-TemplateSubjectSchemeWarnReindex: Observação: carregar um novo esquema de assunto fará com que o site inteiro seja re-indexado. Isso pode levar vários minutos.
-TemplatesSubjectSchemeChooseFile: Escolha Arquivo (pergunte Vlatko, não em html)
-TemplatesSubjectSchemeDownloadcurrent: Fazer o download do esquema de assunto atual
-TemplatesSubjectSchemeNoFileChosen: Nenhum arquivo escolhido
+TemplateAdminSubjectSchemeLocalizationTitle: Localização do esquema do assunto
+TemplateAdminSubjectSchemeUpdate: Atualizar
+TemplateAdminSubjectSchemeUpdateLanguage: Atualizar ficheiro de idioma
+TemplateAdminUploadCategoryfile: Carregar ficheiro de categoria
+TemplateAdminUploadDefaultLanguage: Carregar ficheiro de idioma predefinido
+TemplateAdminUploadSiteMapFile: Carregar ficheiro de mapa do site
+TemplateSubjectSchemeUpload: Carregar esquema do assunto
+TemplateSubjectSchemeWarnReindex: NOTA: carregar um novo esquema de assunto fará com que todo o site seja reindexado. Esta ação pode demorar alguns minutos.
+TemplatesSubjectSchemeChooseFile: Escolher ficheiro (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: Transferir esquema do assunto
+TemplatesSubjectSchemeNoFileChosen: Nenhum ficheiro escolhido

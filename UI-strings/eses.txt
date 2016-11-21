@@ -1,6 +1,6 @@
-AdvancedSearch: Búsqueda avanzada 
+﻿AdvancedSearch: Búsqueda avanzada
 AdvancedSearchTooltip: Seleccionar filtros de contenido
-BreadcrumbsProductDocumentationHome: Inicio de documentación de productos
+BreadcrumbsProductDocumentationHome: Inicio de Documentación de productos
 BreadcrumbsSearch: Buscar
 Cancel: Cancelar
 Close: Cerrar
@@ -10,22 +10,22 @@ FilterUsers: Filtrar usuarios:
 FoundationLoginOnly: Iniciar sesión
 FoundationLoginRegister: Iniciar sesión / Registrarse
 HandlerAdminOnlyAdmin: Acceso denegado
-HandlerBundlePageAltCSHResult: Tema CSH alternativo encontrado
+HandlerBundlePageAltCSHResult: Tema de CSH alternativo encontrado
 HandlerCategoriesCategoryXMLFileUploaded: Archivo XML de categorías cargado
 HandlerClassificationUpdated: Mapa de clasificación actualizado
-HandlerClassificationXMLFile: Mapa de clasificación actualizado
+HandlerClassificationXMLFile: Se ha actualizado el mapa de clasificación
 HandlerCommentsComments: comentarios
 HandlerCommentsOneComment: 1 comentario
 HandlerCommentsPostedCommentOn: ha publicado un comentario en:
 HandlerContentRolesAreYouSureDelete: ¿Seguro que desea eliminar esta función de contenido?
 HandlerContentRolesCRDeleted: Función de contenido eliminada
 HandlerContentRolesErrorDeleting: Se ha producido un problema. No se ha eliminado la función de contenido.
-HandlerCshAlternateCSHTopicFound: Tema CSH alternativo encontrado
-HandlerCshCSHRulesUpdated: Reglas CSH actualizadas
-HandlerCshInvalidAliases: Claves de alias no válidas encontradas en URL CSH
-HandlerCshInvalidCSHRulesFile: Archivo de reglas CSH no válido
-HandlerCshNewCshFile: Cargar nuevo archivo de configuración CSH
-HandlerCshReservedAliasesUsed: Alias reservados utilizados en archivo de configuración CSH
+HandlerCshAlternateCSHTopicFound: Tema de CSH alternativo encontrado
+HandlerCshCSHRulesUpdated: Reglas de CSH actualizadas
+HandlerCshInvalidAliases: Claves de alias no válidas encontradas en URL de CSH
+HandlerCshInvalidCSHRulesFile: Archivo de reglas de CSH no válido
+HandlerCshNewCshFile: Cargar nuevo archivo de configuración de CSH
+HandlerCshReservedAliasesUsed: Alias reservados utilizados en archivo de configuración de CSH
 HandlerCustomError400H2: 400
 HandlerCustomError400H3: Solicitud incorrecta
 HandlerCustomError401H2: 401
@@ -35,7 +35,7 @@ HandlerCustomError403H3: Prohibido
 HandlerCustomError404H2: 404
 HandlerCustomError404H3: No encontrado
 HandlerCustomError405H2: 405
-HandlerCustomError405H3: Método no admitido
+HandlerCustomError405H3: Método no permitido
 HandlerCustomError500H2: 500
 HandlerCustomError500H3: Error interno del servidor
 HandlerFontoDocumentSaved: Documento guardado
@@ -73,11 +73,11 @@ HandlerRolesNoRoleNameFound: No se ha encontrado ningún nombre de función
 HandlerRolesNotEnoughAdminUsersRemaining: No se pueden asignar usuarios
 HandlerRolesSelectedPermissionsLessThenDefault: No se pueden asignar permisos: los permisos seleccionados son menos que el conjunto de permisos predeterminado
 HandlerSearchAllResults: Todos los resultados
-HandlerSearchNoResultsMsgTryFollowing: Nenhum resultado encontrado. Tente o seguinte:
-HandlerSearchNoResultsMsgSpelledCorrectly: Certifique-se de que todas as palavras estão escritas corretamente.
-HandlerSearchNoResultsMsgTryDifferent: Tente palavras-chave diferentes.
-HandlerSearchNoResultsMsgMoreGeneral: Tente palavras-chave mais gerais.
-HandlerSearchNoResultsMsgNoFindProdVer: Não encontrar o seu produto ou versão mais recente? Vá para a Segurança ServicePortal Intel.
+HandlerSearchNoResultsMsgTryFollowing: No se han encontrado resultados. Pruebe lo siguiente:
+HandlerSearchNoResultsMsgSpelledCorrectly: Asegúrese de que todas las palabras estén escritas correctamente.
+HandlerSearchNoResultsMsgTryDifferent: Pruebe con otras palabras clave.
+HandlerSearchNoResultsMsgMoreGeneral: Pruebe con palabras clave más generales.
+HandlerSearchNoResultsMsgNoFindProdVer: ¿No encuentra su producto o versión? Vaya al portal Intel Security ServicePortal.
 HandlerSearchNoResults: Ningún resultado
 HandlerSearchOneResult: Un resultado
 HandlerSitemapFile: Archivo de mapa del sitio
@@ -111,13 +111,13 @@ HandlerUsersCRGroupNameInUse: El nombre de la función de contenido ya se está 
 HandlerUsersCRSetGroupName: Establezca un nombre para este grupo de función de contenido
 HandlerUsersCRUpdated: Grupo de función de contenido actualizado
 HandlerUsersDefineCR: Definir nuevo grupo de función de contenido
-HandlerUsersDeleteSuccess: Usuario eliminado correctamente
+HandlerUsersDeleteSuccess: Se ha eliminado el usuario correctamente
 HandlerUsersEmailError: Error al enviar el correo electrónico de restablecimiento de contraseña
 HandlerUsersInvalidToken: Token no válido
 HandlerUsersNoResetToken: No hay ningún token restablecido
 HandlerUsersNoRoleIdFound: No se ha encontrado ningún ID de función
 HandlerUsersPasswordEmailSent: Correo electrónico de restablecimiento de contraseña enviado
-HandlerUsersRegisterSuccess: Usuario registrado correctamente
+HandlerUsersRegisterSuccess: Se ha registrado el usuario correctamente
 HandlerUsersResetPasswordError: Error al restablecer la contraseña
 HandlerUsersRolesUpdated: Funciones de usuario actualizadas
 HandlerUsersUnableToAssignUserPermissionRole: No se puede asignar la función de permisos de usuario
@@ -125,7 +125,7 @@ HandlerUsersUnknownError: Error desconocido
 HideTOC: Ocultar tabla de contenido
 ImportAddHelperProblemRunningAddHelper: Problema al ejecutar addHelper
 ImportBundlesTooManyTopics num@Int: Se puede publicar un máximo de #{show num} temas. Seleccione menos temas y vuelva a intentarlo.
-ImportElasticAnalyzerError: - Nota: Error del analizador personalizado; véase el registro para obtener detalles. Utilizando analizador predeterminado. 
+ImportElasticAnalyzerError: - Nota: Error del analizador personalizado; véase el registro para obtener detalles. Utilizando el analizador predeterminado. 
 ImportElasticErrorRebuilding: Error al reconstruir el índice; véase el registro para obtener más detalles.
 ImportElasticErrorUpdating: Error al actualizar el índice; véase el registro para obtener más detalles.
 ImportElasticIndexRebuilt x@Text: Índice reconstruido correctamente #{x}
@@ -155,9 +155,9 @@ PublishHowto: Publicar
 ResultsPerPage: Resultados por página
 ResultsPerPageShowFirst: Mostrar
 ResultsPerPageShow: por página
-Search: Buscar en documentación de productos
+Search: Buscar en Documentación de productos
 SearchContent: Buscar en este contenido
-SearchHome: Buscar en documentación de productos
+SearchHome: Buscar en Documentación de productos
 ShowTOC: Mostrar tabla de contenido
 SSOLoginParamError: Se ha producido un error con los parámetros de inicio de sesión de SSO
 SSOLoginTryAgain: Intente volver a iniciar sesión con
@@ -171,8 +171,8 @@ TemplateAddUserCancel: Cancelar
 TemplateAddUserPasswordMessage: La contraseña debe tener 8 caracteres como mínimo e incluir al menos 1 letra mayúscula, 1 letra minúscula, 1 carácter especial y 1 número.
 TemplateAdminArticleManagement: Administración de artículos
 TemplateAdminContentRoleGroups: Grupos de función de contenido
-TemplateAdminCSHConfigFile: Descargar o actualizar archivo de configuración CSH
-TemplateAdminElasticReindex: Regenerar índice de búsqueda
+TemplateAdminCSHConfigFile: Descargar o actualizar archivo de configuración de CSH
+TemplateAdminElasticReindex: Reconstruir índice de búsqueda
 TemplateAdminExportComments: Exportar comentarios
 TemplateAdminExportRatings: Exportar calificaciones
 TemplateAdminManageManuals: Administrar manuales
@@ -205,14 +205,14 @@ TemplateBundlePagePrevious: Anterior
 TemplateBundlePagePrevTopicTooltip: Ir al tema anterior
 TemplateBundlePagePrint: Imprimir
 TemplateBundlePagePrintTooltip: Imprimir tema
-TemplateBundlePagePrivacy: Para proteger su privacidad, no incluya información de contacto en sus comentarios. Revise nuestra política
-TemplateBundlePagePrivacyLast: de privacidad.
-TemplateBundlePageProvideFeedbackCharsLeft: 500 caracteres restantes
+TemplateBundlePagePrivacy: Para proteger su privacidad, no incluya información de contacto en sus comentarios. Revise nuestra
+TemplateBundlePagePrivacyLast: política de privacidad.
+TemplateBundlePageProvideFeedbackCharsLeft: 500 caracteres disponibles
 TemplateBundlePageProvideFeedbackTooltip: Proporcionar comentarios
 TemplateBundlePageSaveAsPDF: Guardar como PDF
 TemplateBundlePageSavePDFTooltip: Guardar como PDF
-TemplateBundlePageSaveSelectedTopic: Guardar tema seleccionado
-TemplateBundlePageSaveSelectedTopicAndSubtopics: Guardar temas y temas secundarios seleccionados
+TemplateBundlePageSaveSelectedTopic: Guardar el tema seleccionado
+TemplateBundlePageSaveSelectedTopicAndSubtopics: Guardar el tema seleccionado y sus temas secundarios
 TemplateBundlePageSeeAlso: Véase también
 TemplateBundlePageSend: Enviar
 TemplateBundlePageSendLink: Enviar
@@ -242,8 +242,8 @@ TemplateDefaultLayoutLinksCareers: Oportunidades de empleo
 TemplateDefaultLayoutLinksContactUs: Contacto
 TemplateDefaultLayoutLinksIntelCorp: © Intel Corporation
 TemplateDefaultLayoutLinksLegalContractsandTerms: Contratos y términos legales
-TemplateDefaultLayoutLinksLegalNotices: Avisos legales  
-TemplateDefaultLayoutLinksPrivacy: Intimidad
+TemplateDefaultLayoutLinksLegalNotices: Aviso legal
+TemplateDefaultLayoutLinksPrivacy: Privacidad
 TemplateDefaultLayoutLinksSiteMap: Mapa del sitio
 TemplateDefaultLayoutLinksWebsiteFeedback: Comentarios acerca del sitio web
 TemplateDefaultLayoutLogout: Cerrar sesión
@@ -266,7 +266,7 @@ TemplateSearchSortbyUpdatedAsc: Fecha de adición - Ascendente
 TemplateSearchSortbyUpdatedDec: Fecha de adición - Descendente
 TemplateSearchSortbyViews: Número de vistas
 TemplatesSearchPageClear: Borrar
-TemplatesSearchPageCurrentResultsFirst: Resultados
+TemplatesSearchPageCurrentResultsFirst: Resultados 
 TemplatesSearchPageCurrentResults: de
 TemplatesSearchPageRefilneResults: Refinar resultados
 TemplatesSearchPageResultUpdated: Actualizado
@@ -278,54 +278,54 @@ TemplateUploadSitemapEnable: Activar mapa del sitio
 TemplateUploadSitemapEnabled: Mapa del sitio activado
 TemplateUploadSitemapEnabledWord: Activado
 TemplateUploadSitemapLegend: Cargar sitemap.xml
-TemplateUploadSitemapStatus sts@Text: El mapa del sitio es #{sts}
+TemplateUploadSitemapStatus sts@Text: El mapa del sitio está #{sts}
 TextPass txt@Text: #{txt}
 Upload: Cargar
 UploadLink: Cargar publicación
 YesodAuthStormPathSSOErrorOccured: Se ha producido un error
 YesodAuthStormPathSSOLoginParamError: Se ha producido un error con los parámetros de inicio de sesión de SSO
-YesodAuthStormPathSSOLoginTryAgain: Intente volver a iniciar sesión con
+YesodAuthStormPathSSOLoginTryAgain: Vuelva a iniciar sesión con
 LoginSite: Iniciar sesión
 LoginSiteEmail: Dirección de correo electrónico
-LoginSiteForgotPassword: Contraseña olvidada
-LoginSiteMessage: Usted ya está conectado
-LoginSiteZD: ZoominDocs Entrar
-TemplateAdminCategoryfile: Archivo XML de la categoría
-TemplateAdminCshCurrent: Reglas actuales de CSH
-TemplateAdminCshDownload: Descargar el archivo de configuración actual de CSH
-TemplateAdminCshRuleContents: Contenido de regla
-TemplateAdminCshRuleName: Nombre de regla
-TemplateAdminCshRulePriority: Prioridad de regla
-TemplateAdminCshUpload: Cargar archivo CSH Config
-TemplateAdminCurrentContentRoleGroups: Grupos de roles de contenido actual
-TemplateAdminDownloadDefaultLanguage: Descargar el archivo de idioma predeterminado actual
-TemplateAdminDownloadcurrentCategory: Descargar el archivo XML de las categorías actuales
+LoginSiteForgotPassword: ¿Ha olvidado su contraseña?
+LoginSiteMessage: Se ha iniciado la sesión
+LoginSiteZD: Inicio de sesión de ZoominDocs
+TemplateAdminCategoryfile: Archivo XML de categorías
+TemplateAdminCshCurrent: Reglas de CSH actuales
+TemplateAdminCshDownload: Descargar archivo de configuración de CSH actual
+TemplateAdminCshRuleContents: Contenido de la regla
+TemplateAdminCshRuleName: Nombre de la regla
+TemplateAdminCshRulePriority: Prioridad de la regla
+TemplateAdminCshUpload: Cargar archivo de configuración de CSH
+TemplateAdminCurrentContentRoleGroups:  Grupos de función de contenido actuales
+TemplateAdminDownloadDefaultLanguage: Descargar archivo de idioma predeterminado actual
+TemplateAdminDownloadcurrentCategory: Descargar archivo XML de categorías actual
 TemplateAdminListGroupCurrentGroups: Grupos actuales
 TemplateAdminListGroupDefineNewGroup: Definir nuevo grupo
-TemplateAdminListRoleAdmin: admin
+TemplateAdminListRoleAdmin: administrador
 TemplateAdminListRoleCurrentRoles: Funciones actuales
 TemplateAdminListRoleDefineNewRole: Definir nueva función
-TemplateAdminListRoleRolesPublic: Public
-TemplateAdminListRoleViewer: visor
+TemplateAdminListRoleRolesPublic : Pública
+TemplateAdminListRoleViewer: lector
 TemplateAdminListUsersAction: Acción
 TemplateAdminListUsersDeleteUser: Eliminar usuario
 TemplateAdminListUsersEditPermissions: Editar permisos
-TemplateAdminListUsersEmail: Email
+TemplateAdminListUsersEmail: Correo electrónico
 TemplateAdminListUsersFullName: Nombre completo
 TemplateAdminListUsersResetPassword: Restablecer contraseña
-TemplateAdminSubjectSchemeDeleteLanguage: Elimina el archivo de idioma
-TemplateAdminSubjectSchemeDescargar: Descargar
+TemplateAdminSubjectSchemeDeleteLanguage: Eliminar archivo de idioma
+TemplateAdminSubjectSchemeDownload: Descargar
 TemplateAdminSubjectSchemeDownloadLanguage: Descargar archivo de idioma
 TemplateAdminSubjectSchemeExistingLocalizations: Localizaciones existentes
 TemplateAdminSubjectSchemeLanguage: Idioma
-TemplateAdminSubjectSchemeLocalizationTitle: Asignatura de la localización del esquema
+TemplateAdminSubjectSchemeLocalizationTitle: Localización de esquema de asunto
 TemplateAdminSubjectSchemeUpdate: Actualizar
 TemplateAdminSubjectSchemeUpdateLanguage: Actualizar archivo de idioma
-TemplateAdminUploadCategoryfile: Cargar archivo de categoría
-TemplateAdminUploadDefaultLanguage: Subir archivo de idioma predeterminado
-TemplateAdminUploadSiteMapFile: Subir archivo de mapa de sitio
-TemplateSubjectSchemeUpload: Subir esquema de asunto
-TemplateSubjectSchemeWarnReindex: NOTA: cargar un nuevo esquema de asunto hará que todo el sitio se vuelva a indexar. Esto puede tomar varios minutos.
-TemplatesSubjectSchemeChooseFile: Elija Archivo (pregunte Vlatko, no en html)
-TemplatesSubjectSchemeDownloadcurrent: Descargue el esquema actual del tema
-TemplatesSubjectSchemeNoFileChosen: No se ha seleccionado ningún archivo
+TemplateAdminUploadCategoryfile: Cargar archivo de categorías
+TemplateAdminUploadDefaultLanguage: Cargar archivo de idioma predeterminado
+TemplateAdminUploadSiteMapFile: Cargar archivo de mapa del sitio
+TemplateSubjectSchemeUpload: Cargar esquema de asunto
+TemplateSubjectSchemeWarnReindex: NOTA: Si se carga un nuevo esquema de asunto, se reindizará todo el sitio. Esta operación puede durar varios minutos.
+TemplatesSubjectSchemeChooseFile: Elegir archivo (ask Vlatko, not in html)
+TemplatesSubjectSchemeDownloadcurrent: Descargar esquema de asunto actual
+TemplatesSubjectSchemeNoFileChosen: No se ha elegido ningún archivo
